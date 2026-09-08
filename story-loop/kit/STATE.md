@@ -11,7 +11,7 @@ is a failing check.
 
 | Cap | Value | Used | What kind of number |
 |---|---|---|---|
-| Premise-writer calls (one per partition cell) | 7 | 0 | budget for M1: six cells, and one spare so that the human sending a cell back at G1 does not need a caps decision. Every M1 row below is sized the same way — one regeneration and no more; a second needs the human's caps row |
+| Premise-writer calls (one per partition cell) | 7 | 6 | budget for M1: six cells, and one spare so that the human sending a cell back at G1 does not need a caps decision. Every M1 row below is sized the same way — one regeneration and no more; a second needs the human's caps row |
 | Premises generated | 28 | 0 | budget for M1: twenty-four, and four more for one regenerated cell |
 | Probe passages | 10 | 0 | budget for M1: six probes for the six cards chosen at step 6, and four more so that one regenerated cell can be probed too. Sized for the send-back G1 offers the human |
 | Premise-judge calls | 16 | 0 | budget for M1: two judges over four batches of six cards is eight calls, two more over the probed six is ten; four more so that a regenerated cell's cards can be judged and then re-judged with their probe. Sized for the send-back G1 offers the human |
