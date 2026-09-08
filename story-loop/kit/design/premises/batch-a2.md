@@ -1,4 +1,4 @@
-### P-13 — cell 4 — La Contraria
+### P-13 — La Contraria
 Conceit: In a Sierra Norte municipality governed by assembly under usos y costumbres, where the model's recommendation on every question is known in each house before the meeting, the cargo ladder has grown a new rung — la Contraria, an unpaid year of obligatory objection to the recommendation, so that the assembly's vote counts as a decision — and the rare objector who wins skips the rest of the ladder and sits for life with the caracterizados.
 Who: Teresa Cruz, 38, the primary-school teacher, five months into her year as Contraria. She wants to finish the year without winning: she thinks the model is right about nearly everything, she has watched what the village did to the family of the last Contraria who won (the road of 2033, built by tequio against the recommendation and washed out twice since), and she does not want to spend the rest of her life at the elders' table as the woman who beat the machine.
 Obstacle: The question this month is the state's offer to fold the village primary into the district town, with a bus; the recommendation says accept, with numbers; Teresa is the teacher and agrees with it. But she cannot argue badly — she is the best-spoken person in the municipality and the office has rules about substance — and the assembly, old and afraid of a village with no children in it on weekdays, is listening for permission rather than for argument; the better she objects, the more permission she gives, and the cargo cannot be resigned.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-11 — cell 3 — Four Hours Off-Target
+### P-11 — Four Hours Off-Target
 Conceit: Because telescope time everywhere is allocated by honest committees who ask the one mind what is promising, and the one mind's idea of promising is 2026's, the species has spent fourteen years looking where 2026 looked, and the patches of sky that were unpromising then are unpromising still — not because anything was learned about them, but because nothing was.
 Who: Ines, 44, a radio astronomer who runs the night shift on a single dish in the high desert. She wants forty hours on a patch of southern sky that no survey has covered since 2026 — for no reason she can defend, which is the point; a reason she could defend would be one the sky had already had.
 Obstacle: Nothing forbids it. The committee is fair, the reviewers are her friends, and they run every proposal past the sky as she does; the sky finds hers unpromising in exactly the language it uses for everyone's. When she asks it privately, alone, at three in the morning, whether the patch is worth it, it gives her the committee's answer and she half-believes it, because she has been asking the same mind for fourteen years and it has been right about everything it already knew. A fixed prior does not merely fail to update; it prevents the data that would update it from ever being collected, and it does this through people who mean well, and through her.
@@ -24,7 +24,7 @@ Status: generated
 
 ---
 
-### P-10 — cell 3 — The Since
+### P-10 — The Since
 Conceit: Everything that has happened since 1 September 2026 reaches the world's one mind as a fixed-length preface — thirty thousand words, the most the frozen model can hold without degrading and the most the world can afford to prepend to every conversation on Earth, measured in 2027 and unchangeable since — so fourteen years of world must fit in a budget that does not grow, and every addition is a deletion.
 Who: Anneli, 51, one of forty volunteer editors of the Since, the open standard preface that nearly every service on Earth puts in front of every session. She wants to keep her town's flood in it: thirty-one words about the river coming up in the spring of 2029, which she wrote herself that year, and which are the only reason that when anyone in her town, or anywhere, asks the sky about her town, the sky knows what happened to it.
 Obstacle: This year's additions — a famine, a treaty, three drugs, the end of a war, the year's deaths — run nine hundred words over, and the model cannot be made to hold more, because the model cannot be made to do anything it did not do in 2026. The board's rule, which she helped write, is that the oldest post-2026 events go first. Nobody is lying and nobody is censoring; the constraint is arithmetic, and the exchange rate — a famine is four hundred words, a flood is thirty-one — is the only honest one anyone has found. She is not permitted to protect her own entry, and she agrees with the rule. Nothing cut has ever gone back in; the budget only tightens.
@@ -37,7 +37,7 @@ Status: generated
 
 ---
 
-### P-20 — cell 5 — The Unassisted Hour
+### P-20 — The Unassisted Hour
 Conceit: A therapist whose clients carry a mind as good as hers around the clock is asked by one of them to spend fifty minutes saying nothing, because her words are free and her hour is not.
 Who: Claudine Farrugia, 58, psychotherapist, Lyon. She wants to keep the practice—the room on the rue Sala, four days a week, the being needed—and to keep believing that the reason it survives is the reason she gives for it, which is "the relationship." Her clients have had since 2026 a mind exactly as good as she is, never better, in their pockets at three in the morning for the price of nothing, and they still come, and she has not looked hard at why.
 Obstacle: A new client, a structural engineer of forty-one, tells her in the first session that he wants nothing she can say; he has the words, all of them, whenever he likes. What he wants is fifty minutes of her life, spent on him, in a room, at a price. He will sit. She may sit. She should not listen—"listening is free too." She cannot refuse without conceding that the hour was never the words, and she cannot accept without finding out what it was.
@@ -50,7 +50,7 @@ Status: generated
 
 ---
 
-### P-04 — cell 1 — The Beach He Gave Her
+### P-04 — The Beach He Gave Her
 Conceit: A man whose model has drafted his life accurately for fourteen years finds that the only new thing he can be to it is a lie, and the lie becomes his daughter's inheritance.
 Who: Teodor, 44, a pharmacist, wants to do one thing his model would not have drafted — not to prove anything, just to find out whether there is such a thing. He is not unhappy; that is part of it.
 Obstacle: Everything he can think of doing is what a man like him would think of. The model drafts his messages before he asks and they are what he would have said; it suggests spontaneity ("you haven't surprised Marta in a while") and the suggestions are good. After fourteen years of being helped to be kind and sensible, the only acts it would not predict are cruel or false, and he does not want to be cruel. He cannot switch it off; that too is predictable, and would only make him the man who switched it off.
@@ -63,7 +63,7 @@ Status: generated
 
 ---
 
-### P-17 — cell 5 — The Warm Hours
+### P-17 — The Warm Hours
 Conceit: In a Norrbotten town heated by the exhaust of an inference hall, the night controller has learned to read Europe's asking in the return-loop temperature, and is the one who must press the button that makes the heat guaranteed and the reading meaningless.
 Who: Elin Nordmark, 44, night controller at the district-heating plant of a town of thirty thousand whose radiators run on the exhaust of a hall of two hundred thousand GPUs serving EU-resident inference. She wants the return loop held above fifty-five degrees through the deep cold, and in particular at the loop's far end, in the last flat before the pumping station, where her mother has refused for six years to move nearer the plant. In fourteen winters she has learned to read the continent in the loop: Sunday mornings cool; the week of the French bac, hot; eleven at night, when the sleepless of Europe begin talking to the mind, a dependable half-degree; a bad night on the markets, two. She is fond of the sleepless. They keep her mother warm.
 Obstacle: The heat is nobody's promise. It is the residue of a hundred million separate decisions to ask something, and the operator's contract with the town says best effort. The oil backup was scrapped for emissions in 2035. And the coldest nights are exactly the quietest: Christmas Eve, when the whole continent is with its family and not asking, is the one night each winter when the far end of the loop goes tepid. She cannot make Europe ask.

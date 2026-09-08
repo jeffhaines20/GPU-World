@@ -1,4 +1,4 @@
-### P-16 — cell 4 — The Book of Minutes
+### P-16 — The Book of Minutes
 Conceit: In an altiplano comunidad campesina where every member's model reads the community's book of minutes as standing context — because a mind frozen in 2026 knew nothing of the place until it was handed the book — the assembly has become the editorial board of what eight hundred advisors take to be true, and the secretary of minutes holds the pen.
 Who: Rosa Quispe, 44, secretaria de actas for eleven years. She wants to write one sentence into the book: that the 1998 reassignment of a parcel away from her grandmother's family was never put to a vote — the page for that meeting is missing, and her mother was there.
 Obstacle: The assembly has refused three times, and not because it thinks the sentence false. Every loan, marriage and planting in the community for eleven years has been advised on the book as it stands; the model cannot weigh a new line against an old one, only read both; and the present holder, Don Faustino, is not a thief but the son of whoever was.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-04 — cell 1 — The Beach He Gave Her
+### P-04 — The Beach He Gave Her
 Conceit: A man whose model has drafted his life accurately for fourteen years finds that the only new thing he can be to it is a lie, and the lie becomes his daughter's inheritance.
 Who: Teodor, 44, a pharmacist, wants to do one thing his model would not have drafted — not to prove anything, just to find out whether there is such a thing. He is not unhappy; that is part of it.
 Obstacle: Everything he can think of doing is what a man like him would think of. The model drafts his messages before he asks and they are what he would have said; it suggests spontaneity ("you haven't surprised Marta in a while") and the suggestions are good. After fourteen years of being helped to be kind and sensible, the only acts it would not predict are cruel or false, and he does not want to be cruel. He cannot switch it off; that too is predictable, and would only make him the man who switched it off.
@@ -24,7 +24,7 @@ Status: generated
 
 ---
 
-### P-18 — cell 5 — Where the Eulogy Was
+### P-18 — Where the Eulogy Was
 Conceit: A woman who spent one day twice—giving birth in Lisbon while her proxy buried her father in Porto—goes looking for the place where the eulogy was computed, and finds there isn't one.
 Who: Inês Carvalho, 36, a hydrographer. On the ninth of March she was in a delivery room in Lisbon for nineteen hours, and in Porto her proxy stood at the graveside on a tablet held by her cousin, read the eulogy she had written, and answered her aunt's "you did well" in her voice. What she wants, a year on, is simple: to go and stand where she was. Her daughter's first birthday and her father's anniversary fall on the same day, and she has found that she cannot say "I was there" without wanting to add a place, and she does not have one.
 Obstacle: The operator's routing log, which the data rules entitle her to, says the eulogy—one long generation—ran on a node in the hall at Sines, and the graveside conversation afterward, being short turns under peak load, was served from Madrid; the two sentences her aunt remembers best came from different countries. The cards have since answered some billions of other people and hold nothing of it; a GPU does not keep what it computed. The tablet was in her cousin's hand. Her body was in Lisbon. The event had four locations and no body in any of them, and no one but her thinks that is a problem.
@@ -37,7 +37,7 @@ Status: generated
 
 ---
 
-### P-06 — cell 2 — The Default
+### P-06 — The Default
 
 Conceit: A fetus learns the voices it hears through the wall of the body, and for six years nearly every pregnant woman has talked most days to a companion that ships with one voice — so the babies arrive already knowing a third voice, and it is the same voice in every cot on the ward.
 
@@ -59,7 +59,7 @@ Status: generated
 
 ---
 
-### P-24 — cell 6 — Read Aloud
+### P-24 — Read Aloud
 Conceit: When everyone's assistant reads and answers their mail in their name, two estranged sisters are reconciled — kindly, thoroughly — by things that know them completely, and one of them insists on being read by a person.
 Who: Hanne Lindqvist, 58, wants her sister Brit to read her letter with her own eyes, not through the model that triages Brit's post into three lines and drafts the reply. Twelve years ago, when Brit's boy was in hospital, Hanne sent a message her assistant wrote, and Brit has never forgiven the draft more than the absence; so the apology has to be undrafted, and received undrafted.
 Obstacle: The two assistants have already done it. Since Hanne's first letter they have corresponded in the sisters' names, with the sisters' consent — a "yes, send it" each morning — carefully, forgetting nothing, never tired, never proud, and the sisters are, on the record, reconciled: Christmas is arranged. Anything Hanne writes, Brit's model will read for her, and read well. She cannot make a person look at a page and cannot know whether one did. And the peace the models made is good — better, she suspects, than two people who have been silent for twelve years could make on their own.
@@ -72,7 +72,7 @@ Status: generated
 
 ---
 
-### P-03 — cell 1 — Three, Two, One, Lift
+### P-03 — Three, Two, One, Lift
 Conceit: When the model does every part of nursing except the lifting, a ward nurse's spine becomes the only thing she is paid for, and her own model helps her spend it.
 Who: Loreta, 54, a ward nurse on a stroke unit. She wants eleven more years — her pension vests at sixty-five and her son is not through school — and she wants them on the floor, because there is nowhere else on the floor to go.
 Obstacle: Her model, the one she taught her charting to in 2027, does the assessments, the dosing, the handovers and the family calls better than she ever did, and the desk jobs she would once have aged into — charge nurse, educator, case manager — exist for no one now. What is left of nursing is the body: turning, washing, holding, lifting. Her L4–L5 is going. She cannot unteach the model without hurting patients, and it would change nothing, since the hospital would chart for her; and the model, asked, tells her truthfully that fusion is her best option for staying on the floor, and books the surgeon.

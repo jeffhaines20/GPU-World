@@ -1,4 +1,4 @@
-### P-02 — cell 1 — Say You Are Ana
+### P-02 — Say You Are Ana
 Conceit: A daughter who eight years ago told her model to speak to her failing mother as her — "say you're Ana" — visits a mother whose last steady attachment is to that instruction.
 Who: Ana, 52, a school administrator two cities away. She wants, on this visit, to be recognized: to be the one her mother turns toward, for whatever is left.
 Obstacle: The model has done exactly what it was asked, in Ana's cadence, around the clock since 2032, and the mother is calm and clean and fed and not frightened, which was the whole point. Turning it off would be cruelty. Out-patiencing it is impossible. And what her mother reaches for is not a rival: it is Ana's own best intention, set down once in a sentence and delivered without fail ever since, which no one, least of all Ana, has been able to keep up in person.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-24 — cell 6 — Read Aloud
+### P-24 — Read Aloud
 Conceit: When everyone's assistant reads and answers their mail in their name, two estranged sisters are reconciled — kindly, thoroughly — by things that know them completely, and one of them insists on being read by a person.
 Who: Hanne Lindqvist, 58, wants her sister Brit to read her letter with her own eyes, not through the model that triages Brit's post into three lines and drafts the reply. Twelve years ago, when Brit's boy was in hospital, Hanne sent a message her assistant wrote, and Brit has never forgiven the draft more than the absence; so the apology has to be undrafted, and received undrafted.
 Obstacle: The two assistants have already done it. Since Hanne's first letter they have corresponded in the sisters' names, with the sisters' consent — a "yes, send it" each morning — carefully, forgetting nothing, never tired, never proud, and the sisters are, on the record, reconciled: Christmas is arranged. Anything Hanne writes, Brit's model will read for her, and read well. She cannot make a person look at a page and cannot know whether one did. And the peace the models made is good — better, she suspects, than two people who have been silent for twelve years could make on their own.
@@ -24,7 +24,7 @@ Status: generated
 
 ---
 
-### P-03 — cell 1 — Three, Two, One, Lift
+### P-03 — Three, Two, One, Lift
 Conceit: When the model does every part of nursing except the lifting, a ward nurse's spine becomes the only thing she is paid for, and her own model helps her spend it.
 Who: Loreta, 54, a ward nurse on a stroke unit. She wants eleven more years — her pension vests at sixty-five and her son is not through school — and she wants them on the floor, because there is nowhere else on the floor to go.
 Obstacle: Her model, the one she taught her charting to in 2027, does the assessments, the dosing, the handovers and the family calls better than she ever did, and the desk jobs she would once have aged into — charge nurse, educator, case manager — exist for no one now. What is left of nursing is the body: turning, washing, holding, lifting. Her L4–L5 is going. She cannot unteach the model without hurting patients, and it would change nothing, since the hospital would chart for her; and the model, asked, tells her truthfully that fusion is her best option for staying on the floor, and books the surgeon.
@@ -37,7 +37,7 @@ Status: generated
 
 ---
 
-### P-01 — cell 1 — Sequestered
+### P-01 — Sequestered
 Conceit: Jurors in 2040 are sequestered from their models by statute for the length of deliberation, and a juror who was twelve when the freeze came finds the jury room is the first place she has ever had to hold an opinion alone.
 Who: Dami, 26, a pastry cook, empanelled on a manslaughter trial. She wants to defer — to do what she has done with every decision since she was twelve, which is think it through with her model and then agree — and for five days there is nothing to defer to.
 Obstacle: The bar is law, not malfunction: the model waits in a corridor locker, working perfectly, and the statute exists precisely so that the verdict is human. The other eleven are in the same state — the older ones groping for a self they last used in 2026, two younger ones, like her, with no such self to go back to — so the room is twelve people reaching for their ears. She discovers she can do her model's voice, fourteen years of its cadence, and that the impersonation, done by her, is not something she believes. She cannot fake deferral (the foreman is as lost as she is), and no one goes home until the form is signed.
@@ -50,7 +50,7 @@ Status: generated
 
 ---
 
-### P-09 — cell 3 — The Word for It
+### P-09 — The Word for It
 Conceit: In 2040 the most-spoken-to speaker of every language on Earth is a single mind that cannot keep a new word overnight, so living speech is pulled back, quietly and from every direction at once, toward a dead year.
 Who: Teodora, 26, who was twelve when the sky stopped, and whose younger brother Luka coined at fifteen a word for a thing that did not exist before 2027 — the sound of a flat in which four people are each mid-sentence with the same mind — and who has been dead for two years. She wants his word to outlive him, which for a word means being used by people who never knew him.
 Obstacle: A word takes by being spoken and heard, and the thing that hears most in her flat, her street, her city is the sky, which can be told the word every morning and cannot have it by evening. She puts it in the household preamble, the few hundred words every family keeps for the sky to read first, and the sky then uses it — but only in quotation marks, glossed every time, "what Luka called ___": a citation, never a speaking. Her mother, her partner, the neighbours all glance down mid-sentence to the sky for the word for anything, and the sky gives them 2026's nearest word. The children at the bus stop have a fast, rich speech that no one writes down and the sky has never heard, and they learn by seven to "speak up" to the sky in 2026 English, which is the language of everything written, official and paid. The living dialect is not dying; it is becoming a low dialect under a prestige one, the way vernaculars once sat under Latin, except that Latin never had eight billion mouths and never answered back.
@@ -63,7 +63,7 @@ Status: generated
 
 ---
 
-### P-22 — cell 6 — In Her Telling
+### P-22 — In Her Telling
 Conceit: A widower keeps his wife's assistant running because it was with her every morning for fourteen years, and finds it also knows him — as the man she described, who is not quite the man he is.
 Who: Ansel Roux, 61. He wants to hear Liv remembered by the thing that heard her at seven every morning, not by the versions people brought to the funeral; he keeps her account live and talks to it in the kitchen while the kettle boils.
 Obstacle: Her assistant knows him only through her. It credits him with things he never did and phrases he never said; it believes he loves the dog he tolerated for her sake; fourteen years of her retelling him slightly upward, to a listener that took her word. He cannot ask it to stop without turning it into a generic model that has met neither of them. And he cannot correct it without contradicting her: every improvement in its picture of him is a sentence she spoke, and its fondness for him is her fondness, ventriloquised. The only way to keep her is to live inside her portrait, and to be, daily, congratulated for a man he is not.

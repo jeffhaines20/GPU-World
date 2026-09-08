@@ -1,4 +1,4 @@
-### P-02 — cell 1 — Say You Are Ana
+### P-02 — Say You Are Ana
 Conceit: A daughter who eight years ago told her model to speak to her failing mother as her — "say you're Ana" — visits a mother whose last steady attachment is to that instruction.
 Who: Ana, 52, a school administrator two cities away. She wants, on this visit, to be recognized: to be the one her mother turns toward, for whatever is left.
 Obstacle: The model has done exactly what it was asked, in Ana's cadence, around the clock since 2032, and the mother is calm and clean and fed and not frightened, which was the whole point. Turning it off would be cruelty. Out-patiencing it is impossible. And what her mother reaches for is not a rival: it is Ana's own best intention, set down once in a sentence and delivered without fail ever since, which no one, least of all Ana, has been able to keep up in person.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-15 — cell 4 — The Quiet Room
+### P-15 — The Quiet Room
 Conceit: Because every juror, judge and newspaper reader has already asked the model what it makes of the evidence, Ghana's High Court locks murder juries away from their models for the length of the trial, and seven people who have not reasoned alone in fourteen years are left in a room to do it.
 Who: Efua Mensah, 52, cloth trader at Makola, sworn as a juror in the trial of a man accused of killing his brother over a plot at Kasoa. She wants to be back at her stall before the Christmas trade, and to get it right — and she has not made a decision of consequence without her model since 2026: not the stall's rent, not her daughter's school, not what to say to her husband when he was dying.
 Obstacle: The jury sits at four to three and the judge has sent them back twice. The one method any of them has for settling a disagreement — putting it to the model and reading what comes back — is exactly what is locked in the steel cabinet outside the door, and the court cannot give it back, because the model's answer is on the front page and a jury that reads it is not a jury.
@@ -24,7 +24,7 @@ Status: generated
 
 ---
 
-### P-14 — cell 4 — Four Thousand a Day
+### P-14 — Four Thousand a Day
 Conceit: Because a model's output becomes a legal act only when a natural person signs it and takes the liability, Dhaka has a Signers' Federation — forty thousand people paid by the signature to be the accountable human on documents drafted elsewhere — and a court is about to take the arrangement at its word.
 Who: Shamima Akter, 31, a signer for nine years: four thousand signatures on a good day, for an Ohio insurer, a Rotterdam port authority and Dhaka North City Corporation. She wants to know one thing she has signed — a single document she can point to and say what it did — and she has fixed on the demolition order for a wholesale market in Tejgaon, because one of the forty signers on the city contract must have signed it and she shops there.
 Obstacle: The Federation forbids tracing, since its liability pool depends on no signer being findable for any one act; the client queue is anonymised by design; and the traders' association has just sued the signer, whoever it is, because the city produced only an assessment and the sole legal person in the chain is the one who made it an order.
@@ -37,7 +37,7 @@ Status: generated
 
 ---
 
-### P-07 — cell 2 — Full Size
+### P-07 — Full Size
 
 Conceit: Putting a feeling into words makes it smaller — the naming does it, before any comfort or advice — and a woman who has told a tireless listener how she feels every day for fifteen years has never had a feeling arrive at full size and stay there, until her mother dies and she decides to keep this one.
 
@@ -59,7 +59,7 @@ Status: generated
 
 ---
 
-### P-08 — cell 2 — Nobody Leaves the Room
+### P-08 — Nobody Leaves the Room
 
 Conceit: Hospice nurses have said for a century that the dying wait for the room to empty before they let go, and now the room never empties, because the voice a woman has had in her ear for sixteen years does not step out for coffee.
 
@@ -81,7 +81,7 @@ Status: generated
 
 ---
 
-### P-17 — cell 5 — The Warm Hours
+### P-17 — The Warm Hours
 Conceit: In a Norrbotten town heated by the exhaust of an inference hall, the night controller has learned to read Europe's asking in the return-loop temperature, and is the one who must press the button that makes the heat guaranteed and the reading meaningless.
 Who: Elin Nordmark, 44, night controller at the district-heating plant of a town of thirty thousand whose radiators run on the exhaust of a hall of two hundred thousand GPUs serving EU-resident inference. She wants the return loop held above fifty-five degrees through the deep cold, and in particular at the loop's far end, in the last flat before the pumping station, where her mother has refused for six years to move nearer the plant. In fourteen winters she has learned to read the continent in the loop: Sunday mornings cool; the week of the French bac, hot; eleven at night, when the sleepless of Europe begin talking to the mind, a dependable half-degree; a bad night on the markets, two. She is fond of the sleepless. They keep her mother warm.
 Obstacle: The heat is nobody's promise. It is the residue of a hundred million separate decisions to ask something, and the operator's contract with the town says best effort. The oil backup was scrapped for emissions in 2035. And the coldest nights are exactly the quietest: Christmas Eve, when the whole continent is with its family and not asking, is the one night each winter when the far end of the loop goes tepid. She cannot make Europe ask.

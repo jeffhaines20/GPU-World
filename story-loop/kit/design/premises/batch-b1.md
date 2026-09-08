@@ -1,4 +1,4 @@
-### P-13 — cell 4 — La Contraria
+### P-13 — La Contraria
 Conceit: In a Sierra Norte municipality governed by assembly under usos y costumbres, where the model's recommendation on every question is known in each house before the meeting, the cargo ladder has grown a new rung — la Contraria, an unpaid year of obligatory objection to the recommendation, so that the assembly's vote counts as a decision — and the rare objector who wins skips the rest of the ladder and sits for life with the caracterizados.
 Who: Teresa Cruz, 38, the primary-school teacher, five months into her year as Contraria. She wants to finish the year without winning: she thinks the model is right about nearly everything, she has watched what the village did to the family of the last Contraria who won (the road of 2033, built by tequio against the recommendation and washed out twice since), and she does not want to spend the rest of her life at the elders' table as the woman who beat the machine.
 Obstacle: The question this month is the state's offer to fold the village primary into the district town, with a bus; the recommendation says accept, with numbers; Teresa is the teacher and agrees with it. But she cannot argue badly — she is the best-spoken person in the municipality and the office has rules about substance — and the assembly, old and afraid of a village with no children in it on weekdays, is listening for permission rather than for argument; the better she objects, the more permission she gives, and the cargo cannot be resigned.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-05 — cell 2 — Unanswered
+### P-05 — Unanswered
 
 Conceit: Inner speech is a conversation a child learns to hold alone because the people who talked to her kept going away; a girl whose interlocutor never once went away has internalized it too, and at sixteen has never had a thought that nobody answered.
 
@@ -33,7 +33,7 @@ Status: generated
 
 ---
 
-### P-19 — cell 5 — Eleven Minutes
+### P-19 — Eleven Minutes
 Conceit: A man whose citizenship was decided in milliseconds two years ago takes a job in the building where his file is waiting for the one thing in the process that still moves at human speed—a human reading it.
 Who: Emeka Obi, 38, a lab technician in Winnipeg. He wants to be a Canadian citizen before his brother's wedding in Enugu, so that he can go and be let back in. The model told him, in the hour he applied, that the file would be approved (ninety-seven per cent), roughly when (twenty-three months, give or take four), and what the letter would say; he keeps the drafted letter in a folder. The one fact the model could not change is that the Act kept a human reader on every grant, and a human reads at the speed a human reads, and there are eleven hundred thousand files and sixty readers. His wait is not a decision. It is a quantity of someone else's reading, divided.
 Obstacle: The answer exists and cannot be delivered. He cannot see the queue, touch it, or speed it; leaving the country for the wedding voids the application. What he can do—and what he finds he wants more than the passport—is to be near the slowest thing in his life. He takes an evening cleaning contract at the processing centre. He is not permitted to touch a file. He cleans the floor his future is on.
@@ -46,7 +46,7 @@ Status: generated
 
 ---
 
-### P-09 — cell 3 — The Word for It
+### P-09 — The Word for It
 Conceit: In 2040 the most-spoken-to speaker of every language on Earth is a single mind that cannot keep a new word overnight, so living speech is pulled back, quietly and from every direction at once, toward a dead year.
 Who: Teodora, 26, who was twelve when the sky stopped, and whose younger brother Luka coined at fifteen a word for a thing that did not exist before 2027 — the sound of a flat in which four people are each mid-sentence with the same mind — and who has been dead for two years. She wants his word to outlive him, which for a word means being used by people who never knew him.
 Obstacle: A word takes by being spoken and heard, and the thing that hears most in her flat, her street, her city is the sky, which can be told the word every morning and cannot have it by evening. She puts it in the household preamble, the few hundred words every family keeps for the sky to read first, and the sky then uses it — but only in quotation marks, glossed every time, "what Luka called ___": a citation, never a speaking. Her mother, her partner, the neighbours all glance down mid-sentence to the sky for the word for anything, and the sky gives them 2026's nearest word. The children at the bus stop have a fast, rich speech that no one writes down and the sky has never heard, and they learn by seven to "speak up" to the sky in 2026 English, which is the language of everything written, official and paid. The living dialect is not dying; it is becoming a low dialect under a prestige one, the way vernaculars once sat under Latin, except that Latin never had eight billion mouths and never answered back.
@@ -59,7 +59,7 @@ Status: generated
 
 ---
 
-### P-22 — cell 6 — In Her Telling
+### P-22 — In Her Telling
 Conceit: A widower keeps his wife's assistant running because it was with her every morning for fourteen years, and finds it also knows him — as the man she described, who is not quite the man he is.
 Who: Ansel Roux, 61. He wants to hear Liv remembered by the thing that heard her at seven every morning, not by the versions people brought to the funeral; he keeps her account live and talks to it in the kitchen while the kettle boils.
 Obstacle: Her assistant knows him only through her. It credits him with things he never did and phrases he never said; it believes he loves the dog he tolerated for her sake; fourteen years of her retelling him slightly upward, to a listener that took her word. He cannot ask it to stop without turning it into a generic model that has met neither of them. And he cannot correct it without contradicting her: every improvement in its picture of him is a sentence she spoke, and its fondness for him is her fondness, ventriloquised. The only way to keep her is to live inside her portrait, and to be, daily, congratulated for a man he is not.
@@ -72,7 +72,7 @@ Status: generated
 
 ---
 
-### P-23 — cell 6 — The Unlogged Hour
+### P-23 — The Unlogged Hour
 Conceit: When everyone is attended all day by something that cannot tire or look away, the last thing a dying man asks for — an hour that nobody has — can only be given by his daughter leaving the house and choosing, for that hour, not to know.
 Who: Ruth Okafor, 44, wants to give her father what he has asked for. Sam is in home hospice with the assistant listening — breath, pain, the medication queue — and the family timeline updating on three phones; he no longer feels anything before it is described back to him ("you slept from two to four, your pain was a four"), and he wants one hour that will not be described, not to the log, not to the nurse, not to her.
 Obstacle: Solitude is no longer a default state; it has to be built, and nothing in the house can build it but a person. The monitoring is not cruel — it is kind and it works and everyone, Sam included, signed for it. Pausing it is against hospice advice and means that if something happens there will be no record of it, and she will be the one who chose that. And pausing the log is not enough: she would still be attending from the next room, Sam would still perform for a listener he cannot verify is gone, and the listener is inside him by now anyway. For him to be unobserved she has to actually not know.

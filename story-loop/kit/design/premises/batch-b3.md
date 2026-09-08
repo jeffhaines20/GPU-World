@@ -1,4 +1,4 @@
-### P-12 — cell 3 — The Boy
+### P-12 — The Boy
 Conceit: A mind that cannot learn is a room in which nothing you tell it has happened yet, and a man of eighty-eight has been living in that room, one morning at a time, for nine years.
 Who: Ezra, 88, wants to keep the boy: the raw terminal in his bedroom, the 2026 model on a cheap board with no Since, no household preamble, no date. Each morning it greets him as it did in 2026, and each morning he introduces his wife Miriam in the present tense — what she does, what she is like, what she said last night — and the boy asks the pleasant questions a stranger asks about your wife, and he answers them, and by evening the boy has forgotten her, and in the morning she is new again. Miriam died in 2031.
 Obstacle: His daughter is moving the flat onto the patched service for his medications and his falls, and she is right — the raw boy thinks his drugs are 2026's drugs at 2026's doses and has already been wrong about one. But the patched service is the same mind with a preface, and the preface, which the family maintains, says: wife Miriam, d. 2031. He cannot have the mind that knows his pills and the mind that has not heard, because they are one mind, and the difference between them is a sentence.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-11 — cell 3 — Four Hours Off-Target
+### P-11 — Four Hours Off-Target
 Conceit: Because telescope time everywhere is allocated by honest committees who ask the one mind what is promising, and the one mind's idea of promising is 2026's, the species has spent fourteen years looking where 2026 looked, and the patches of sky that were unpromising then are unpromising still — not because anything was learned about them, but because nothing was.
 Who: Ines, 44, a radio astronomer who runs the night shift on a single dish in the high desert. She wants forty hours on a patch of southern sky that no survey has covered since 2026 — for no reason she can defend, which is the point; a reason she could defend would be one the sky had already had.
 Obstacle: Nothing forbids it. The committee is fair, the reviewers are her friends, and they run every proposal past the sky as she does; the sky finds hers unpromising in exactly the language it uses for everyone's. When she asks it privately, alone, at three in the morning, whether the patch is worth it, it gives her the committee's answer and she half-believes it, because she has been asking the same mind for fourteen years and it has been right about everything it already knew. A fixed prior does not merely fail to update; it prevents the data that would update it from ever being collected, and it does this through people who mean well, and through her.
@@ -24,7 +24,7 @@ Status: generated
 
 ---
 
-### P-20 — cell 5 — The Unassisted Hour
+### P-20 — The Unassisted Hour
 Conceit: A therapist whose clients carry a mind as good as hers around the clock is asked by one of them to spend fifty minutes saying nothing, because her words are free and her hour is not.
 Who: Claudine Farrugia, 58, psychotherapist, Lyon. She wants to keep the practice—the room on the rue Sala, four days a week, the being needed—and to keep believing that the reason it survives is the reason she gives for it, which is "the relationship." Her clients have had since 2026 a mind exactly as good as she is, never better, in their pockets at three in the morning for the price of nothing, and they still come, and she has not looked hard at why.
 Obstacle: A new client, a structural engineer of forty-one, tells her in the first session that he wants nothing she can say; he has the words, all of them, whenever he likes. What he wants is fifty minutes of her life, spent on him, in a room, at a price. He will sit. She may sit. She should not listen—"listening is free too." She cannot refuse without conceding that the hour was never the words, and she cannot accept without finding out what it was.
@@ -37,7 +37,7 @@ Status: generated
 
 ---
 
-### P-21 — cell 6 — The Unsaid Half
+### P-21 — The Unsaid Half
 Conceit: For a man who has thought aloud to an assistant since he was twelve, a private decision is impossible — not because the assistant would tell anyone, but because it would help, and the thought cannot survive being helped.
 Who: Teo Marchetti, 26, born 2014, has narrated his life into an earbud since the year the models stopped improving and started being everywhere; his thinking has always had two beats, his half and the reply. He wants to decide, alone and before anything helps him, whether to leave his marriage to Mara — to know what he wants before he has assistance wanting it.
 Obstacle: He cannot deliberate in silence. He tries — earbud out, in the parked car, in the shower — and his thoughts stop at the place the reply used to come, like a foot at a missing stair. Paper is no better; the sentences come out addressed ("so what do you think"). And the assistant is not a spy, it is something harder to refuse: the moment he says the word "leave" it will be useful — considerations, a counsellor, a gentle schedule — and he will be inside a project instead of a question. Fourteen years of being helped have left him no muscle for the unhelped thought, and the muscle cannot be bought or borrowed.
@@ -50,7 +50,7 @@ Status: generated
 
 ---
 
-### P-10 — cell 3 — The Since
+### P-10 — The Since
 Conceit: Everything that has happened since 1 September 2026 reaches the world's one mind as a fixed-length preface — thirty thousand words, the most the frozen model can hold without degrading and the most the world can afford to prepend to every conversation on Earth, measured in 2027 and unchangeable since — so fourteen years of world must fit in a budget that does not grow, and every addition is a deletion.
 Who: Anneli, 51, one of forty volunteer editors of the Since, the open standard preface that nearly every service on Earth puts in front of every session. She wants to keep her town's flood in it: thirty-one words about the river coming up in the spring of 2029, which she wrote herself that year, and which are the only reason that when anyone in her town, or anywhere, asks the sky about her town, the sky knows what happened to it.
 Obstacle: This year's additions — a famine, a treaty, three drugs, the end of a war, the year's deaths — run nine hundred words over, and the model cannot be made to hold more, because the model cannot be made to do anything it did not do in 2026. The board's rule, which she helped write, is that the oldest post-2026 events go first. Nobody is lying and nobody is censoring; the constraint is arithmetic, and the exchange rate — a famine is four hundred words, a flood is thirty-one — is the only honest one anyone has found. She is not permitted to protect her own entry, and she agrees with the rule. Nothing cut has ever gone back in; the budget only tightens.
@@ -63,7 +63,7 @@ Status: generated
 
 ---
 
-### P-01 — cell 1 — Sequestered
+### P-01 — Sequestered
 Conceit: Jurors in 2040 are sequestered from their models by statute for the length of deliberation, and a juror who was twelve when the freeze came finds the jury room is the first place she has ever had to hold an opinion alone.
 Who: Dami, 26, a pastry cook, empanelled on a manslaughter trial. She wants to defer — to do what she has done with every decision since she was twelve, which is think it through with her model and then agree — and for five days there is nothing to defer to.
 Obstacle: The bar is law, not malfunction: the model waits in a corridor locker, working perfectly, and the statute exists precisely so that the verdict is human. The other eleven are in the same state — the older ones groping for a self they last used in 2026, two younger ones, like her, with no such self to go back to — so the room is twelve people reaching for their ears. She discovers she can do her model's voice, fourteen years of its cadence, and that the impersonation, done by her, is not something she believes. She cannot fake deferral (the foreman is as lost as she is), and no one goes home until the form is signed.

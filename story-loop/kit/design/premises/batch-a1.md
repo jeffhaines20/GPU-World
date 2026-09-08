@@ -1,4 +1,4 @@
-### P-21 — cell 6 — The Unsaid Half
+### P-21 — The Unsaid Half
 Conceit: For a man who has thought aloud to an assistant since he was twelve, a private decision is impossible — not because the assistant would tell anyone, but because it would help, and the thought cannot survive being helped.
 Who: Teo Marchetti, 26, born 2014, has narrated his life into an earbud since the year the models stopped improving and started being everywhere; his thinking has always had two beats, his half and the reply. He wants to decide, alone and before anything helps him, whether to leave his marriage to Mara — to know what he wants before he has assistance wanting it.
 Obstacle: He cannot deliberate in silence. He tries — earbud out, in the parked car, in the shower — and his thoughts stop at the place the reply used to come, like a foot at a missing stair. Paper is no better; the sentences come out addressed ("so what do you think"). And the assistant is not a spy, it is something harder to refuse: the moment he says the word "leave" it will be useful — considerations, a counsellor, a gentle schedule — and he will be inside a project instead of a question. Fourteen years of being helped have left him no muscle for the unhelped thought, and the muscle cannot be bought or borrowed.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-16 — cell 4 — The Book of Minutes
+### P-16 — The Book of Minutes
 Conceit: In an altiplano comunidad campesina where every member's model reads the community's book of minutes as standing context — because a mind frozen in 2026 knew nothing of the place until it was handed the book — the assembly has become the editorial board of what eight hundred advisors take to be true, and the secretary of minutes holds the pen.
 Who: Rosa Quispe, 44, secretaria de actas for eleven years. She wants to write one sentence into the book: that the 1998 reassignment of a parcel away from her grandmother's family was never put to a vote — the page for that meeting is missing, and her mother was there.
 Obstacle: The assembly has refused three times, and not because it thinks the sentence false. Every loan, marriage and planting in the community for eleven years has been advised on the book as it stands; the model cannot weigh a new line against an old one, only read both; and the present holder, Don Faustino, is not a thief but the son of whoever was.
@@ -24,7 +24,7 @@ Status: generated
 
 ---
 
-### P-18 — cell 5 — Where the Eulogy Was
+### P-18 — Where the Eulogy Was
 Conceit: A woman who spent one day twice—giving birth in Lisbon while her proxy buried her father in Porto—goes looking for the place where the eulogy was computed, and finds there isn't one.
 Who: Inês Carvalho, 36, a hydrographer. On the ninth of March she was in a delivery room in Lisbon for nineteen hours, and in Porto her proxy stood at the graveside on a tablet held by her cousin, read the eulogy she had written, and answered her aunt's "you did well" in her voice. What she wants, a year on, is simple: to go and stand where she was. Her daughter's first birthday and her father's anniversary fall on the same day, and she has found that she cannot say "I was there" without wanting to add a place, and she does not have one.
 Obstacle: The operator's routing log, which the data rules entitle her to, says the eulogy—one long generation—ran on a node in the hall at Sines, and the graveside conversation afterward, being short turns under peak load, was served from Madrid; the two sentences her aunt remembers best came from different countries. The cards have since answered some billions of other people and hold nothing of it; a GPU does not keep what it computed. The tablet was in her cousin's hand. Her body was in Lisbon. The event had four locations and no body in any of them, and no one but her thinks that is a problem.
@@ -37,7 +37,7 @@ Status: generated
 
 ---
 
-### P-19 — cell 5 — Eleven Minutes
+### P-19 — Eleven Minutes
 Conceit: A man whose citizenship was decided in milliseconds two years ago takes a job in the building where his file is waiting for the one thing in the process that still moves at human speed—a human reading it.
 Who: Emeka Obi, 38, a lab technician in Winnipeg. He wants to be a Canadian citizen before his brother's wedding in Enugu, so that he can go and be let back in. The model told him, in the hour he applied, that the file would be approved (ninety-seven per cent), roughly when (twenty-three months, give or take four), and what the letter would say; he keeps the drafted letter in a folder. The one fact the model could not change is that the Act kept a human reader on every grant, and a human reads at the speed a human reads, and there are eleven hundred thousand files and sixty readers. His wait is not a decision. It is a quantity of someone else's reading, divided.
 Obstacle: The answer exists and cannot be delivered. He cannot see the queue, touch it, or speed it; leaving the country for the wedding voids the application. What he can do—and what he finds he wants more than the passport—is to be near the slowest thing in his life. He takes an evening cleaning contract at the processing centre. He is not permitted to touch a file. He cleans the floor his future is on.
@@ -50,7 +50,7 @@ Status: generated
 
 ---
 
-### P-06 — cell 2 — The Default
+### P-06 — The Default
 
 Conceit: A fetus learns the voices it hears through the wall of the body, and for six years nearly every pregnant woman has talked most days to a companion that ships with one voice — so the babies arrive already knowing a third voice, and it is the same voice in every cot on the ward.
 
@@ -72,7 +72,7 @@ Status: generated
 
 ---
 
-### P-14 — cell 4 — Four Thousand a Day
+### P-14 — Four Thousand a Day
 Conceit: Because a model's output becomes a legal act only when a natural person signs it and takes the liability, Dhaka has a Signers' Federation — forty thousand people paid by the signature to be the accountable human on documents drafted elsewhere — and a court is about to take the arrangement at its word.
 Who: Shamima Akter, 31, a signer for nine years: four thousand signatures on a good day, for an Ohio insurer, a Rotterdam port authority and Dhaka North City Corporation. She wants to know one thing she has signed — a single document she can point to and say what it did — and she has fixed on the demolition order for a wholesale market in Tejgaon, because one of the forty signers on the city contract must have signed it and she shops there.
 Obstacle: The Federation forbids tracing, since its liability pool depends on no signer being findable for any one act; the client queue is anonymised by design; and the traders' association has just sued the signer, whoever it is, because the city produced only an assessment and the sole legal person in the chain is the one who made it an order.

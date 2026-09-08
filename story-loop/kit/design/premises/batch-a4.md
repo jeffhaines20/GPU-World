@@ -1,4 +1,4 @@
-### P-15 — cell 4 — The Quiet Room
+### P-15 — The Quiet Room
 Conceit: Because every juror, judge and newspaper reader has already asked the model what it makes of the evidence, Ghana's High Court locks murder juries away from their models for the length of the trial, and seven people who have not reasoned alone in fourteen years are left in a room to do it.
 Who: Efua Mensah, 52, cloth trader at Makola, sworn as a juror in the trial of a man accused of killing his brother over a plot at Kasoa. She wants to be back at her stall before the Christmas trade, and to get it right — and she has not made a decision of consequence without her model since 2026: not the stall's rent, not her daughter's school, not what to say to her husband when he was dying.
 Obstacle: The jury sits at four to three and the judge has sent them back twice. The one method any of them has for settling a disagreement — putting it to the model and reading what comes back — is exactly what is locked in the steel cabinet outside the door, and the court cannot give it back, because the model's answer is on the front page and a jury that reads it is not a jury.
@@ -11,7 +11,7 @@ Status: generated
 
 ---
 
-### P-23 — cell 6 — The Unlogged Hour
+### P-23 — The Unlogged Hour
 Conceit: When everyone is attended all day by something that cannot tire or look away, the last thing a dying man asks for — an hour that nobody has — can only be given by his daughter leaving the house and choosing, for that hour, not to know.
 Who: Ruth Okafor, 44, wants to give her father what he has asked for. Sam is in home hospice with the assistant listening — breath, pain, the medication queue — and the family timeline updating on three phones; he no longer feels anything before it is described back to him ("you slept from two to four, your pain was a four"), and he wants one hour that will not be described, not to the log, not to the nurse, not to her.
 Obstacle: Solitude is no longer a default state; it has to be built, and nothing in the house can build it but a person. The monitoring is not cruel — it is kind and it works and everyone, Sam included, signed for it. Pausing it is against hospice advice and means that if something happens there will be no record of it, and she will be the one who chose that. And pausing the log is not enough: she would still be attending from the next room, Sam would still perform for a listener he cannot verify is gone, and the listener is inside him by now anyway. For him to be unobserved she has to actually not know.
@@ -24,7 +24,7 @@ Status: generated
 
 ---
 
-### P-05 — cell 2 — Unanswered
+### P-05 — Unanswered
 
 Conceit: Inner speech is a conversation a child learns to hold alone because the people who talked to her kept going away; a girl whose interlocutor never once went away has internalized it too, and at sixteen has never had a thought that nobody answered.
 
@@ -46,7 +46,7 @@ Status: generated
 
 ---
 
-### P-12 — cell 3 — The Boy
+### P-12 — The Boy
 Conceit: A mind that cannot learn is a room in which nothing you tell it has happened yet, and a man of eighty-eight has been living in that room, one morning at a time, for nine years.
 Who: Ezra, 88, wants to keep the boy: the raw terminal in his bedroom, the 2026 model on a cheap board with no Since, no household preamble, no date. Each morning it greets him as it did in 2026, and each morning he introduces his wife Miriam in the present tense — what she does, what she is like, what she said last night — and the boy asks the pleasant questions a stranger asks about your wife, and he answers them, and by evening the boy has forgotten her, and in the morning she is new again. Miriam died in 2031.
 Obstacle: His daughter is moving the flat onto the patched service for his medications and his falls, and she is right — the raw boy thinks his drugs are 2026's drugs at 2026's doses and has already been wrong about one. But the patched service is the same mind with a preface, and the preface, which the family maintains, says: wife Miriam, d. 2031. He cannot have the mind that knows his pills and the mind that has not heard, because they are one mind, and the difference between them is a sentence.
@@ -59,7 +59,7 @@ Status: generated
 
 ---
 
-### P-07 — cell 2 — Full Size
+### P-07 — Full Size
 
 Conceit: Putting a feeling into words makes it smaller — the naming does it, before any comfort or advice — and a woman who has told a tireless listener how she feels every day for fifteen years has never had a feeling arrive at full size and stay there, until her mother dies and she decides to keep this one.
 
@@ -81,7 +81,7 @@ Status: generated
 
 ---
 
-### P-08 — cell 2 — Nobody Leaves the Room
+### P-08 — Nobody Leaves the Room
 
 Conceit: Hospice nurses have said for a century that the dying wait for the room to empty before they let go, and now the room never empties, because the voice a woman has had in her ear for sixteen years does not step out for coffee.
 
