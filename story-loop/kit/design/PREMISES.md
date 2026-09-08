@@ -46,6 +46,32 @@ Two judges, four batches of six each, the order shuffled with a recorded seed so
 judge a, seed 20260908; judge b, seed 20260909. Neither judge sees the other's scores, the writers' cells, or these
 notes; each reads its batch file and nothing else.
 
+## Round 1 scores and the six probed
+
+Two judges, eight batch calls, forty-eight score lines (`design/premises/judge-*-batch-*.md`, verbatim; `scores-round1.json`).
+Both judges' pool medians were 22.5 of 25, so the shrinkage pulls every total halfway toward 22.5 and the rankings
+compress at the top: the twenty-four cards span 20.0 to 23.8 on ranking A.
+
+Ranking A (shrunk), top eleven: P-06 23.8 · P-02 23.1 · P-12 23.1 · then eight cards tied at 22.8: P-03, P-05, P-07,
+P-10, P-14, P-16, P-17, P-21 · then P-09 and P-22 at 22.5. Ranking B (highest single-judge total): P-03, P-06, P-07,
+P-12 at 25.0; P-02, P-05, P-10, P-11, P-14, P-16, P-17, P-21 at 23.8. **No card met the declared dispute threshold**
+(judges differing by five or more): the widest gaps were 3.8 on P-03, P-07 and P-11.
+
+**Tie-break, declared at this step because the ranking rules above did not foresee an eight-way tie:** ties on
+ranking A are broken first by cell coverage (a card from a cell not yet among the chosen), then by the judges'
+own "would read at five thousand words" picks, then by the sum of the two axes nearest the human's taste, the idea
+and the aftertaste. Judge a would read P-06, P-11, P-03, P-05; judge b would read P-09, P-14, P-12, P-06.
+
+**Probed (six):** from ranking A, P-06 (cell 2), P-02 (cell 1), P-12 (cell 3), then by the tie-break P-14 (cell 4,
+a judge's pick) and P-17 (cell 5, over P-21 on idea plus aftertaste); the sixth slot to P-03, the highest card on
+ranking B that ranking A did not take (25.0 from judge a, 21.2 from judge b; a judge's pick). Pair rules: both P-02
+and P-12 are probed, and at most one of them will be offered. Neither P-01 nor P-15 advances.
+
+The hardest passage named for each probe: P-06, the night she first sings to the twenty-nine-weeker in the
+default's shape; P-02, the mother asking the woman at the bedside to fetch Ana; P-12, the Sunday he types the year;
+P-14, reading the model's reasons in the first person under oath; P-17, the switch on Christmas Eve and the trace
+going flat; P-03, the model telling her truthfully that fusion is her best option and booking the surgeon.
+
 ## The cards
 
 Twenty-four, generated in isolation on 2026-09-08, four per cell, in the order the cells were cut. Status changes on this page as the funnel runs: struck cards stay, with the reason.
@@ -70,7 +96,7 @@ Last image: The mother's hand resting on the little speaker on the nightstand, w
 Question: Whether her mother is loved by Ana or by what Ana once meant — and whether, after eight years of faithful delivery, there is any difference that matters to anyone but Ana.
 Not the obvious version: The obvious version is the machine that outdoes the family at care, the shamed relative at the bedside, and a death that settles it. Here the mother does not die in the story and the machine has no character of its own: what has replaced Ana is Ana's own sentence, kept better than she could keep it. There is no one to be jealous of, and the daughter completes her own replacement, on purpose, out of love.
 Closest published: Alice Munro, "The Bear Came Over the Mountain": a wife with dementia transfers her attachment and her husband has to live with it. What differs: the rival here is the daughter's own instruction, not another person; it does not know it is in a relationship; and the daughter is the one who wrote it and switches it back on.
-Status: generated
+Status: probed
 
 ### P-03 — cell 1 — Three, Two, One, Lift
 Conceit: When the model does every part of nursing except the lifting, a ward nurse's spine becomes the only thing she is paid for, and her own model helps her spend it.
@@ -81,7 +107,7 @@ Last image: Loreta at a bedside with the hoist, a patient's weight coming onto h
 Question: If the mind's work is free and the body's is not, what exactly is a person paid for — and once everything the model can do has been taken out of the job, is Loreta the nurse, or the nurse's remaining part?
 Not the obvious version: The obvious version is displacement — the model takes the nurse's job, or drains the humanity out of care. Here nothing is taken and nothing is cold; the patients are better charted than they have ever been, and the model is on her side the whole way, including in arranging the surgery. The cost is quieter: cognition became free and bodies did not, so the body is what gets used up, and the machine's competence is what makes it possible to keep going.
 Closest published: Kurt Vonnegut, *Player Piano*, where automation makes people's work worthless and leaves them idle. Here the human is not idle and not useless: she is the part of the job that can be hurt, and the machine's competence is what she leans on to keep being it.
-Status: generated
+Status: probed
 
 ### P-04 — cell 1 — The Beach He Gave Her
 Conceit: A man whose model has drafted his life accurately for fourteen years finds that the only new thing he can be to it is a lie, and the lie becomes his daughter's inheritance.
@@ -132,7 +158,7 @@ Not the obvious version: The obvious version is the baby who prefers the machine
 
 Closest published: Bradbury, "I Sing the Body Electric!" — the electric grandmother whose voice the children come to love. What differs: Bradbury's machine is a person-shaped presence in a relationship with particular children; the default is a setting nobody chose, in a relationship with nobody, imprinted on everybody; and the arc belongs neither to the machine nor the children but to the adult who has to imitate it.
 
-Status: generated
+Status: probed
 
 ### P-07 — cell 2 — Full Size
 
@@ -216,7 +242,7 @@ Last image: Monday morning, the new terminal on the bedside table, its greeting 
 Question: Is a fact you must say aloud each morning to keep it said one you have accepted or one you have refused — and is the last room where a death has not happened a mercy, a lie, or only a room?
 Not the obvious version: The obvious version is the grief machine — the AI that plays the dead wife, and the widower who cannot let go. The boy never plays Miriam; it has never met her; it is not loved and does not comfort. What Ezra uses is not its voice but its ignorance, and the story turns not on his letting go but on his choosing, once, to inform the only thing on Earth that could have been kept uninformed.
 Closest published: Jonathan Nolan, "Memento Mori" — a man who cannot form memories, keeping the truth in notes to himself. Differs: here the amnesiac is the sky and the note is a man, and the truth is not something he is trying to hold onto but something he has been choosing, each morning, not to hand over; the cruelty is not in the forgetting but in the one time it is told.
-Status: generated
+Status: probed
 
 ### P-13 — cell 4 — La Contraria
 Conceit: In a Sierra Norte municipality governed by assembly under usos y costumbres, where the model's recommendation on every question is known in each house before the meeting, the cargo ladder has grown a new rung — la Contraria, an unpaid year of obligatory objection to the recommendation, so that the assembly's vote counts as a decision — and the rare objector who wins skips the rest of the ladder and sits for life with the caracterizados.
@@ -238,7 +264,7 @@ Last image: The cleared site in Tejgaon behind a tin fence, and on the fence the
 Question: Does bearing the consequences of an act make it yours; and once a court has said so, is anything left of the difference between deciding and being the person who is punished for a decision?
 Not the obvious version: The obvious version discovers that the human in the loop is a rubber stamp and invites the reader to be appalled. Shamima has known she was a stamp since her first shift and so has everyone in Dhaka; the story is about what happens when the law declines to know it and hands her an act.
 Closest published: Herman Melville, "Bartleby, the Scrivener" — a legal copyist as the human part of a document machine. What differs: Bartleby's refusal empties him out of the office; Shamima's assent fills her with an act she did not commit, and she keeps the job.
-Status: generated
+Status: probed
 
 ### P-15 — cell 4 — The Quiet Room
 Conceit: Because every juror, judge and newspaper reader has already asked the model what it makes of the evidence, Ghana's High Court locks murder juries away from their models for the length of the trial, and seven people who have not reasoned alone in fourteen years are left in a room to do it.
@@ -271,7 +297,7 @@ Last image: Through the control-room window the plume over the hall, standing de
 Question: Does it matter whether the thought that warms you was for anyone? Is heat made of thinking any different from heat made of fire—and if it is not, what was she reading all those winters?
 Not the obvious version: The obvious version is the data hall as landlord: it reroutes or leaves, the town freezes, the dependence is exposed—The Machine Stops in a parka. Here the hall stays and the heat becomes more reliable than it ever was; what she loses is not the warmth but the pulse in it.
 Closest published: Ted Chiang, "Exhalation"—thought as a thermodynamic event that spends the world's gradient. Differs: there thought consumes the difference the world runs on; here a town lives on thought's exhaust, and the question is not the heat-death of anything but whether the thinking has to have been addressed to someone for its warmth to mean what she thought it meant.
-Status: generated
+Status: probed
 
 ### P-18 — cell 5 — Where the Eulogy Was
 Conceit: A woman who spent one day twice—giving birth in Lisbon while her proxy buried her father in Porto—goes looking for the place where the eulogy was computed, and finds there isn't one.
