@@ -66,3 +66,30 @@ shrunk totals. Ranking B, the **highest single-judge** total. A card is **disput
 differ by five points or more — a full point per axis. Six are probed: five from ranking A with no more than two
 from one cell, and the sixth the highest card on ranking B that ranking A did not take. Three are offered: two
 from ranking A after the probe round, and the most disputed surviving card.
+
+
+# Second pass, after G1 was sent back (DEC-012)
+
+The first pass cut the space by the source of strangeness and produced three finalists the human called remarkably
+good and shelved, because their questions were matters of personal psychology. The amended brief asks for the same
+personal richness bearing on a big political, moral, economic or social question. So the second cut is by the
+question, and the register, the contest premise, the works not to be worn as a hat, and the rule for the four cards
+are inherited from above unchanged. Every card in this pass must satisfy two tests at once: a person with a specific
+want and a specific price, in a place, with a turn that cannot be undone; and a claim about the cell's question that a
+thoughtful reader could hold either side of, made by what happens and not by anyone saying it.
+
+| Cell | The big question | Narrowing | Writer |
+|---|---|---|---|
+| 7 | Surveillance and the private life | Everyone's model sees everything they do and say, and remembers. What becomes of privacy, of the state's reach, of blackmail, of forgiveness, of the crime nobody can commit unnoticed and the confession nobody needs to make. Not Orwell: the watcher is on your side and you invited it. | premise-writer, cell 7 |
+| 8 | Education and expertise | An infinitely patient tutor for every child and every adult. What becomes of schools, teachers, credentials, prodigies, the slow learner, the reason to know anything, the relation between knowing and being able. Not the Primer: no one is raised by it alone. | premise-writer, cell 8 |
+| 9 | The public sphere | Social media as we know it may end when every person has a mind to talk to instead of a crowd. What becomes of news, fame, rumour, elections, protest, the shared present, the argument in the square, being a public. Not Nosedive: no scores. | premise-writer, cell 9 |
+| 10 | Medicine and the body | A world-class doctor in every pocket and medicine made for one person. What becomes of hospitals, diagnosis, the sick role, insurance, the dying, the doctor's authority, what a body is owed and what it costs, who gets the drug made for one. Not Gattaca: no genetic caste. | premise-writer, cell 10 |
+| 11 | The developing world | The oft-ignored places, where for two billion people the model is the first institution that has ever answered. What becomes of the state, the clinic, the land registry, the money-lender, the exam, the migrant, the language, when the thing that works arrives before the things that were supposed to. Not a leapfrog fable and not misery: a person there, with standing. | premise-writer, cell 11 |
+| 12 | Work, wealth and power | Cognition is nearly free and eight billion GPUs belong to someone. What becomes of wages, professions, rent, ownership, unions, the firm, the tax base, the difference between the person who owns the hall and the person who talks to it. Not Player Piano: nobody is idle. | premise-writer, cell 12 |
+
+**The obvious versions this pass must not write:** the panopticon that crushes the dissident; the tutor that makes
+everyone brilliant, or stupid; the death of social media told as a lament or a liberation; the AI doctor that is
+wrong, or that is right and hated for it; the village saved or ruined by a phone; the jobless masses. Each of these
+has been written; the card's "Not the obvious version" field names which one it is refusing.
+
+**Ranking, disputes, tie-break, pair rules:** as declared above and in `design/PREMISES.md`. Cards are P-25 to P-48.

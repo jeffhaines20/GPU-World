@@ -12,21 +12,22 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**Gate G1, about twenty minutes.** Three premises, each with its card, its probe passage (250 to 350 words of the hardest
-passage, written from the card), its originality note, and what the two judges said where they disagreed. The funnel
-generated twenty-four in six cells, struck none for originality, judged all twenty-four blind in shuffled batches, probed
-six, and judged those again with their probes. The full record is in `design/PREMISES.md`.
+**G1 was sent back with an amended brief (DEC-012, your words):** the story must bear on a big political, moral,
+economic or social question, with the personal richness of the three finalists. The three are kept for later in
+`../SHELVED.md`. A second pass of the funnel under the new cut needs one thing from you first, because the M1 caps were
+sized for one regenerated cell and a full pass is six: a caps row raising, for this second pass only, premise-writer
+calls from 7 to 13, premises from 28 to 52, probe passages from 10 to 16, and premise-judge calls from 16 to 28.
+Say it in one line in chat and it is written as your row. Cost: about 1.1M tokens, leaving about 6M for the spine, the
+draft, the revision rounds and the final, which is enough for two to three rounds; if the token cap binds, the loop
+stops and hands you the best draft by the record.
 
-**The choice is yours.** The judges preferred P-06 by the shrunk ranking; judge a's favourite was P-17, judge b's was
-P-06. Pick one, or send a cell back (name the cell, 1 to 6, and its four cards are regenerated, probed and judged
-again; the caps carry one such regeneration).
+The second cut of the premise space is written below the first in `design/PARTITIONS.md`: six cells, one per big
+question, every card required to carry a person in trouble and a claim about that question a thoughtful reader could
+hold either way.
 
-**What to say, in chat.** Two things: the pick as one line ("I pick P-NN"), which becomes a decision row of type
-pick in your words; and three to five sentences for the G1 sign-off — what you saw, what you liked, what must change,
-whether it goes through — pasted under a G1 heading marked as dictated in chat.
+---
 
-**Findings we decided not to act on:** none. No MAJOR was raised at M1; the originality critic's nine MINOR notes are
-deferred to the chosen card's architect and listed in `design/PREMISES.md`.
+*The G1 offer as it stood, kept for the record:*
 
 ### Finalist P-06 — The Default
 
@@ -172,4 +173,5 @@ _(every request made of the human, kept after it is answered)_
 |---|---|---|
 | 2026-09-08 | Intake: the BRIEF.md questions with defaults, the exemplar set (12 proposed), the token cap | 2026-09-08, in chat: defaults, Jeff, three loved stories, use every text obtainable online, cap raised to 10M |
 | 2026-09-08 | G0: Omelas keep or drop; Yellow Wallpaper add or leave out; the sign-off paragraph | 2026-09-08, in chat: "1. Keep. 2. Add."; the G0 paragraph came in chat the same day and is pasted in DECISIONS.md |
-| 2026-09-08 | G1: pick one of P-06, P-17, P-12, or send a cell back; the sign-off paragraph | |
+| 2026-09-08 | G1: pick one of P-06, P-17, P-12, or send a cell back; the sign-off paragraph | 2026-09-08, in chat: sent back with an amended brief (DEC-012); the three are shelved for later |
+| 2026-09-08 | Caps row for a second funnel pass: writers 13, premises 52, probes 16, judge calls 28 | |
