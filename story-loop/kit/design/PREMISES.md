@@ -388,6 +388,29 @@ Not the obvious version: The obvious version is the lament — nobody talks anym
 Closest published: Rostand, "Cyrano de Bergerac" — wooing by proxy, the proxy's words better than the principal's own. What differs: the proxies here are the sisters' own selves-as-known, not a third person with a love of his own; and when the principal finally speaks for herself, nobody is unmasked and nothing is redeemed — it simply goes worse.
 Status: generated
 
+## Originality notes, second pass (REV-02, before any judging)
+
+The originality critic read all twenty-eight second-pass cards with web search (nineteen queries) and struck none.
+Fifteen MINOR notes, kept out of the judges' batches and carried to the human with any card that is offered. The
+closest calls it named: P-30 (Asimov, "Profession", which owns the card's thesis), P-52 (Older, *Infomocracy*), P-26
+(Black Mirror, "Arkangel"), P-34 ("Franchise" plus the live AI-proxy-voting proposal), P-29 (*I, Daniel Blake*), P-40
+(*Logan's Run*), P-47 (the real Deep Green waste-heat scheme), P-48 (Pohl, "The Midas Plague"), P-44 (*Tragic
+Choices*), P-41 (Havel). Knowing conversation, not findings: P-33 with *It's a Wonderful Life*, P-39 with "Omelas",
+P-44 with "The Cold Equations", P-46 with Doctorow's "Unauthorized Bread". Unfamiliar to the critic and found nowhere:
+P-32, P-35, P-36, P-38, P-43, P-49, P-50, P-51, and the mechanisms of P-41 and P-45.
+
+**Shortlist rules from REV-02 (F2, F10, F11, F12, F13):** at most one of P-31 and P-43 is probed (they are one premise
+twice); at most two of the six lifelog cards P-25, P-26, P-27, P-28, P-32, P-50 are probed and at most one offered; at
+most one of P-37 and P-45 is offered; at most one of the three Bartleby cards P-29, P-37, P-45 is offered; at most one of
+the six cards that lean on Chiang's "The Truth of Fact" (P-25, P-26, P-27, P-32, P-43, P-50) is offered.
+
+## The judging batches, second pass
+
+Two judges, five batches each (6, 6, 6, 5, 5), the order shuffled with a recorded seed: judge a, seed 20260912; judge b,
+seed 20260913. Neither judge sees the other's scores, the writers' cells, or these notes. The judges are told the
+amended brief, so that the idea axis is scored on whether the card's big question is real and used, and are asked one
+extra batch question: which card's big question is the most novel beyond the contest's list.
+
 ## The cards, second pass (DEC-012, DEC-014)
 
 Twenty-eight, generated in isolation on 2026-09-08 under the amended brief, four per cell, cells 7 to 13 of the second cut in `design/PARTITIONS.md`. Also kept as `design/premises/pass2.md`, which is the file the judges' batches are cut from.
