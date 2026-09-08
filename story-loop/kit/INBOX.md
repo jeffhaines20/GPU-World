@@ -18,7 +18,7 @@ said: `BRIEF.md` (your answers, verbatim where they were yours, marked "the defa
 DEC-006 to DEC-010 (your words) and DEC-001 to DEC-005 (how this harness runs the loop), and the caps table in
 `STATE.md` (tokens 10M, revision rounds 3, the rest as the kit ships them).
 
-Two one-word questions first, because only you can answer them:
+Two one-word questions, answered in chat on 2026-09-08 ("1. Keep. 2. Add.") and recorded in `design/EXEMPLARS.md`:
 
 1. **Omelas.** You named it as loved and it was on the proposed list, but no text is obtainable. Keep it in the set
    judged from the judges' memory, which the design counts as weaker evidence, or drop it? *keep* or *drop*.
@@ -58,4 +58,4 @@ _(every request made of the human, kept after it is answered)_
 | Date | Request | Answered |
 |---|---|---|
 | 2026-09-08 | Intake: the BRIEF.md questions with defaults, the exemplar set (12 proposed), the token cap | 2026-09-08, in chat: defaults, Jeff, three loved stories, use every text obtainable online, cap raised to 10M |
-| 2026-09-08 | G0: Omelas keep or drop; Yellow Wallpaper add or leave out; the sign-off paragraph | |
+| 2026-09-08 | G0: Omelas keep or drop; Yellow Wallpaper add or leave out; the sign-off paragraph | 2026-09-08, in chat: "1. Keep. 2. Add." The sign-off paragraph is still awaited |
