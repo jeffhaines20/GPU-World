@@ -17,8 +17,12 @@ from common import ROOT, Report, read_text
 
 RUNTIME = {
     "checks/caps.approved.json", "checks/gates.seen.json", "checks/faults.lock.json",
-    "story/STORY.md", "design/exemplars/", "story/drafts/draft-01.md", "reviews/comparisons/",
+    "story/STORY.md", "design/exemplars/", "story/drafts/", "story/drafts/draft-01.md", "reviews/comparisons/",
 }
+# story/drafts/ is created by the first draft and does not exist in a pristine kit, since git keeps no
+# empty folder. Four documents name it. Without the entry above, the bare day-one command failed on
+# every fresh deployment while passing the fault suite, whose fixture writes two drafts into that folder
+# before any check runs — the same class of defect as the review-file case below.
 # A path carrying NN or <> is a template for a file the loop creates, not a file the kit ships.
 # A review file is created at runtime too (CLAUDE.md rule 5 numbers them as the reports arrive), so a
 # document naming one by number is naming a file that will exist, not one that ships. Resolving these

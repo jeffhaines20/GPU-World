@@ -992,7 +992,16 @@ def c_one_lost_pairing_on_a_dimension_tried_once(r):
     _cmp(r, flip)
 
 
+def c_pristine_kit_with_no_drafts_folder(r):
+    """Day one: the kit as deployed, before the first draft has created story/drafts/. Git keeps no empty
+    folder, so a fresh copy has none, and four documents name it. The fixture writes drafts into that
+    folder before any check runs, so this is the one state the suite never reached, and the one the
+    handoff prompt's first command runs in."""
+    shutil.rmtree(Path(r) / "story/drafts")
+
+
 CONTROLS = [
+    ("the day-one claims check on a pristine kit with no drafts folder", c_pristine_kit_with_no_drafts_folder, ["check_claims.py"]),
     ("a new draft added in sequence", c_new_draft_in_sequence, ["check_manuscript.py", "--milestone", "4", "--complete"]),
     ("a repeated word declared as a motif", c_motif_declared, ["check_tics.py"]),
     ("a cap lowered by an agent", c_cap_lowered_by_an_agent, ["check_state.py", "--milestone", "4"]),

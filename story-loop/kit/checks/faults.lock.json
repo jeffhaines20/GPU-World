@@ -2,7 +2,7 @@
  "checks": {
   "_fixture_story.txt": "d7224e46661fbdcd8dee58e89516a4ad692a4a66abb2e877addd43fba03acaca",
   "calibrate.py": "fec535cf5860cfc8b75184a9515307764d7f7c2a1ac37853286b80f3bf8485ca",
-  "check_claims.py": "573685bf96ad80605657ff8360fbd5889cc836848f4b960f8128d0e4b9d58a1e",
+  "check_claims.py": "5bf2e48637cfb760ce2c935b8dd722939b580d39373126baef2b1ddc2eed5138",
   "check_comparisons.py": "44541d718133eb55836ecff53aecf30ca7925ae90b01dd06b7da86c7fa0776ac",
   "check_continuity.py": "081cf0b987976396134122dc5e68ac6a4c61157292c13dc692ad8dcd8820fb44",
   "check_gate.py": "087da2c7208b4ebdb6678da203cca0b363365b673bb457e52346646057699ea1",
@@ -11,10 +11,10 @@
   "check_state.py": "7dc7908b0850b2eb1e4c9bf8d2737e43d26f2e4e778884e9951538a2757388b1",
   "check_tics.py": "18fc3c57eba1aba38b8fb12489d0b0f4409b70101a54d536a01a0dee379eff5c",
   "common.py": "6484b8795c43479e3a57ca7fb2428b086530310188b12a931ba496124cd715bf",
-  "plant_faults.py": "03fa46c0f8d3f2abc5798018592c2f5071ec222811d6f0ef13adb2ba682db90c",
+  "plant_faults.py": "a03f90fcf1d7beea3ef229193f4eacb9fa798f63456ba60d5dd625feabbef449",
   "run_all_checks.py": "9acea6b64242373b94de6ffa635f4c31d24b800cb5aaf94175fb8dc552e5d662",
   "thresholds.json": "2d9cf4b8546bf589572a93ef0f6f2cdf186ae2a5e58fb167e6590a6f26d154bd"
  },
- "controls": 15,
+ "controls": 16,
  "faults": 74
 }
