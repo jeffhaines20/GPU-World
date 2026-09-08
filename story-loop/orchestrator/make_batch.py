@@ -8,12 +8,12 @@ import re, sys
 from pathlib import Path
 src, out, probes, *ids = sys.argv[1:]
 text = Path(src).read_text(encoding="utf-8")
-cards = {m.group(1): m.group(0) for m in re.finditer(r"^### (P-\d\d) — cell \d — .*?(?=^### P-\d\d — |\Z)", text, re.M | re.S)}
+cards = {m.group(1): m.group(0) for m in re.finditer(r"^### (P-\d\d) — cell \d+ — .*?(?=^### P-\d\d — |\Z)", text, re.M | re.S)}
 parts = []
 for i in ids:
     if i not in cards:
         sys.exit(f"no card {i}")
-    card = re.sub(r"^(### P-\d\d) — cell \d — ", r"\1 — ", cards[i].strip())   # judges do not receive the writers' cells
+    card = re.sub(r"^(### P-\d\d) — cell \d+ — ", r"\1 — ", cards[i].strip())   # judges do not receive the writers' cells
     if probes != "-":
         pf = Path(probes) / f"{i}.md"
         if pf.exists():
