@@ -87,9 +87,18 @@ thoughtful reader could hold either side of, made by what happens and not by any
 | 11 | The developing world | The oft-ignored places, where for two billion people the model is the first institution that has ever answered. What becomes of the state, the clinic, the land registry, the money-lender, the exam, the migrant, the language, when the thing that works arrives before the things that were supposed to. Not a leapfrog fable and not misery: a person there, with standing. | premise-writer, cell 11 |
 | 12 | Work, wealth and power | Cognition is nearly free and eight billion GPUs belong to someone. What becomes of wages, professions, rent, ownership, unions, the firm, the tax base, the difference between the person who owns the hall and the person who talks to it. Not Player Piano: nobody is idle. | premise-writer, cell 12 |
 
+**The human's permission (DEC-014):** each writer may pose a big question of its own instead of, or beside, its cell's
+question, so long as it is political, moral, economic or social rather than personal, and the card says which question
+it bears on. A question more novel and interesting than the contest's list is especially wanted. A seventh cell is
+reserved for exactly that:
+
+| Cell | The big question | Narrowing | Writer |
+|---|---|---|---|
+| 13 | A question of your own | A big political, moral, economic or social question that the contest's list does not name and that this world raises: name it, and write the person it lands on. Not the six above. | premise-writer, cell 13 |
+
 **The obvious versions this pass must not write:** the panopticon that crushes the dissident; the tutor that makes
 everyone brilliant, or stupid; the death of social media told as a lament or a liberation; the AI doctor that is
 wrong, or that is right and hated for it; the village saved or ruined by a phone; the jobless masses. Each of these
 has been written; the card's "Not the obvious version" field names which one it is refusing.
 
-**Ranking, disputes, tie-break, pair rules:** as declared above and in `design/PREMISES.md`. Cards are P-25 to P-48.
+**Ranking, disputes, tie-break, pair rules:** as declared above and in `design/PREMISES.md`. Cards are P-25 to P-52: four per cell, cells 7 to 13, so the second pass is seven writers and twenty-eight cards, within the caps the human raised (DEC-013).

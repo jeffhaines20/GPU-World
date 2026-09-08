@@ -1,21 +1,21 @@
 {
- "accepted": "INTAKE",
+ "accepted": "DEC-013",
  "caps": [
   {
    "name": "Premise-writer calls (one per partition cell)",
-   "value": "7"
+   "value": "13"
   },
   {
    "name": "Premises generated",
-   "value": "28"
+   "value": "52"
   },
   {
    "name": "Probe passages",
-   "value": "10"
+   "value": "16"
   },
   {
    "name": "Premise-judge calls",
-   "value": "16"
+   "value": "28"
   },
   {
    "name": "Revision rounds in M3",

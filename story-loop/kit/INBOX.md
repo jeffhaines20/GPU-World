@@ -12,18 +12,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**G1 was sent back with an amended brief (DEC-012, your words):** the story must bear on a big political, moral,
-economic or social question, with the personal richness of the three finalists. The three are kept for later in
-`../SHELVED.md`. A second pass of the funnel under the new cut needs one thing from you first, because the M1 caps were
-sized for one regenerated cell and a full pass is six: a caps row raising, for this second pass only, premise-writer
-calls from 7 to 13, premises from 28 to 52, probe passages from 10 to 16, and premise-judge calls from 16 to 28.
-Say it in one line in chat and it is written as your row. Cost: about 1.1M tokens, leaving about 6M for the spine, the
-draft, the revision rounds and the final, which is enough for two to three rounds; if the token cap binds, the loop
-stops and hands you the best draft by the record.
-
-The second cut of the premise space is written below the first in `design/PARTITIONS.md`: six cells, one per big
-question, every card required to carry a person in trouble and a claim about that question a thoughtful reader could
-hold either way.
+_(nothing: the second pass of the funnel is running under the amended brief. Next stop is G1 again, three premises to choose from.)_
 
 ---
 
@@ -174,4 +163,4 @@ _(every request made of the human, kept after it is answered)_
 | 2026-09-08 | Intake: the BRIEF.md questions with defaults, the exemplar set (12 proposed), the token cap | 2026-09-08, in chat: defaults, Jeff, three loved stories, use every text obtainable online, cap raised to 10M |
 | 2026-09-08 | G0: Omelas keep or drop; Yellow Wallpaper add or leave out; the sign-off paragraph | 2026-09-08, in chat: "1. Keep. 2. Add."; the G0 paragraph came in chat the same day and is pasted in DECISIONS.md |
 | 2026-09-08 | G1: pick one of P-06, P-17, P-12, or send a cell back; the sign-off paragraph | 2026-09-08, in chat: sent back with an amended brief (DEC-012); the three are shelved for later |
-| 2026-09-08 | Caps row for a second funnel pass: writers 13, premises 52, probes 16, judge calls 28 | |
+| 2026-09-08 | Caps row for a second funnel pass: writers 13, premises 52, probes 16, judge calls 28 | 2026-09-08, in chat: raised as proposed (DEC-013), and writers may pose their own big questions (DEC-014) |
