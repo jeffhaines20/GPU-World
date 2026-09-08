@@ -1,0 +1,49 @@
+Ada had been awake for nine days when the station answered her.
+
+It came as a change in the hum, nothing more. The air handlers dropped half a tone, held there, and came back. She had lived inside that sound so long that the shift arrived in her teeth before it arrived in her head.
+
+"Say again," she said.
+
+Nothing. The lamp above the hatch went on burning its steady amber. Beyond the window the ice went on being ice, grey and pitted, the same three kilometres of it she had been looking at since the ferry left her here.
+
+She wrote the time down. That was the discipline Mir had given her on the first day, in the crew bay, with the ferry still warm at the dock: write it down, even when it is nothing. Especially when it is nothing. A record of nothing is still a record. So she wrote 09:41, and under it, half a tone, four seconds, and then she sat with her hands flat on the table and waited to see whether it would happen again.
+
+It happened at 11:06. She counted this time. Four seconds again, and the same interval down, as though something very large had drawn a breath somewhere below her and let it out.
+
+The station was called Kettle and it had been built to listen. Ninety years ago a consortium had sunk a lattice of hydrophones through two kilometres of ice into the ocean underneath and had waited for the ocean to say something. The ocean had not. The consortium had folded, the lattice had been left running because it cost more to remove than to abandon, and every eleven months a ferry came out to swap the keeper who watched a system that had never once produced a signal above the noise floor.
+
+Ada had taken the post because it paid, and because after Mir she had wanted a room with one window in it.
+
+On the tenth day she went down.
+
+The shaft was a warm throat lit at intervals, and the ladder took forty minutes, and at the bottom there was a room the size of a kitchen where the lattice terminated in a wall of grey cabinets. Everything was as the manual described. Nothing had come loose. She put her palm on the wall and felt the hum come up through it, and standing there, alone, two kilometres under the sky, she understood what she had been hearing.
+
+It was not a signal. It was the air handlers responding to a load somewhere else in the system. Something was drawing power in a rhythm, and the handlers were leaning into it, and the lean was what she heard.
+
+She traced the draw for three days. It went to a cabinet that the manifest listed as decommissioned, and inside the cabinet there was a board that should have been dark and was not, and on the board a small green indicator kept its own slow time. Four seconds on. Eighty-five minutes off.
+
+The log said the board had been switched off in the second year of the station's life, by a keeper named Oyelaran, with a note: *reduces false positives.* Nothing after that. Eighty-eight years of nothing after that.
+
+Ada thought about it for a week. She had come here with a plan for her days and the plan had held, and now it did not hold, and she found that she did not mind. In the evenings she sat with the log open and read backwards through the keepers. They had all written it down. The weather, the stores, the small failures of the machine. One had recorded, every day for a year, the exact colour of the ice at noon. Another had written poems in the margin of the maintenance sheets, and then had stopped writing them, and then had gone home.
+
+None of them had mentioned the board.
+
+She turned it on.
+
+Nothing happened, which she had expected. The green light kept its rhythm. The hydrophones went on reporting the ocean, and the ocean went on being an ocean: cold, black, and busy with the small sounds of ice grinding on itself far away. She slept badly. In the morning she checked the buffer and there was a return in it, at the depth the lattice was built to reach, and it had the shape of something that had been sent and had come back.
+
+The board was not a receiver. It had never been a receiver. It was the other half.
+
+For eighty-eight years the station had been calling into the water every eighty-five minutes with its voice switched off, and a keeper in the second year had heard the false positives and had done the sensible thing, which was to stop the noise, and the station had gone on listening for a reply to a question it was no longer asking.
+
+Ada sat with that for a long time.
+
+Then she did the arithmetic, because the arithmetic was the part she could do. Two kilometres of ice, and under it four hundred kilometres of water to the far wall of the basin, and the speed of sound in cold salt water, and eighty-five minutes. The number that came out was not a distance in the ocean. It was a distance to something that had heard the call, taken its time, and answered, and the taking of time was the part she could not stop turning over: not the delay of a thing that is far away, but the pause of a thing that is deciding.
+
+She wrote the time down. She wrote what the buffer held, and what the number was, and what she thought the number meant, and then she wrote, because Mir had taught her that a record of nothing is still a record and she had nothing else to put down: *I do not know whether I have done a good thing.*
+
+The ferry was two hundred and eleven days out.
+
+That night she stood at the window with the lamp off. Beyond the glass the ice held its grey, and under the ice the water held its black, and somewhere in the black a thing that had waited eighty-eight years for the noise to start again was drawing whatever it used for breath.
+
+She did not turn the board off. In the morning, at 09:41, the handlers dropped half a tone and held, and she stood in the middle of the room with her hands at her sides and let the station say it.

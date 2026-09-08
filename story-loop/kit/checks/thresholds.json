@@ -1,0 +1,27 @@
+{
+  "length": {
+    "min_words": 1000,
+    "max_words": 5000
+  },
+  "tics": {
+    "ly_adverbs_per_1000_max": 18,
+    "filter_words_per_1000_max": 14,
+    "sentence_length_stdev_min": 3.5,
+    "same_opener_run_max": 3,
+    "paragraph_words_max": 250,
+    "distinctive_word_repeats_max": 6
+  },
+  "comparisons": {
+    "exemplars_per_round": 4,
+    "min_full_text_pairs_at_gate": 3,
+    "min_win_share_at_gate": 0.5,
+    "max_tie_share_at_gate": 0.34,
+    "min_revision_pairs": 2,
+    "min_pairings_for_dimension_rule": 2
+  },
+  "gate": {
+    "min_words": 20,
+    "min_sentences": 3
+  },
+  "_note": "length is the human's answer at intake; the tic numbers are extremes, not targets, and check_tics.py prints every measure and gates only on these; a tie in the comparison tally is a pair whose two orders disagreed, which is noise rather than a result, so ties are not wins and a round that is mostly ties is refused."
+}
