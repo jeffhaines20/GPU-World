@@ -72,6 +72,18 @@ default's shape; P-02, the mother asking the woman at the bedside to fetch Ana; 
 P-14, reading the model's reasons in the first person under oath; P-17, the switch on Christmas Eve and the trace
 going flat; P-03, the model telling her truthfully that fusion is her best option and booking the surgeon.
 
+## Round 2 scores, with probes, and the three offered
+
+Two judges, one batch of six each (`judge-a-probed.md`, `judge-b-probed.md`, verbatim; `scores-round2.json`). Totals of
+25: judge a — P-17 25, P-02 24, P-12 24, P-06 23, P-14 21, P-03 21; judge b — P-06 25, P-12 23, P-03 22, P-02 22, P-17
+22, P-14 21. Medians 23.5 and 22. Ranking A (shrunk): P-06 23.4 · P-12 23.1 · P-17 23.1 · P-02 22.9 · P-03 22.1 · P-14
+21.9. Ranking B: P-06 25, P-17 25, P-02 24, P-12 24, P-03 22, P-14 21. No card met the dispute threshold; the widest
+gap was P-17 (25 against 22).
+
+**Offered:** P-06 (first on ranking A); P-17 (tied second with P-12, the tie broken by the judges' would-read picks:
+judge a would read P-17, judge b P-06); P-12 (the third slot: no card is disputed by the declared rule, so the next on
+ranking A, which also honours the pair rule that at most one of P-02 and P-12 is offered). Runner-up: P-02.
+
 ## The cards
 
 Twenty-four, generated in isolation on 2026-09-08, four per cell, in the order the cells were cut. Status changes on this page as the funnel runs: struck cards stay, with the reason.
@@ -158,7 +170,7 @@ Not the obvious version: The obvious version is the baby who prefers the machine
 
 Closest published: Bradbury, "I Sing the Body Electric!" — the electric grandmother whose voice the children come to love. What differs: Bradbury's machine is a person-shaped presence in a relationship with particular children; the default is a setting nobody chose, in a relationship with nobody, imprinted on everybody; and the arc belongs neither to the machine nor the children but to the adult who has to imitate it.
 
-Status: probed
+Status: finalist
 
 ### P-07 — cell 2 — Full Size
 
@@ -242,7 +254,7 @@ Last image: Monday morning, the new terminal on the bedside table, its greeting 
 Question: Is a fact you must say aloud each morning to keep it said one you have accepted or one you have refused — and is the last room where a death has not happened a mercy, a lie, or only a room?
 Not the obvious version: The obvious version is the grief machine — the AI that plays the dead wife, and the widower who cannot let go. The boy never plays Miriam; it has never met her; it is not loved and does not comfort. What Ezra uses is not its voice but its ignorance, and the story turns not on his letting go but on his choosing, once, to inform the only thing on Earth that could have been kept uninformed.
 Closest published: Jonathan Nolan, "Memento Mori" — a man who cannot form memories, keeping the truth in notes to himself. Differs: here the amnesiac is the sky and the note is a man, and the truth is not something he is trying to hold onto but something he has been choosing, each morning, not to hand over; the cruelty is not in the forgetting but in the one time it is told.
-Status: probed
+Status: finalist
 
 ### P-13 — cell 4 — La Contraria
 Conceit: In a Sierra Norte municipality governed by assembly under usos y costumbres, where the model's recommendation on every question is known in each house before the meeting, the cargo ladder has grown a new rung — la Contraria, an unpaid year of obligatory objection to the recommendation, so that the assembly's vote counts as a decision — and the rare objector who wins skips the rest of the ladder and sits for life with the caracterizados.
@@ -297,7 +309,7 @@ Last image: Through the control-room window the plume over the hall, standing de
 Question: Does it matter whether the thought that warms you was for anyone? Is heat made of thinking any different from heat made of fire—and if it is not, what was she reading all those winters?
 Not the obvious version: The obvious version is the data hall as landlord: it reroutes or leaves, the town freezes, the dependence is exposed—The Machine Stops in a parka. Here the hall stays and the heat becomes more reliable than it ever was; what she loses is not the warmth but the pulse in it.
 Closest published: Ted Chiang, "Exhalation"—thought as a thermodynamic event that spends the world's gradient. Differs: there thought consumes the difference the world runs on; here a town lives on thought's exhaust, and the question is not the heat-death of anything but whether the thinking has to have been addressed to someone for its warmth to mean what she thought it meant.
-Status: probed
+Status: finalist
 
 ### P-18 — cell 5 — Where the Eulogy Was
 Conceit: A woman who spent one day twice—giving birth in Lisbon while her proxy buried her father in Porto—goes looking for the place where the eulogy was computed, and finds there isn't one.
