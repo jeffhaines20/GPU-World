@@ -13,7 +13,7 @@ parts = []
 for i in ids:
     if i not in cards:
         sys.exit(f"no card {i}")
-    card = cards[i].strip()
+    card = re.sub(r"^(### P-\d\d) — cell \d — ", r"\1 — ", cards[i].strip())   # judges do not receive the writers' cells
     if probes != "-":
         pf = Path(probes) / f"{i}.md"
         if pf.exists():

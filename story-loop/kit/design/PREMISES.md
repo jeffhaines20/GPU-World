@@ -18,6 +18,34 @@ Closest published: <the nearest story the writer knows, and what differs>
 Status: <generated | struck: reason | probed | finalist | chosen>
 ```
 
+## Originality notes (REV-01, before any judging)
+
+The originality critic read all twenty-four cards with web search (about twenty queries) and struck none: no card is a
+named published story in a hat. Nine MINOR notes, kept out of the judges' batches so that they score the story and
+not the neighbourhood, and carried to the human with any card that is offered:
+
+| Card | Nearest work the critic named | The note |
+|---|---|---|
+| P-12 | *Marjorie Prime* (Harrison, 2014) | the withheld-death engine is Harrison's; stays MINOR only while the terminal never stands in for Miriam |
+| P-02 | *Marjorie Prime* | dementia and a surrogate family voice is the play's opening situation; the daughter's authored sentence and her turn are not in it |
+| P-21 | "The Whispering Earring" (Alexander, 2012); *Her* | the always-right helper that hollows deliberation; the card's claim about the transcript is its own |
+| P-01, P-15 | *Twelve Angry Men* (Rose, 1954) | the same premise twice; the pair should not both advance, and P-15's half is the one Rose has not written |
+| P-04 | "The Perfect Match" (Ken Liu, 2012) | the setup is Liu's nearly point for point; the Borgesian resolution is not |
+| P-03 | *Manna* (Brain, 2003) | the ear-voice directing a body is Brain's mechanism; the nurse's ally and the chosen cost are not |
+| P-22 | "Be Right Back"; *Marjorie Prime* | the dead partner's AI is the field's commonest furniture; the testimony-about-him idea was not found anywhere |
+| P-24 | *Her* (Jonze, 2013) | letters in others' names, better than the principals; the turn is the opposite of both *Her* and *Cyrano* |
+| P-13 | the tenth man (*World War Z*, Brooks, 2006) | institutionalised dissent is a known device; the objector who agrees, and winning as punishment, are the card's own |
+
+**Pair rules, from F4 and F1/F2:** at most one of P-01 and P-15 is probed, and if both rank it is P-15 that advances;
+at most one of P-02 and P-12 is offered. Unfamiliar to the critic, and found nowhere by search: P-05, P-06, P-08,
+P-09, P-10, P-11, P-14, P-16, P-17, P-18, P-19, P-20, P-23.
+
+## The judging batches
+
+Two judges, four batches of six each, the order shuffled with a recorded seed so that the batches can be rebuilt:
+judge a, seed 20260908; judge b, seed 20260909. Neither judge sees the other's scores, the writers' cells, or these
+notes; each reads its batch file and nothing else.
+
 ## The cards
 
 Twenty-four, generated in isolation on 2026-09-08, four per cell, in the order the cells were cut. Status changes on this page as the funnel runs: struck cards stay, with the reason.
