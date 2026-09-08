@@ -433,6 +433,20 @@ the boy playing the three minutes of marked silence and Signe speaking the sente
 the counter, the mother locking the ceiling with the daughter beside her; P-49, the forty minutes with the tool
 switched off, in front of the daughter; P-31, the grandmother saying the tutor's word for the griddle.
 
+## Round 4 scores (second pass, with probes) and the three offered
+
+Two judges, one batch of six each (`judge-p2-a-probed.md`, `judge-p2-b-probed.md`, verbatim; `scores-round4.json`).
+Totals of 25: judge a — P-25 25, P-26 24, P-31 24, P-40 24, P-49 23, P-33 21; judge b — P-26 25, P-40 23, P-25 23,
+P-49 23, P-31 23, P-33 22. Medians 24 and 23. Ranking A (shrunk): P-26 24.0 · P-25 23.8 · P-31 23.5 · P-40 23.5 · P-49
+23.2 · P-33 22.5. Ranking B: P-25, P-26 25; P-31, P-40 24; P-49 23; P-33 22. No card met the dispute threshold; the
+widest gap was P-25 (25 against 23). Judge a would read P-25 and would not finish P-49; judge b would read P-26 and
+would not finish P-33. Most novel question: judge a named P-33, judge b named P-31.
+
+**Offered:** P-26 (first on ranking A); P-31 (tied third with P-40 at 23.5, the tie broken on idea plus aftertaste, 20
+to 18); P-40 (the third slot: no card is disputed, so the next on ranking A). **P-25**, second on ranking A, is held
+out by the REV-02 rule that at most one of the six lifelog cards is offered, P-26 being the other; it is named to the
+human as the runner-up, with the rule and the reason, and the human may pick it.
+
 ## The cards, second pass (DEC-012, DEC-014)
 
 Twenty-eight, generated in isolation on 2026-09-08 under the amended brief, four per cell, cells 7 to 13 of the second cut in `design/PARTITIONS.md`. Also kept as `design/premises/pass2.md`, which is the file the judges' batches are cut from.
@@ -457,7 +471,7 @@ Last image: The morning of the handover, the model's light changing from the hou
 Question: Whose is the record of a shared life? Does a child's right to the whole of his witnessed infancy outweigh a parent's need to have said the unsayable to someone who could not yet hear it, and is the family a unit that holds its privacy jointly or a set of individuals each with a witness of their own? This is the contest's panopticon question with the watcher reversed — the watcher is the child, invited by the mother, and on the child's side by law. A reader can hold that the household has always been the site of unaccountable power and that the marked bar — a parent's power to destroy, made visible — is the least the law can do; or that a mother must be able to speak to a baby at three in the morning and have it belong to no one, and that a law which makes every nursery a deposition room will have parents performing for an audience of one. Underneath: whether what she said that night was said to *him* at all — whether the witness made an addressee out of someone who did not yet exist — and whether a boy listening to three minutes of silence is hearing it anyway.
 Not the obvious version: The teenager who wants privacy from surveilling parents; the tape that reveals abuse; the mother found out. Here the surveillance runs the other way, from cot to parent; nothing is found out, since she remembers it exactly and he is told; and her act is neither concealment nor confession but the separation of the two — the record destroyed, the fact spoken.
 Closest published: Chiang, "The Truth of Fact, the Truth of Feeling" — the father, the daughter, the recorded quarrel. There the record contradicts memory and the story turns on the father learning he was wrong. Here record and memory agree to the word, nothing is discovered, and the story turns on the difference between a thing known and a thing heard. Ishiguro's *Klara and the Sun* has the watcher in the nursery, but Klara is the mind of that book; here the watcher is an instrument and the question is the law's.
-Status: probed
+Status: finalist
 
 ### P-27 — cell 7 — The Hour
 Conceit: In Nairobi, where a caregiver's unbroken model record is the first reference that has ever counted for anything, a woman with eleven years of it has one hour missing, because a dying man asked her to turn it off.
@@ -512,7 +526,7 @@ Last image: Her mother's mouth shaping the tutor's word, carefully, the way she 
 Question: Whether a language saved by a standard has been saved or replaced — and whether the state's old monopoly on making citizens through school and tongue has ended, now that every child is taught privately in the family's language, or has only moved into the corpus, where a missionary's grammar homogenizes the valleys the way the nation once did, and no one voted for it and no one can vote it out. (Bears on: the developing world; what schools were for; whose version of a culture an automated preservation preserves.) Underneath: whether Ofelia can want the thing she was punished for, now that it has come back wearing someone else's mouth.
 Not the obvious version: The obvious version is the tutor that saves the dying language, told warm, or the phone that ruins the village, told cold. Here the language is saved and replaced in one gesture, no one's life is worse, the school still stands, the tutor is beloved, and the agent of replacement is not a colonizer but a daughter's recorder and a grandmother's wish to be understood.
 Closest published: Brian Friel, *Translations*. What differs: there the standardizers are soldiers with a map and what is lost is the name; here the standardizer is a patient machine that speaks the language better than the schoolteacher does, what is lost is the version, and the last hand on the eraser belongs to the family.
-Status: probed
+Status: finalist
 
 ### P-32 — cell 8 — The Attested Route
 Conceit: A licensing board will let a candidate's tutor vouch for her in place of the exam, at the price of the whole record of how she learned — and she finds out that the exam had been the last wall behind which a mind could be slow in private.
@@ -611,7 +625,7 @@ Last image: The same counter, the same clerk, who has noticed from the ID that t
 Question: Rationing by self-declaration — is a limit you set on your own body while well the most honest form of rationing a society could have, or the way a society gets its poor to consent to dying cheaply and calls it choice? Under it, the question every such scheme has to answer and cannot: whether the well person who chose the number and the sick person who must live under it are the same person, and who decides when they disagree — the earlier self, the later one, or the daughter who loves them both. Underneath, personally: whether honouring your mother means honouring her number or her life.
 Not the obvious version: The obvious version is the mother who dies because the molecule costs more than the family has, or the daughter who sells everything to buy it. Here the money is there and is not the obstacle; the mother's own earlier choice is, and a scheme that honours it, and then the mother's second choice, which is the same choice made harder. Nobody speaks of autonomy or dignity; the scheme is not villainous, it is the least bad answer anyone has found to a real problem, and the story does not find a better one. The daughter neither rebels against the number nor argues with it. She takes it.
 Closest published: Tolstoy, "The Death of Ivan Ilyich," for a household arranging itself around a death and the lie everyone tells. Here nobody lies — the number is on the card, the lock is on the record, the day count is on the app — and the trouble is entirely the truth. I do not know a nearer one and would rather say so than invent it.
-Status: probed
+Status: finalist
 
 ### P-41 — cell 11 — The Count of 1954
 Conceit: In a canal town whose water has been divided since 1954 by a count everyone knows is false, the model gives every household the same true number in private, and the water-clerk who has kept the ledger must decide whether to set the sluice by it.

@@ -1,0 +1,47 @@
+P-26 | idea=5 | person=5 | turn=5 | prose=5 | aftertaste=5
+idea: The strangeness — a witness installed on the child's side at birth, with destruction permitted but the shape of the destruction permanent — is genuinely new and is used entirely through the mother's arithmetic rather than announced, and the underlying question (whether a thing said to a five-month-old was said to anyone) is one a thoughtful reader could argue either way for an hour.
+person: Signe wants an impossible thing — to give him everything and keep three minutes — and pays for it in the only currency available, saying the sentence aloud into two recording lights, which is a want with a price and a cost that lands.
+turn: The separation of the destroyed audio from the spoken fact is a true one-way door in two directions at once, and the card knows exactly why neither half can be undone.
+prose: The probe is the best in the batch — the spoon standing in the skyr, the nod "the way he nodded at the price of something," and above all the counter running under silence while she narrates from memory what he is not hearing, which turns the redaction into the most audible passage in the story.
+aftertaste: The image of a boy listening to three minutes of nothing while his mother watches, and the question of whether he heard it, is the kind of thing that comes back at three in the morning.
+
+P-40 | idea=4 | person=5 | turn=5 | prose=5 | aftertaste=4
+idea: Rationing by a number you choose while well, printed like a blood type, is a hard idea and a real question — self-declaration as honesty or as consent-manufacturing for the poor — and it is used through the lock rather than argued, though the underlying earlier-self-versus-later-self problem is well-trodden philosophical ground.
+person: The mother who set her ceiling low so her daughter would have more, and then locks it so her daughter will have nothing to decide, is a fully particular person, and the deposit that stays hers is a cost paid in a form the daughter cannot refuse.
+turn: The permanent lock is irreversible by design, confirmed twice on the record, and it forecloses the daughter's choice rather than resolving it, which is the right kind of change.
+prose: The probe is very fine — the clerk's flat recitation of "the ever," the thumb over the needle callus, and the last line about the cuff, which does more character work than a page of interiority could.
+aftertaste: The final image of the daughter typing her mother's number will sit with me, though the card's own framing ("Nobody speaks of autonomy or dignity") is doing some of the work the story would have to earn.
+
+P-33 | idea=5 | person=4 | turn=4 | prose=4 | aftertaste=5
+idea: The bank killed by eight thousand individually correct decisions, with no panic to answer and no standing for the witness who knows more than the record, is the freshest economic idea here and it is dramatised entirely through the mechanism, not described.
+person: Sreelatha wants the deposits to stay until the 5th and pays by becoming the last name on her own outward list, which is a real cost, though she is more office than interior compared to the mother in P-40 — her twenty-six years are asserted more than felt.
+turn: Her 23:51 transfer is irreversible in reputation if not in ledger, and the timestamp is the permanent thing, but it is slightly less a door closing than the others, since the bank's fate was already sealed by the crowd.
+prose: The probe is clean and well-observed — the passbook in three hands, the model's mild "If they come, you can move the money back on the 6th at no charge" — but it runs closer to summary than the others and the model's dialogue is the one place the prose sounds like a specification.
+aftertaste: The thought that a public which trusts the record over the interested witness has only made its collapses quieter and more correct is the insight I expect to be repeating to people next week.
+
+P-25 | idea=4 | person=5 | turn=5 | prose=5 | aftertaste=4
+idea: Mandated forgetting with the State as the only permitted rememberer is a strong inversion and the trap is genuinely closed — the only way to keep a private thing is to make it public — though "should a society be able to forget" is the most familiar of the six questions, and the brother's offer, fine as it is, is the card's real novelty rather than the amendment.
+person: A woman who voted for the law that will delete her only proof, and who wants the record precisely so as never to use it, is richly and specifically contradictory, and she pays by naming her brother in a file that outlasts them both.
+turn: Lodging is irreversible by statute and by the whole parish's knowledge, and the card is right that it costs her the thing she was trying to protect.
+prose: The probe is excellent — the drain clearing and running between them, "Then I never did it. That's yours as well," and the sergeant's face doing nothing for thirty-eight minutes while she watches the car park.
+aftertaste: The last image of one lit night alone in the grey with the State's harp on it is the strongest single picture in the batch, but the emotional shape — abuse, deadline, police station — is one I have felt many times before, and that dulls it.
+
+P-49 | idea=4 | person=5 | turn=5 | prose=5 | aftertaste=4
+idea: Putting Otto's notebook in front of the Court of Protection is a sharp, real question that a reader can hold either way, and it is used through the statute's own four verbs rather than argued; it loses a point only because the extended-mind case is a known philosophical set piece and the card is candid about importing it.
+person: Alec wanting to die on the farm and to be seen doing well, and agreeing to the switch-off out of pride, is deeply particular, and he pays in exposure — the one thing he cannot get back.
+turn: Everyone leaves having seen him without it, and the card correctly identifies that no favourable ruling can un-see it; irreversibility here is social, not legal, which makes it stronger.
+prose: The probe is superb and the point-of-view discipline is the achievement — the lambing speech given twice without the narration ever noticing, Ellen's name in place of Jean's, and "He said the year. Nobody wrote it down."
+aftertaste: The switched-off forty minutes will stay with me as an image of what a kindness costs, though the destination — dementia, dignity, a daughter who loves him — is a known emotional country even if the route is new.
+
+P-31 | idea=5 | person=4 | turn=4 | prose=5 | aftertaste=5
+idea: A language saved and replaced in the same gesture, with the standardiser a beloved patient machine learned from a missionary's Bible and the last hand on the eraser a daughter's own recorder, is the most surprising idea here and it is enacted in one word at a griddle.
+person: Ofelia's want — her mother's variant, not the Academy's — is real and her history in the corner of that room gives it weight, but she pays mostly by watching and keeping her lips shut, and the person who acts is her mother, so the personal richness is a shade more diffuse than P-26's or P-40's.
+turn: The town's word going out of the last mouth that had it is genuinely irreversible, though it is a loss she witnesses rather than one she chooses, which makes the turn quieter than the four cards where someone signs something.
+prose: The probe is beautiful and does the hardest thing with restraint — the hush over a cradle, the grandmother saying the tutor's word "the way you give a child a word she will need somewhere else," and the flat-then-rising line on the phone screen closing it without comment.
+aftertaste: The thought that automated preservation preserves whichever valley had a Bible, and that no one voted for it and no one can vote it out, is the one I would still be arguing with tomorrow.
+
+READ BEFORE: P-25 — the shape of the abused woman's evidence against a deletion deadline is close to the Ishiguro *Buried Giant* argument the card names, and closer still to the many "she voted for the law that unmakes her" civic-irony stories; P-49 — Clark and Chalmers's Otto essay staged as a hearing, plus Keyes's *Flowers for Algernon* for the competence that comes and goes, both named honestly by the card; P-33 — the run on the Building & Loan in *It's a Wonderful Life* (Capra, from Van Doren Stern's "The Greatest Gift"), inverted rather than repeated; P-26 — Chiang's "The Truth of Fact, the Truth of Feeling," furniture only, since here nothing is discovered. P-40 and P-31 I have not effectively read before.
+
+WOULD READ / WOULD NOT FINISH: P-26 at five thousand words, because the counter running under three minutes of destroyed silence is a scene I want to sit inside and its question has no settled side; P-33 is the one I would most likely put down, because it is the only card whose drama is a mechanism rather than a person and whose probe already sounds like it is explaining an argument.
+
+MOST NOVEL QUESTION: P-31 — whether an automated preservation preserves a culture or quietly ratifies whichever version happened to be written down, so that the state's old monopoly on making citizens through tongue has not ended but migrated into a corpus nobody voted for and nobody can vote out; it is novel because it goes past the contest's "what about the developing world" to a specific unowned power — the corpus as a legislature with no franchise — and because the agent of loss is love, a granddaughter's comprehension and a grandmother's wish to be understood.
