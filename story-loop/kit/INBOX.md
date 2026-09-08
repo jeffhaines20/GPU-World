@@ -12,30 +12,12 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**Gate G0, about ten minutes.** Intake is recorded. Read these back and correct anything that is not what you
-said: `BRIEF.md` (your answers, verbatim where they were yours, marked "the default" where you took it),
-`design/EXEMPLARS.md` (the set that resulted: nine texts fetched, all obtainable online), `DECISIONS.md` rows
-DEC-006 to DEC-010 (your words) and DEC-001 to DEC-005 (how this harness runs the loop), and the caps table in
-`STATE.md` (tokens 10M, revision rounds 3, the rest as the kit ships them).
-
-Two one-word questions, answered in chat on 2026-09-08 ("1. Keep. 2. Add.") and recorded in `design/EXEMPLARS.md`:
-
-1. **Omelas.** You named it as loved and it was on the proposed list, but no text is obtainable. Keep it in the set
-   judged from the judges' memory, which the design counts as weaker evidence, or drop it? *keep* or *drop*.
-2. **The Yellow Wallpaper.** You named it as loved. It is public domain and fetched, but it was not on the list you
-   accepted, so it is not in the set until you say so. It is not science fiction. *add* or *leave out*.
-
-Then the sign-off. Write three to five sentences in your own words: what you saw, what you liked, what must change,
-whether it goes through. Say them in chat; they are pasted under a heading `### G0 — 2026-09-08 (dictated in chat)`
-in `DECISIONS.md` without a word changed, and no agent ever edits them afterwards.
-
-**Findings we decided not to act on:** none; no critic has run yet.
-
-**A deviation to know about.** The kit has you commit the brief and the caps yourself (`make intake`). You have no
-shell here, so the orchestrator committed them at your standing instruction to commit and push, in the commit named
-"Intake". DEC-005 records this.
+_(nothing: the funnel is running. Next stop is G1, three premises to choose from.)_
 
 ## Since you last looked
+
+- **G0 is signed.** Your paragraph of 2026-09-08 is in `DECISIONS.md` under a G0 heading marked as dictated in
+  chat, unchanged. I read it as GO (DEC-011); correct me if that is wrong. The milestone line is now M1.
 
 - **Day-one checks.** `run_all_checks.py` failed on the pristine kit: `check_claims.py` refused four documents
   for naming `story/drafts/`, a folder the first draft creates and git does not keep while empty. The fault
@@ -58,4 +40,4 @@ _(every request made of the human, kept after it is answered)_
 | Date | Request | Answered |
 |---|---|---|
 | 2026-09-08 | Intake: the BRIEF.md questions with defaults, the exemplar set (12 proposed), the token cap | 2026-09-08, in chat: defaults, Jeff, three loved stories, use every text obtainable online, cap raised to 10M |
-| 2026-09-08 | G0: Omelas keep or drop; Yellow Wallpaper add or leave out; the sign-off paragraph | 2026-09-08, in chat: "1. Keep. 2. Add." The sign-off paragraph is still awaited |
+| 2026-09-08 | G0: Omelas keep or drop; Yellow Wallpaper add or leave out; the sign-off paragraph | 2026-09-08, in chat: "1. Keep. 2. Add."; the G0 paragraph came in chat the same day and is pasted in DECISIONS.md |

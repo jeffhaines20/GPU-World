@@ -18,6 +18,7 @@ an agent may never do this, and without your row the check treats a changed sign
 | DEC-007 | 2026-09-08 | human | taste | "Defaults are fine." The rubric weights are all 2s; the register is quiet and strange with one hard idea; the never-list, length, ending, reader and must-contain rows take their defaults | in chat, 2026-09-08, verbatim | raising two or three dimensions to 3 |
 | DEC-008 | 2026-09-08 | human | caps | "Raise the cap to 10M." The token cap for the whole project is 10M; revision rounds in M3 stay at the 3 the human named in the handoff | in chat, 2026-09-08, after the dry run's cost arithmetic (about 9.4M for the full design with two judges) | 7M with one judge per pair; 2M, which ends inside the funnel |
 | DEC-009 | 2026-09-08 | human | taste | "As you write and ideate, it might be helpful to work backward - think about what the story will have to have if it wins - it will have to be somewhat surprising (or at least not predictable), have some important insight, etc. If it is helpful, you may also consider researching other similar short story contests and look at what the winning story has been." | in chat, 2026-09-08, verbatim; carried into the taste brief every premise writer receives | — |
+| DEC-011 | 2026-09-08 | agent | other | G0 read as GO: the human's paragraph says the brief matches what they said, nothing must change, and the funnel may begin. Milestone advanced to M1 | the gate skill, step 6 | BACK or STOP |
 | DEC-010 | 2026-09-08 | human | taste | "I cannot provide any, unless you happen to think it will be especially useful and worth my putting in the effort. So use all of the ones that you can get online either by fetching or because they are in the public domain as the exemplar set, including any in the reserve list you can get." | in chat, 2026-09-08, verbatim; the set that resulted is design/EXEMPLARS.md | the human supplying copies of their own |
 
 ## Gate sign-offs
@@ -25,3 +26,7 @@ an agent may never do this, and without your row the check treats a changed sign
 Written by the human, in their own words, after reading. One section per gate (`### G0` … `### G4`),
 three to five sentences. A section, once written, is never edited: what you want to add later is a new
 row above.
+
+### G0 — 2026-09-08 (dictated in chat, pasted verbatim by the orchestrator)
+
+Yes, what I see in the brief matches what I told you. I do not see anything that must change. You may go ahead and begin the funnel.

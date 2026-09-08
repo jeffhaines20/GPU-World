@@ -1,6 +1,6 @@
 # Read me first
 
-**Project:** GPU World story · **Milestone:** M0 — Intake · **Updated:** 2026-09-08
+**Project:** GPU World story · **Milestone:** M1 — Premise funnel · **Updated:** 2026-09-08
 
 This is your copy of what the agents are doing. You write in two files and no others: `INBOX.md`, where the agents write what they need from you and where you answer, and `DECISIONS.md`, where your gate sign-offs go. (`BRIEF.md` at intake and `design/RUBRIC.md` are worth a look when this page points you at them; everything else in the folder is the agents'.)
 
