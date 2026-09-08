@@ -1,0 +1,41 @@
+{
+ "accepted": "INTAKE",
+ "caps": [
+  {
+   "name": "Premise-writer calls (one per partition cell)",
+   "value": "7"
+  },
+  {
+   "name": "Premises generated",
+   "value": "28"
+  },
+  {
+   "name": "Probe passages",
+   "value": "10"
+  },
+  {
+   "name": "Premise-judge calls",
+   "value": "16"
+  },
+  {
+   "name": "Revision rounds in M3",
+   "value": "3"
+  },
+  {
+   "name": "Comparison verdicts per round",
+   "value": "20"
+  },
+  {
+   "name": "Rounds one finding may survive before it goes to the human",
+   "value": "3"
+  },
+  {
+   "name": "Fresh-reader calls",
+   "value": "5"
+  },
+  {
+   "name": "Tokens, whole project",
+   "value": "10M"
+  }
+ ]
+}

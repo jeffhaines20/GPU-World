@@ -19,7 +19,7 @@ is a failing check.
 | Comparison verdicts per round | 20 | 0 | resets when a round starts, and counts **every** verdict the round spends, not only the exemplar round's: calibration is 2 judges × 2 orders = 4; the exemplar round is 4 pairs × 2 orders = 8; the revision round is at least 2 pairs × 2 orders = 4, and 8 once a G3 sign-off exists and draft N is also paired against the draft the human signed. The old value of 8 counted the middle set only and no M3 round could be run inside it |
 | Rounds one finding may survive before it goes to the human | 3 | 0 | live count, per finding; the approach changes before the third round, and the human hears about it at the third |
 | Fresh-reader calls | 5 | 0 | budget for M3 and M4 |
-| Tokens, whole project | 2M | 1.35M | the human's allowance, as named in the handoff (the kit's default is 8M). Used is an estimate: the orchestrator's own context plus every sub-agent's reported tokens; 1.35M was spent on the day-one fix and the dry run before intake. A token is about three quarters of a word of everything the agents read and write; 8M is a full run — the funnel, a first draft, and twelve revision rounds with their critics — with room to spare |
+| Tokens, whole project | 10M | 1.4M | the human's allowance: 2M in the handoff, raised to 10M in chat at intake (DEC-008) after the dry run measured what a round costs here. Used is an estimate: the orchestrator's own context plus every sub-agent's reported tokens; 1.4M was spent on the day-one fix, the dry run and intake |
 
 ## Process signals
 
