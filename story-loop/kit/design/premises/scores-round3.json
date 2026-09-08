@@ -1,0 +1,398 @@
+{
+ "judge-a": {
+  "P-45": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-37": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-35": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-48": {
+   "idea": 5,
+   "person": 3,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-29": {
+   "idea": 4,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-50": {
+   "idea": 4,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-41": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-30": {
+   "idea": 3,
+   "person": 5,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-52": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 3
+  },
+  "P-47": {
+   "idea": 5,
+   "person": 3,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-34": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-36": {
+   "idea": 5,
+   "person": 5,
+   "turn": 3,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-33": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-39": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-32": {
+   "idea": 4,
+   "person": 5,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-42": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-49": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-27": {
+   "idea": 4,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-40": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-51": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-43": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-44": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-25": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-28": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-31": {
+   "idea": 4,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-38": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 3
+  },
+  "P-46": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-26": {
+   "idea": 4,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  }
+ },
+ "judge-b": {
+  "P-51": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-40": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-34": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-29": {
+   "idea": 5,
+   "person": 5,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-30": {
+   "idea": 4,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-52": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 3
+  },
+  "P-43": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-45": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-48": {
+   "idea": 4,
+   "person": 3,
+   "turn": 3,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-25": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-41": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-27": {
+   "idea": 4,
+   "person": 5,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-42": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-33": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-39": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-49": {
+   "idea": 4,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-46": {
+   "idea": 4,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-47": {
+   "idea": 5,
+   "person": 3,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-26": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-35": {
+   "idea": 4,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-38": {
+   "idea": 4,
+   "person": 5,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-37": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-36": {
+   "idea": 5,
+   "person": 4,
+   "turn": 3,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-32": {
+   "idea": 4,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-31": {
+   "idea": 5,
+   "person": 5,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-50": {
+   "idea": 4,
+   "person": 5,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 4
+  },
+  "P-44": {
+   "idea": 5,
+   "person": 4,
+   "turn": 5,
+   "prose": null,
+   "aftertaste": 5
+  },
+  "P-28": {
+   "idea": 5,
+   "person": 4,
+   "turn": 4,
+   "prose": null,
+   "aftertaste": 5
+  }
+ }
+}
