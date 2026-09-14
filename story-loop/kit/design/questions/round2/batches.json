@@ -1,0 +1,33 @@
+{
+ "a-1": [
+  "Q-21",
+  "Q-11",
+  "Q-14",
+  "Q-06",
+  "Q-15",
+  "Q-26"
+ ],
+ "a-2": [
+  "Q-27",
+  "Q-08",
+  "Q-05",
+  "Q-12",
+  "Q-25"
+ ],
+ "b-1": [
+  "Q-05",
+  "Q-27",
+  "Q-25",
+  "Q-14",
+  "Q-15",
+  "Q-11"
+ ],
+ "b-2": [
+  "Q-08",
+  "Q-12",
+  "Q-26",
+  "Q-06",
+  "Q-21"
+ ],
+ "_method": "random.Random(seed).shuffle over the eleven IDs in RECORD.md order [Q-05,Q-06,Q-12,Q-14,Q-25,Q-26,Q-08,Q-15,Q-11,Q-27,Q-21]; first six to batch 1, last five to batch 2; seeds a=20260918, b=20260919"
+}

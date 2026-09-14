@@ -4,6 +4,8 @@
 
 Scores in `scores-round1.json` (fifty-six lines, verbatim replies in `review-a-*.md` and `review-b-*.md`); the
 critiques by card in `critiques-round1.md`. Both reviewers' pool medians were 21 of 25.
+Batches in `batches.json`: the twenty-eight IDs in order, shuffled by `random.Random(seed).shuffle`, cut 6, 6, 6, 5, 5;
+seeds a = 20260916, b = 20260917 (not written down at the time; checked on 2026-09-14 to reproduce the file exactly).
 
 Ranking A (shrunk): Q-05 22.2 · Q-06 22.2 · Q-12 22.0 · Q-14 21.8 · Q-25 21.8 · Q-26 21.8 · Q-08 21.5 · Q-15 21.5 ·
 Q-11 21.2 · Q-27 21.2 · then Q-16 and Q-23 at 21.0, Q-01, Q-02, Q-17, Q-19 and Q-21 at 20.8, and the rest down to 19.8.
