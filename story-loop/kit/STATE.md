@@ -1,6 +1,6 @@
 # State
 
-**Milestone:** M1 — Premise funnel · **Updated:** 2026-09-08 · **Current draft:** none
+**Milestone:** M1 — Premise funnel · **Updated:** 2026-09-14 · **Current draft:** none
 
 ## Caps
 
