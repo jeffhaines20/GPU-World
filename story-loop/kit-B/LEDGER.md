@@ -9,3 +9,4 @@ what "since the last gate" means anywhere else in the kit: the rounds after the 
 
 | Round | Draft | Largest gap | Approach | Evidence (the review file) | Gate |
 |---|---|---|---|---|---|
+| M2-1 | the spine (no draft yet) | the world records every birth, so an archive of the counsel's misses would test Noor's ear with no stranger paying, and the spine does not shut that door (REV-05 F1) | a fresh story-architect rewrites the spine and bible against both findings lists: the archive shut with a reason in the Obstacle and a beat, chosen before drafting | reviews/REV-04.md, reviews/REV-05.md | |

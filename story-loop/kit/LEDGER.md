@@ -9,3 +9,4 @@ what "since the last gate" means anywhere else in the kit: the rounds after the 
 
 | Round | Draft | Largest gap | Approach | Evidence (the review file) | Gate |
 |---|---|---|---|---|---|
+| M2-1 | the spine (no draft yet) | the turn on Friday changes nothing that Thursday had not already changed, and every scene argues for Rob (REV-05 F1, F2; REV-04 F1) | a fresh story-architect rewrites the spine and bible against both findings lists: a Friday that costs Tess something visible, and the party at nine or its like put in a beat | reviews/REV-04.md, reviews/REV-05.md | |

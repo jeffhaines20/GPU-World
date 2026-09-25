@@ -443,6 +443,15 @@ curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
 
+- **M2, first critic round on both spines (2026-09-25).** (1) Story A, Eleven Fathers: the depth critic 1 MAJOR, 7 MINOR,
+  1 NIT; the adversarial critic 2 MAJOR, 6 MINOR, 1 NIT, verdict NEEDS CHANGES. Story B, Working Height: the depth critic
+  0 MAJOR, 6 MINOR, 1 NIT; the adversarial critic 1 MAJOR, 6 MINOR, 3 NIT, NEEDS CHANGES. (2) First round on each spine, so
+  no revision to compare against. (3) No comparisons run at M2. The MAJORs: for A, the Friday turn changes nothing that
+  Thursday had not already changed, and every scene on the page argues for Rob, so the "vanity" side of the question has
+  no weight; for B, the world records every birth, so an archive of the counsel's misses would let Noor test her ear on
+  the dead, and the spine never shuts that door. Both spines are with fresh architects now; a second critic round follows;
+  a third MAJOR round would mean the outline is the problem and would come to you with the runner-up beside it.
+
 - **G1 is signed (2026-09-25).** Your three sentences are pasted verbatim under a G1 heading marked as dictated in chat;
   the gate check accepts them; I read them as GO for two outlines (DEC-022). The cap is 15M (DEC-019). Two outlines
   means two kits: the kit is built for one story (one spine, one bible, one draft series, and checks that read those
