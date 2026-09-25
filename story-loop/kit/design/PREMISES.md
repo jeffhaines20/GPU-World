@@ -758,3 +758,19 @@ Question: Bears on what a vote is and what persuasion is for — whether an elec
 Not the obvious version: The obvious version is the AI that rigs the election, or the AI that predicts it and the human spirit that beats the prediction with one heroic upset. Here nothing is rigged, the forecast is honest and correct, and the human who beats it does so by giving the mind what it needs; the story is about what winning costs when losing was the only outcome that would have been hers.
 Closest published: Isaac Asimov, "Franchise" — Multivac knows the electorate so well that one man's answers stand in for the whole vote. There the machine picks a single citizen to make the election real; here every citizen is advised and the single unadvised voter is what is left over, and it is the candidate, not the voter, who has to live with the result.
 Status: generated
+
+## Third pass: five outlines written to Q-06 (DEC-016, DEC-017), 2026-09-25
+
+The third pass writes outlines rather than cards with separate probes; its frame, rules, seeds and records are in
+`design/outlines/` (`FRAME.md`, `RECORD.md`). Five cells of the question, one writer each, in isolation; two reviewers and an
+originality critic (`reviews/REV-03.md`); every outline revised once by a fresh agent against its critiques; two fresh
+reviewers again; all five offered to the human as a ranking.
+
+| Outline | Cell | As written | As revised | Status |
+|---|---|---|---|---|
+| O-1 | the parent | Right, Late (`outlines/outlines/O-1.md`) | He Has It With Him (`outlines/revised/O-1.md`) | revised; rebuilt away from O-3's frame (REV-03 F1) |
+| O-2 | the apprentice | Working Height | Working Height (`outlines/revised/O-2.md`) | revised |
+| O-3 | the one who never departed | Undispensed | Undispensed (`outlines/revised/O-3.md`) | revised; new ending, daughter renamed (REV-03 F1, F5, F8) |
+| O-4 | the audited | Eleven Fathers | Eleven Fathers (`outlines/revised/O-4.md`) | revised; the card's phrase and the theft dropped (REV-03 F2) |
+| O-5 | the rule | The Herring's Backbone | Breast Law (`outlines/revised/O-5.md`) | revised; the confrontation rebuilt (REV-03 F3, F6) |
+

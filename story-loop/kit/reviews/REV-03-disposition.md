@@ -1,17 +1,17 @@
 # Disposition for REV-03 (originality critic, outline pass, O-1 to O-5)
 
 One row per finding in the review, each named exactly once. No extra rows, no blank rows. Written when the review
-arrived and updated when the five revisers returned (design/outlines/RECORD.md says what each did).
+arrived as DEFERRED rows; updated to these rows when the five revisers returned (design/outlines/RECORD.md says what each did).
 
 | Finding | Disposition | Detail |
 |---|---|---|
-| F1 | DEFERRED | trigger: the revised O-1 returns; the rebuild is routed to O-1 (both reviewers called it the card's own scenario with a ledger added; reviewer b said O-3 uses the shared frame more freshly); O-3 keeps its frame; if the rebuild fails, the human is offered O-1 and O-3 as one option, as the critic proposes; owner: orchestrator |
-| F2 | DEFERRED | trigger: the revised O-4 returns; O-4 keeps its frame, drops the card's phrase verbatim and reconsiders the theft as the key entry; the human is told the five are two situations and, counting O-1 and O-3 once, four stories; owner: orchestrator |
-| F3 | DEFERRED | trigger: the revised O-5 returns; the rebuild of the shared confrontation is routed to O-5; O-2 keeps its scene; owner: orchestrator |
-| F4 | DEFERRED | trigger: every reviser returns (each packet carries the four reflexes by name and the note on endings); the human is told that choosing an outline does not choose an ending; at M3 the critics are asked for these reflexes by name; owner: orchestrator |
-| F5 | DEFERRED | trigger: the revised O-3 returns with Ishiguro and Alexander named and the voice out of Stevens's cadence; owner: O-3's reviser |
-| F6 | DEFERRED | trigger: the revised O-5 returns with McEwan and Caine named and the meetings with Fynlo checked against Fiona's visit; owner: O-5's reviser |
-| F7 | DEFERRED | trigger: the revised O-2 returns with Gawande and Bohjalian named; owner: O-2's reviser, then the story-architect at M2 if O-2 is chosen |
-| F8 | DEFERRED | trigger: the revised O-3 returns with the daughter renamed, or the nod declared; owner: O-3's reviser |
-| F9 | DEFERRED | trigger: the revised O-2 returns; the recording scene must be carried by the new turn (the woman who paid asks to hear it again); owner: O-2's reviser, then the story-architect at M2 |
-| F10 | DEFERRED | trigger: the revised O-4 returns with Chiang's "Anxiety Is the Dizziness of Freedom" named; owner: O-4's reviser |
+| F1 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-1.md (rebuilt: the auditor is the Tolliver boy as Wade's trainee on a night shift; no books scored by a child, no departure by water, no kitchen table, no pen) and revised/O-3.md (frame kept; its ending is now the drawer, not a blank line under a pen); the two no longer share the scoring night or the ending |
+| F2 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-4.md: the card's phrase is gone, the theft is gone (Kit's case is caused by overhearing the audit), the frame kept; the human is told in the offer that the five hold two situations and, with O-1 rebuilt, four distinct stories |
+| F3 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-5.md: the confrontation is rebuilt (the mother audits the judge, not the judgment, and asks "What was the rest?"), and the story no longer ends on the same question as O-2; O-2 keeps its scene |
+| F4 | FIXED | PREMISES.md (third pass) — all five revised outlines in design/outlines/revised/ drop the four named reflexes; O-1, O-3, O-4 and O-5 have new endings (a bet placed, a drawer, a reddening ear, a tablet box) and O-2 keeps "Again" as its own; the human is told that choosing an outline does not choose an ending; at M3 the critics are asked for the reflexes by name (recorded in design/outlines/RECORD.md) |
+| F5 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-3.md names Ishiguro's The Remains of the Day and Alexander's "The Whispering Earring"; the Stevens-cadence line is cut |
+| F6 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-5.md names McEwan's The Children Act and Caine's The Deemster; Aalin never meets the boy, so nothing restages Fiona's visit |
+| F7 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-2.md names Gawande's "The Learning Curve" and Bohjalian's Midwives and is written to answer Gawande; the story-architect at M2 inherits the note if O-2 is chosen |
+| F8 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-3.md: the daughter is Thora |
+| F9 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-2.md: the recording scene is carried by the new turn (Sanne asks what Noor heard, then "Again", and her own counsel gives her the second to listen at); the story-architect at M2 inherits the note if O-2 is chosen |
+| F10 | FIXED | PREMISES.md (third pass) — design/outlines/revised/O-4.md names Chiang's "Anxiety Is the Dizziness of Freedom" beside "The Truth of Fact, the Truth of Feeling" |
