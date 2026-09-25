@@ -13,10 +13,13 @@ findings = re.findall(r"^(F\d+: .*)$", rev, re.M)
 Path(out).mkdir(exist_ok=True)
 for i in ids:
     o = re.split(r"^## What changed\s*$", (Path(d)/f"{i}.md").read_text(encoding="utf-8"), flags=re.M)[0].strip()
-    fs = [f for f in findings if i in f]
+    fs = [f for f in findings if i in f or "O-1 to O-5" in f]
+    note = Path(out, "notes", f"{i}.md")
     body = [f"# Revision packet for {i}", "", "## The outline as it stands", "", o, "", "## The two reviewers' critiques of this outline", "",
             crit.get(i, "(no critique parsed)"), "", "## The originality critic on this outline", "", reading.get(i, "(no reading found)")]
     if between: body += ["", between.group(0).strip()]
     body += ["", "Findings naming this outline:"] + ([f"- {f}" for f in fs] or ["- none"])
+    if note.exists():
+        body += ["", "## The orchestrator's routing of the originality findings for this outline", "", note.read_text(encoding="utf-8").strip()]
     Path(out, f"{i}-packet.md").write_text("\n".join(body) + "\n", encoding="utf-8")
     print(f"{i}: packet {len(' '.join(body).split())} words, {len(fs)} finding(s)")

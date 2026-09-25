@@ -134,6 +134,16 @@ curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
 
+- **Outline pass, round 1 (the first critic round), 2026-09-25.** (1) Reviewer a struck O-3 (predictable, stakes are acts
+  never taken, repeats O-1's shape); reviewer b struck O-1 (restages the card's own example almost beat for beat); the
+  originality critic raised 1 MAJOR (O-1 and O-3 are one story twice), 6 MINOR (O-4 a third telling of the same premise;
+  O-2 and O-5 share their confrontation scene; all five end on a withheld verdict with the same prose reflexes; three
+  "closest published" lines name the wrong neighbour) and 3 NIT; nothing disputed. (2) First round, so no revision to
+  compare against. (3) Ranking A of 35: O-2 Working Height 31.8, O-4 Eleven Fathers 30.8, O-5 The Herring's Backbone
+  30.5, O-3 Undispensed 29.2, O-1 Right, Late 28.8; both reviewers would read O-2 to the end. The MAJOR is routed to a
+  rebuild of O-1 away from O-3's frame; the shared confrontation to a rebuild in O-5; every finding has a row in
+  `reviews/REV-03-disposition.md`. Five revisers are running. Tokens: the writers cost 0.65M, three times the estimate.
+
 - **Your answer of 2026-09-25 is recorded** verbatim as DEC-016 (Q-06 is the question) and DEC-017 (the caps row read from "say, five outlines": writers 13 to 18, premises 52 to 57). The twenty-seven other implications are saved in full in `SHELVED-QUESTIONS.md`. The outline pass is framed in `design/outlines/FRAME.md` and running.
 
 - **Questions funnel, round 2 (the re-review), 2026-09-14.** (1) Reviewer a scored eleven cards and struck one, Q-15;
