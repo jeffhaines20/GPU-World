@@ -84,3 +84,59 @@ reported no usage (their transcripts total 3.5MB) and are carried as an estimate
 **Round 2** uses the seeds recorded in `batches.json` before any writer ran: reviewer a reads O-3, O-1, O-5, O-4, O-2;
 reviewer b reads O-2, O-1, O-4, O-3, O-5 (`batch-round2-a.md`, `batch-round2-b.md`, 6,512 words each).
 
+## Round 2: the five revised outlines, two fresh reviewers
+
+Replies verbatim in `review-round2-a.md` and `review-round2-b.md`; scores in `scores-round2.json`; critiques by outline in
+`critiques-round2.md`; the offer assembled in `OFFER.md`. Pool medians: a 30, b 27 (31 and 30 in round 1). Cost: 223,081
+tokens over two calls.
+
+| Rank | Outline | Ranking A (of 35) | Raw totals | Round-1 rank | Round-1 A |
+|---|---|---|---|---|---|
+| 1 | O-4 Eleven Fathers | 31.0 | 33, 34 | 2 | 30.8 |
+| 2 | O-2 Working Height | 30.2 | 31, 33 | 1 | 31.8 |
+| 3 | O-3 Undispensed | 28.5 | 30, 27 | 4 | 29.2 |
+| 4 | O-5 Breast Law | 27.5 | 28, 25 | 3 | 30.5 |
+| 5 | O-1 He Has It With Him | 27.0 | 26, 25 | 5 | 28.8 |
+
+Ranking B (highest single): O-4 34, O-2 33, O-3 30, O-5 28, O-1 26. Disputed (gap of seven or more): none; the widest
+gaps are O-5 and O-3 at three.
+
+Verdicts. Read to the end: O-4 (a), O-2 (b). Most surprising: O-5 (a), O-4 (b). Does not survive: O-1 (a: its central
+charge is a cover-up with a known victim, Dubus's "A Father's Story" in a dispatch room, and its turn a withheld night
+released on cue) and O-5 (b: the judge's childhood in the litigant's phrase is a stock courtroom reveal the reader makes
+first; close to The Children Act; the departure reads as plain bias). No reviser said its outline does not survive.
+
+**Are the round-2 objections new, or the round-1 ones surviving?** O-4: round 1's gap (the theft coincidence) is gone; the
+new gaps are in the new mechanism (it opens on analytics; the inference that waiting till five was Tess's own practice
+on Kit must reach the page). O-2: both round-1 gaps (the confession, the thesis line) are gone; new: after the birth Noor
+has nothing at stake, the Gawande claim is argued in the note and dramatized in no scene, and "Again" may read as pardon.
+O-1: rebuilt, so every objection is new, and it is one objection from both reviewers: the founding departure (a ten-year-old
+serving a season for the son's alarm, logged "Cost: not mine") is knowing wrongdoing, so the reader condemns Wade before
+the question opens. O-3: the same largest gap in both rounds under a changed approach (the sertraline drawer was added, and
+both reviewers find the price still too mild, an emergency supply being a phone call away). O-5: the same largest gap in
+both rounds under a changed approach (round 1: her case was too thin, so the reader convicts her; round 2: the added
+childhood-affinity reveal makes the departure read as bias, so the reader convicts her earlier). By the kit's ledger rule
+the O-3 and O-5 gaps have now survived two rounds; a third attempt needs a changed approach written down first, or the
+human's decision, and this is the human's decision.
+
+**Movement, round 1 to round 2** (rank, ranking A): O-4 2nd to 1st (30.8 to 31.0; raw 31, 31 to 33, 34); O-2 1st to 2nd
+(31.8 to 30.2); O-3 4th to 3rd (29.2 to 28.5); O-5 3rd to 4th (30.5 to 27.5); O-1 5th to 5th (28.8 to 27.0). The reviewers
+were fresh each round, so the numbers are not strictly comparable, but only O-4 gained raw points; the other four lost
+some. Nothing is deleted: both versions of every outline are on file (`outlines/` and `revised/`), and the human may pick
+either version of any of them.
+
+**Cost of the pass.** Reported: writers 648,829; round-1 reviewers 210,241; originality critic 159,019; revisers 560,780
+(five reported calls); round-2 reviewers 223,081: 1,801,950. Unreported: five reviser calls cut short by the account's
+usage limit, carried as an estimated 0.5M. With the orchestrator's own share, about 2.7M against the 1.1M the frame
+estimated. Project total about 9.9M of the 10M cap. Nothing further runs without the human's caps row.
+
+**Carried to M2 and M3.** The originality critic's F4 (four prose reflexes: the cut from a hard line to an ambient sound;
+a line said flatly "the way" a job reads things; someone who "did not remember" a small act of the hand; someone who
+looked "at the window, where") is to be given to the draft's critics by name. Whichever outline is chosen, the
+story-architect inherits that outline's round-2 critiques and its REV-03 reading.
+
+## Waiting on the human (G1, third time)
+
+The pick, or a send-back, in their words; the G1 sign-off paragraph; and the token cap, since the spine cannot start
+inside what is left.
+
