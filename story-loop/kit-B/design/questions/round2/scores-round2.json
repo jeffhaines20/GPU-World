@@ -1,0 +1,160 @@
+{
+ "reviewer-a": {
+  "Q-21": {
+   "importance": 4,
+   "rigour": 3,
+   "novelty": 5,
+   "arguability": 4,
+   "story": 5
+  },
+  "Q-11": {
+   "importance": 4,
+   "rigour": 4,
+   "novelty": 5,
+   "arguability": 4,
+   "story": 5
+  },
+  "Q-14": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 4,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-06": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 5,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-15": {
+   "importance": 5,
+   "rigour": 3,
+   "novelty": 4,
+   "arguability": 4,
+   "story": 4
+  },
+  "Q-26": {
+   "importance": 4,
+   "rigour": 3,
+   "novelty": 4,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-27": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 4,
+   "arguability": 4,
+   "story": 5
+  },
+  "Q-08": {
+   "importance": 4,
+   "rigour": 3,
+   "novelty": 5,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-05": {
+   "importance": 4,
+   "rigour": 3,
+   "novelty": 4,
+   "arguability": 5,
+   "story": 4
+  },
+  "Q-12": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 5,
+   "arguability": 4,
+   "story": 5
+  },
+  "Q-25": {
+   "importance": 4,
+   "rigour": 3,
+   "novelty": 5,
+   "arguability": 4,
+   "story": 4
+  }
+ },
+ "reviewer-b": {
+  "Q-05": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 5,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-27": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 4,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-25": {
+   "importance": 4,
+   "rigour": 4,
+   "novelty": 5,
+   "arguability": 4,
+   "story": 4
+  },
+  "Q-14": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 4,
+   "arguability": 4,
+   "story": 5
+  },
+  "Q-15": {
+   "importance": 5,
+   "rigour": 3,
+   "novelty": 4,
+   "arguability": 5,
+   "story": 4
+  },
+  "Q-11": {
+   "importance": 4,
+   "rigour": 4,
+   "novelty": 5,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-08": {
+   "importance": 4,
+   "rigour": 3,
+   "novelty": 5,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-12": {
+   "importance": 5,
+   "rigour": 3,
+   "novelty": 5,
+   "arguability": 4,
+   "story": 5
+  },
+  "Q-26": {
+   "importance": 4,
+   "rigour": 4,
+   "novelty": 4,
+   "arguability": 5,
+   "story": 4
+  },
+  "Q-06": {
+   "importance": 5,
+   "rigour": 4,
+   "novelty": 4,
+   "arguability": 5,
+   "story": 5
+  },
+  "Q-21": {
+   "importance": 3,
+   "rigour": 3,
+   "novelty": 4,
+   "arguability": 4,
+   "story": 4
+  }
+ }
+}

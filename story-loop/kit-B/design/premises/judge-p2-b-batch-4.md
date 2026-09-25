@@ -1,0 +1,38 @@
+P-26 | idea=5 | person=5 | turn=5 | prose=no probe | aftertaste=5
+idea: The reversed panopticon — the watcher installed by the mother, owned by the child, with destruction permitted but never hideable — is a genuinely strange legal object, and the question of whether a mother may have said the unsayable to someone who could not yet hear it is one a thoughtful reader can hold from either side, and it is enacted by the black bar rather than argued.
+person: Signe wants a specific, impossible thing (to give him everything except the one thing) and pays for it by saying aloud the sentence she has spent fifteen years not saying, which is exactly the kind of richness the amended brief asked for.
+turn: The audio destroyed and the fact spoken — two irreversibilities pulling opposite ways, so that he can never hear it and can never not know it — is the cleanest one-way door in the batch.
+prose: no probe
+aftertaste: The image of a boy playing three minutes of silence and a mother watching his face is the kind of thing that sits in you, and the real residue is the question of whether a witness manufactures an addressee — whether she was talking to him.
+
+P-35 | idea=4 | person=4 | turn=5 | prose=no probe | aftertaste=4
+idea: "Can a public exist without any channel that reaches everyone unbidden" is a real and underserved political question — a world of perfect answers where nobody knows what to ask — and it is used rather than stated, since the whole plot is one wrong chime and the asking it produces; it loses a point only because the mechanism (play the other town's tune, let the model explain) is a shade too neat, a trick that works once on the page as it works once in the world.
+person: Ōmori's want is concrete and his cost is his job and the silence he himself believes in, though he is more office than interior — he is defined almost entirely by his function, and the card gives him no second appetite pulling against the first.
+turn: He spends the channel's whole worth in three seconds and it cannot be unspent, for him or for whoever inherits the poles; the suspension and the four hundred people are consequences that do not reverse.
+prose: no probe
+aftertaste: The last image — him on the balcony, hearing a wrong chime he did not choose and reaching for his phone to ask, now one of the askers — is a genuinely good ending, and I would keep thinking about the difference between information being available and information arriving.
+
+P-38 | idea=4 | person=5 | turn=4 | prose=no probe | aftertaste=4
+idea: Solidarity as a fast — ignorance as a chosen discipline rather than a natural condition — is a real insight about what insurance was always made of, and the actuarial politics are genuine on both sides; it stops short of five because the frontier-2040 premise is a fairly thin coat of paint over an argument that already worked in 2005, and "veil of ignorance" hovers so close that the card has to promise not to say it.
+person: A treasurer who wants to know if the tiredness is anything and also wants the fund to outlive her, discovering that the two wants cannot occupy one body, is the most exactly specified person here after Signe, and she pays by reading out the number.
+turn: Knowledge cannot be given back and the count cannot be recounted, which is properly irreversible, though the vote is the sort of turn a story does to a person rather than one a person does, and her staying softens the edge she has just walked to.
+prose: no probe
+aftertaste: The reconciled contribution list with her own name marked paid is a quietly devastating last beat, and I would keep worrying at whether the twenty-seven were cruel or right.
+
+P-37 | idea=4 | person=4 | turn=4 | prose=no probe | aftertaste=4
+idea: "If a veto can only be proven real by someone dying of it, is it worth having" is a sharp, answerable-both-ways question, and the honest loop (no exposé, no fig leaf) is the brave choice; the unnamed economic fact — responsibility as the developing world's newest export — is the freshest thing in the card, and it is a shame it stays a note rather than a pressure she feels.
+person: Rowena's want is strange and precise (to find out whether she is connected to anything) and she pays with a stranger's life, but the card keeps her at the level of the existential rather than giving her the domestic weight — a household, a debt, a reason for the night shift — that the offshoring premise is begging for.
+turn: The man is dead, the ambiguity is permanent, and she signs the next one; nothing can be undone, though the deliberate refusal to say whether the drug would have helped protects the turn from consequence as much as it complicates it.
+prose: no probe
+aftertaste: The ramp and the car in the drive on a road she has never walked will stay with me, and so will the discomfort that she got what she wanted and it was worth nothing.
+
+P-36 | idea=5 | person=4 | turn=3 | prose=no probe | aftertaste=4
+idea: "What does political speech cost when speech is free" is the most novel question in the batch — the perfect petition as the thing that destroys petitioning, the body as the last costly signal, and the crowd assembled not for a public but for a citation — and every beat of the plot is that idea operating rather than describing it.
+person: Rowena wants a door with a lock and pays with her face in the record and her neighbours' regard, which is properly costly, though she is drawn a little more as a position in the argument than as a woman with a history.
+turn: The photograph is permanent and the door is real, but she was always going to take the money and the card says so — the crowd is hired regardless — so what changes is her legibility to the archive rather than anything she does; the strongest irreversibility, the neighbours in the doorways counted as consent, happens to her offstage.
+prose: no probe
+aftertaste: The closing caption — the watchers counted as supporters — is a genuinely chilling piece of thinking about what a record cannot distinguish, and I will keep turning over whether a witness and a participant were ever separable to anything but a human eye.
+
+READ BEFORE: P-26 — the shape is Ted Chiang's "The Truth of Fact, the Truth of Feeling," which the card names and then genuinely escapes, since here record and memory agree and nothing is discovered; P-38 — Rawls's original position as fiction, and structurally Ursula K. Le Guin's "The Ones Who Walk Away from Omelas" inverted, the one who pays being the one who broke the rule and the one who stays; P-37 — Melville's "Bartleby, the Scrivener," named and honestly departed from, with a strong echo of Kazuo Ishiguro's "Never Let Me Go" in its tone of a competent person serving a system that is not lying to her.
+WOULD READ / WOULD NOT FINISH: P-26 at five thousand words, because the two irreversibilities pulling in opposite directions will generate real sentences and the last image is already earned; P-38 I would be likeliest not to finish, because a meeting, a show of hands and a spreadsheet risk becoming the lecture the brief forbids, and the philosophy is famous enough that the story has to outrun a reader who has already named it.
+MOST NOVEL QUESTION: P-36 — whether a demonstration assembled purely for the archive is a corruption of political voice or the honest form of what a demonstration always was, now that presence is the only costly signal left; it is novel because it takes the contest's "end of social media" and "developing world" prompts somewhere neither implies — into the economics of what speech costs when speech is free — and because it identifies a failure mode nobody lists, that a record which cannot tell a witness from a participant will convert watching into consent.

@@ -1,0 +1,94 @@
+# Revision packet for O-2
+
+## The outline as it stands
+
+### O-2 — Working Height
+Conceit: Every midwife's decisions are scored for concordance with her counsel, the model everyone carries, and the counsel writes the simulator. So the only place to learn when to overrule it is a real woman, who can then read to the decimal what the lesson cost her and nothing of what it bought.
+Who: Noor Brouwer, 24, in her last month of midwifery training in Zierikzee, Zeeland. The practice does home births in houses under the dike, and the hospital is half an hour away across the Zeelandbrug. Her supervisor, Marga Dekker, 65, trained in 1998 and retires in January. Noor wants to be a midwife who knows, not one who relays. Her concordance, 97.1, is the province's lowest, and she checks it the way a runner checks her pace.
+Obstacle: The counsel is right far more often than she is. The only place to learn whether she is ever right where it is not is a live birth: the simulator is the counsel's, Marga's sense will not go into words, and a woman at eight centimetres, asked to be the test, says stay. Nothing buys it off: no one's model beats anyone's, and study is not a decision borne.
+Turn: Sanne, who filed the complaint that morning, asks what Noor heard. Noor can no longer hear it herself. She plays the ten-past-two recording, and Sanne says "Again." The question passes to the woman who paid: the complaint cannot be unsent, and she can no longer be sure of it. The bill's clean verdict was all the price bought her, and Noor cannot give it back.
+Last image: Sanne lies at a midwife's working height on the bed still raised on its four blocks, her daughter asleep on her chest. She holds Noor's phone to her ear, listening for what the woman she has just reported heard at ten past two.
+Question: May an apprentice spend a stranger's birth to find out whether her own hearing is worth anything, when that is how every midwife who ever outheard the counsel was made, and when the stranger can read exactly what it cost and never what it bought?
+What the reader assumed and no longer does: That a practitioner's judgment is her own possession: it is a debt run up on strangers who never agreed, and in 2040 they hold the invoice, never the receipt.
+Why it cannot be predicted, and why it is earned: Noor's departure is toward caution, against a counsel that is right about everything it can see; the evidence that should settle it, a knot in the cord, settles nothing, and the ending hands the question to the woman who paid. Every event is ordinary obstetrics, and the bill is exactly what a 2026 model would write: fair, hedged, and blind only to what did not happen.
+Not the obvious version: In the obvious story a young nurse overrules the AI and is proved right (intuition wins) or wrong (humility learned). Here the counsel is sound and the departure cautious. Its cost is cut into a stranger and priced to the decimal, its benefit cannot be known, and no one learns anything they can say.
+Closest published: "The Truth of Fact, the Truth of Feeling," Ted Chiang. There a perfect record corrects a father's memory of what he said to his daughter, and he accepts it. Here the record is complete and fair but cannot answer the question that matters, and the person reading it is the one who paid.
+Beats:
+1. Zierikzee, November 2040. Noor has departed from counsel seven times this year, on small things, and learned nothing, because nothing happened. Marga goes in January. The want has nowhere left to go but a real woman.
+2. A house under the dike: Sanne, a dike inspector, and Joost; first baby; the bed on hired blocks. Eight centimetres, all normal. At 02:10 Noor hears the heart come back after a contraction a fraction late; the counsel hears nothing wrong.
+3. The landing, 02:14. The counsel, patient and fair: no indication; transferring now risks a birth on the road; if you cannot articulate a concern, consult your supervisor. Marga, in the doorway: "Your call." Into her collar Noor says, "Something's wrong. I don't know what. If I don't go now I'll never know whether I can." Both halves of her reason go on the record.
+4. She tells them. Sanne's and Joost's counsels say what hers says. "Why?" "I can't tell you." Sanne agrees because a professional is afraid, and that fear is the only argument Noor has. The risk moves onto a stranger by fear, not reason.
+5. The Zeelandbrug at 02:40: five kilometres of lamps over black water, Sanne on all fours on the stretcher, the counsel updating the odds of a birth on the bridge. There is none. The contractions space out: the danger Noor chose passes, and one she did not foresee begins.
+6. Goes. The registrar's counsel agrees with Noor's counsel, not with Noor. Labour stops at eight centimetres; section at 07:40. The obstetrician lifts the cord: a true knot, loose. Noor photographs it. Apgar nine and ten. The only evidence arrives and settles nothing.
+7. Day two: Sanne's counsel's review, forwarded to the practice. The section was probably avoidable, about three in five; every future birth is now in hospital; the knot is "not evidence that transfer was needed"; the 02:14 line is quoted; a complaint is drafted. The cost is exact and public, and so is her wanting.
+8. Marga's kitchen: a paper notebook, 1998 to 2026. Seven transfers "for nothing I could say"; two were something; the other five women never knew why they were moved. Marga heard nothing at ten past two and let Noor go anyway: "In January there's no one to let you." Marga's judgment was paid for the same way, and she has just spent Sanne on Noor's.
+9. Day eight, the postnatal visit (the passage): Sanne's grievance becomes a question.
+The passage:
+The bed was still on its blocks. Joost said it was easier for the stitches, getting up, so Sanne lay at the height Noor would have worked at, and Noor stood beside it with nothing to do with her hands.
+
+"I sent it this morning," Sanne said. "Mine drafted it. It was very fair."
+
+"I read it."
+
+"'If I don't go now I'll never know whether I can.'" She said it flatly, the way she would read a gauge. "Fourteen minutes past two. That's you."
+
+"Yes."
+
+"Do you know now?"
+
+The baby slept face down on Sanne's chest, one fist under her cheek. Noor had listened to ten past two perhaps four hundred times. The first night she had heard it after every contraction: the heart coming back a fraction late, like someone answering to her name a moment after it was called. By Friday she heard it one time in five. Since Sunday she had not heard it at all, and she had stopped asking the counsel, because it answered the same way each time, patiently, and the patience was worse.
+
+She set the phone on the duvet and pressed play.
+
+The room filled with a heart under water, fast and soft, a horse going hard on sand. Then came Sanne's own breath from that night, lower, dragging, the contraction building under it; the gallop slowing; the gallop coming back.
+
+Noor heard a heart.
+
+Sanne did not look at the phone. She looked at the window, where the dike cut the sky in half, and her hand lay flat on her daughter's back and rose when the small back rose.
+
+It ended. Noor reached for the phone.
+
+"Again," Sanne said.
+Status: generated
+
+## The two reviewers' critiques of this outline
+
+### reviewer-a — question 5, surprise 4, insight 5, grip 5, person 5, ending 5, prose 5 (total 34 of 35)
+
+question: Every part of the question is acted out and none of it is settled: a cautious departure against counsel that is sound, both halves of Noor's reason ("If I don't go now I'll never know whether I can") on the record where the woman who paid can quote them back, a knot that proves nothing, and a mentor whose own judgment was paid for by five women who never knew why they were moved.
+surprise: Making the departure cautious, letting the one piece of evidence settle nothing and having Noor lose the sound on replay are all unforeseen, and "Again" is earned, but from beat 1 a reader knows she will spend a real woman, and Marga's notebook is a stock reveal.
+insight: That every practitioner's judgment was bought on strangers who never agreed, and that when everything is audited the one who paid holds "the invoice, never the receipt" (the cost exact to the decimal, the benefit forever counterfactual), changes how a reader sees their own doctor's hunches, and Noor's fading ear shows unspoken perception dissolving under audit.
+grip: A labour at eight centimetres, a stretcher on the five-kilometre bridge at 02:40 with the odds updating, a caesarean, and a complaint that quotes her ambition give a bodily price and a real clock, with no natural place to stop.
+person: Noor checking her 97.1 like a runner's pace, Marga at 65 with a notebook begun in 1998, and Sanne the dike inspector on a bed raised on hired blocks under the dike are particular in every detail.
+ending: Sanne, who has just reported her, lies at a midwife's working height with her daughter on her chest and the phone at her ear and takes up the question as the one who paid, which is earned, open and not a moral.
+prose: "A heart under water, fast and soft, a horse going hard on sand," "like someone answering to her name a moment after it was called," "the patience was worse" and "Noor heard a heart" are at the level of the best published short fiction, and only "the way she would read a gauge" leans on a job-based simile.
+largest gap: Beat 8's kitchen confession (Marga's notebook, "In January there's no one to let you") is a stock mentor reveal that says aloud what the birth already showed, in a plan already over-full for 5,000 words (labour, bridge, caesarean, complaint, confession, visit).
+
+### reviewer-b — question 5, surprise 4, insight 4, grip 5, person 4, ending 5, prose 5 (total 32 of 35)
+
+question: Noor departs toward caution, on a stranger, with both halves of her reason on the record, and Marga's notebook shows that every master was made the same way, so the entitlement question is acted out from both sides, and the loose knot, the Apgar of nine and ten and the "about three in five" keep it unsettled.
+surprise: The shape (an apprentice departs, the evidence is ambiguous, the audit arrives) can be foreseen from beat 1, but the cautious direction of the departure, Marga's "In January there's no one to let you" and the complainant asking to hear it "Again" cannot, and each one is prepared.
+insight: A reader comes away seeing a practitioner's sense as a debt run up on strangers, and seeing that universal audit makes its cost exact and its benefit invisible (the invoice, never the receipt); that clinicians learn on patients is familiar, and the asymmetry is the new part.
+grip: The landing at 02:14 and the Zeelandbrug at 02:40, with the counsel updating the odds of a birth on the bridge, are scenes a reader cannot leave; the one place a reader might stop is beats 7 and 8, where a forwarded review and then a kitchen notebook carry the argument back to back.
+person: Zierikzee, the hired bed blocks and Sanne the dike inspector reading Noor's line back "the way she would read a gauge" are exact, but Noor herself is mostly her want and her 97.1, with no life outside the job and no source given for the want.
+ending: Sanne, who holds the bill, lies at a midwife's working height listening for what the woman she reported heard; Noor's four hundred replays and Sanne's "Again" earn it, and it hands the question to the one who paid without giving a verdict.
+prose: This is at the level of the best published work ("like someone answering to her name a moment after it was called," "the patience was worse," "Noor heard a heart."); only the doubled figure for the heartbeat (under water, then a horse on sand) and the dike cutting the sky in half reach for effect.
+largest gap: The plot's moral evidence is one sentence Noor says into her collar at 02:14, "If I don't go now I'll never know whether I can." It states the story's question outright at a moment too frightened for that kind of articulacy, so the complaint, the review and Sanne's reading all rest on the author's thesis in a character's mouth.
+
+## The originality critic on this outline
+
+**O-2 Working Height.** (1) Gawande, "The Learning Curve" (2002). The conceit is Gawande's argument moved to 2040: a novice can learn only on real patients who never agreed to be the lesson. What differs: Gawande's residents learn to do more; Noor learns to do less, against a machine that is right, and the patient reads the bill. (2) Chris Bohjalian, *Midwives* (1997). Same: a home-birth midwife makes a call nobody can check, and the record of it becomes a formal accusation (in Bohjalian, a manslaughter trial, told years later by the midwife's daughter, by then a doctor). Different: Bohjalian's mother dies and the book is a trial; here mother and baby are well, the departure is toward caution, and the harm is a caesarean that was "probably avoidable, about three in five". (3) Antonioni's *Blow-Up* (1966) and Coppola's *The Conversation* (1974), for the passage only. Same: a trained eye or ear goes back over a recording until what it was sure of drains away. Different: here the recording is handed to the person who paid, and "Again" makes the doubt hers. (4) Chiang's "The Truth of Fact, the Truth of Feeling", the outline's own choice, is a weak fit: no birth, no apprentice, no stranger, only a fair record that settles nothing. The alarm that cannot say why ("Something's wrong. I don't know what.") is standard furniture: the fire commander in Gary Klein's *Sources of Power* (1998), retold in Gladwell's *Blink* (2005). Verdict: familiar furniture, new house (MINOR at most). I have not met this arrangement: a departure toward caution, a training simulator written by the counsel itself, and the patient ending up re-hearing the evidence. The "Closest published" line names the wrong neighbour.
+
+**Between the outlines.** O-1 and O-3 are one story twice. In both, a father keeps a paper record of his judgments about his child, one book a year, written at night. The grown child (19 in O-1, 23 in O-3) spends the last night before leaving by boat for a working life (deckhand; junior doctor) scoring the books at the kitchen table, as "Right"/"Wrong" or as ticks and crosses. The deciding entry is a teenage episode where the father guessed what was happening and stayed away. The child's answer is that the father's coming was the thing dreaded ("Because you'd have come"; "if Dad comes up those stairs into the gallery I will die"). Both close on the kitchen table after the child has gone, with a line left blank and a pen held over it (O-1) or lying across it (O-3). The only real difference is the father's sign: Wade always departed from the model, Magnus never did. That mirror is interesting, but it does not make two stories. O-4 tells the same premise a third time. Its plot departs furthest from O-1, but it keeps O-1's main elements: the father who never asked the counsel, the 19-year-old leaving home, the learning curve with the child's early years at the bottom, a theft as a key entry, and the question "raised, or practised on?" word for word. O-2 and O-5 are one skeleton twice. In both, a practitioner sits at one end of a concordance scale (Noor's 97.1 is the province's lowest; Aalin's 2,914 judgments all agreed with Counsel). A retiring elder who knows from the inside what a departure costs lets one happen (Marga's five women moved for nothing; Juan's son and grandchildren, spent on another Deemster's education). The one departure falls on a stranger and rests on a perception that cannot be put into words. Then a working woman who reads instruments for a living ("the way she would read a gauge"; "the look she must give a monitor at four in the morning") runs her own model's fair review and asks whether the practitioner knows ("Do you know now?"; "Do you know you're right?"). The two passages are that same scene. All five end on a verdict withheld: a pen held over the line; "Again"; a tick crossed through and a last line left blank; "could not tell"; "No". The passages also share one writer's reflexes. Four cut from the hard line to an ambient sound ("The furnace came on"; "The Rayburn ticked"; "The radiator ticked. Downstairs the fridge came on."; "Rain ticked on the roofs of the cars"). Three have a hard line said flatly "the way" a job reads things (a gauge, a potassium, the wind getting up). Two have someone who "did not remember" a small act of the hand (O-1, O-4). Two have someone look "at the window, where" (O-1, O-2). Three of the five name the same Chiang story as their closest neighbour. That choice is wrong for O-2, and O-3 and O-5 miss nearer neighbours (F5–F7).
+
+Findings naming this outline:
+- F3: MINOR — O-2 and O-5 (each other) share one skeleton, and their passages are the same scene (the stranger reads out her own model's fair review and asks whether the practitioner knows); if both go forward, the loop should rebuild one confrontation so the two do not end on the same question.
+- F4: MINOR — O-1 to O-5 (one another) all end on a withheld verdict and share the same prose reflexes (the cut to an ambient sound, "said it the way", "did not remember", "looked at the window, where"); the loop should tell the human that choosing an outline does not choose an ending, and should have the draft's critics look for these reflexes by name.
+- F7: MINOR — O-2's nearest neighbours are Atul Gawande's "The Learning Curve" (2002), whose argument its conceit transposes, and Chris Bohjalian's *Midwives* (1997), not Chiang's story; the loop should correct the line and, if O-2 goes forward, make the draft answer Gawande rather than restate him.
+- F9: NIT — O-2's passage uses the device of Antonioni's *Blow-Up* (1966) and Coppola's *The Conversation* (1974), going back over a recording until the certainty drains out; that is fine, but the loop should expect a reviewer to name it and make sure the new turn (the woman who paid asks to hear it again) carries the scene.
+
+## The orchestrator's routing of the originality findings for this outline
+
+F3 (MINOR) names this outline together with O-5; the rebuild of the shared confrontation is routed to O-5, not to O-2: keep your scene. Address F7 (the nearest neighbours are Gawande's "The Learning Curve" and Bohjalian's Midwives; correct the line, and let the story answer Gawande rather than restate him) and F9, and both reviewers' largest gaps.
+
+F4 (MINOR), to every outline: all five end on a withheld verdict and share prose reflexes (a cut from the hard line to an ambient sound; a line said flatly "the way" a job reads things; someone who "did not remember" a small act of the hand; someone who looked "at the window, where"). Avoid these in the passage. The ending may still withhold a verdict if that is the story's ending, but it should be this story's, not the batch's.

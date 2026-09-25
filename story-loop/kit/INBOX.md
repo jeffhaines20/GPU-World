@@ -12,141 +12,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**G1, third time (2026-09-25): the ranking of five Q-06 story outlines, for you to pick from or send back.** Five
-writers, one cell of the question each; two reviewers and an originality critic; every outline revised by a fresh agent
-against its critiques; two fresh reviewers again. The ranking below is the second round's. The whole file, with both
-reviewers' scores, their "largest gap" lines and each reviser's note, is `design/outlines/OFFER.md`; the first-round
-versions are in `design/outlines/outlines/`, and you may pick either version of any outline.
-
-Three things are yours to say, in your words (I will not choose or write any of them):
-
-1. **The pick** (G1): one outline, by ID, in either version; or send the pass back with what you want changed. Then the
-   G1 sign-off paragraph, dictated here or in chat; I paste it into DECISIONS.md unchanged and mark how it came.
-2. **The token cap.** About 9.9M of 10M is spent (this pass cost about 2.7M: the writers and revisers drafted at length in
-   their own contexts, and five reviser calls were cut short by the account's usage limit and rerun). Nothing runs
-   inside what is left. At the measured costs: the spine about 0.3M; the first draft round 1.1 to 1.7M; each revision round
-   the same; the final about 0.2M. A story with one revision round needs the cap at about 13M; with two, about 15M.
-3. **Anything you want changed first**, since the reviewers left two things standing after two rounds: O-3's price stays
-   mild (a prescription in a drawer, an emergency supply a phone call away), and O-5's judge reads as biased before her
-   side gets a scene. Both are the same gap two rounds running; a third attempt needs a changed approach, and that is your
-   call, not mine.
-
-Two things to know. The originality critic found that the five hold two situations (a parent audited by a child: O-1,
-O-3, O-4; an apprentice whose departure lands on a stranger who audits her: O-2, O-5), and after O-1's rebuild four
-distinct stories. And choosing an outline does not choose an ending: four of the five endings changed in revision, and
-the draft's critics will be asked for the shared prose reflexes by name.
-
-| Rank | Outline | Ranking A (of 35) | Raw totals | Round-1 rank | Round-1 A |
-|---|---|---|---|---|---|
-| 1 | O-4 Eleven Fathers | 31.0 | 33, 34 | 2 | 30.8 |
-| 2 | O-2 Working Height | 30.2 | 31, 33 | 1 | 31.8 |
-| 3 | O-3 Undispensed | 28.5 | 30, 27 | 4 | 29.2 |
-| 4 | O-5 Breast Law | 27.5 | 28, 25 | 3 | 30.5 |
-| 5 | O-1 He Has It With Him | 27.0 | 26, 25 | 5 | 28.8 |
-
-The round-2 verdicts:
-
-- reviewer a, read to the end: O-4, because the house is its own clock (the wall, the stairs, the bowl, the 9:14) and every beat turns the question onto a new child before it ends on a red ear instead of a verdict.
-- reviewer a, most surprising: O-5, because it moves what goes beyond the model from sight to affinity, lets the litigant and not the judge find it in a second, and has the man abolishing departure sign the last one.
-- reviewer a, does not survive: O-1, because its central charge is a cover-up with a known victim (Dubus's "A Father's Story" in a dispatch room), not a risk no one could yet price, and its turn is a withheld night released on cue.
-- reviewer b, read to the end: O-2, because a live birth on a five-kilometre bridge, a knot that settles nothing and a review that reads her wanting off the record give the batch its cleanest spine and most concrete price.
-- reviewer b, most surprising: O-4, because the audit breeds a second case and "Your sister's goes red" reveals the father knew all along, making the auditor the one now practising on a child.
-- reviewer b, does not survive: O-5, because its central reveal (the judge's childhood in the litigant's phrase) is a stock courtroom device the reader works out before the litigant does, it sits close to The Children Act, and it leaves the departure reading as plain bias.
-
-### O-4 — Eleven Fathers
-Conceit: For eleven years a father has kept every earpiece in a bowl by the door, so that he, not the counsel, would know his children. In her last week home, his daughter audits him with the counsel he never asked. Each run gives her a different reasonable father, and one thing stays steady: his learning curve, her years at the bottom, her brother's at the top. On the other side of the wall, her brother is listening.
-Who: Tess Haworth, 19, Hebden Bridge; a night care assistant in Halifax who follows every care plan to the letter. On Saturday she takes the 9:14 to nurse training in Leeds, where she will be taught when not to. She leaves Kit, 12, with their father, Rob, a tree surgeon. She wants one bill she believes before she goes.
-Obstacle: The audit will not hold still: eleven runs, eleven fathers. Every other opinion runs on the same model, and her own judgment was made in the house she is auditing. The one thing no rerun can vary is a live case, and the only live case is Kit. And the father now handling Kit is the one she paid for: to collect is to spend it.
-Turn: Friday evening, at the bowl, in front of her father, she takes Kit's bud out and carries it upstairs. Rob put it back on Thursday. Now he watches and does not stop her. She has departed twice: from her counsel, to find out on Kit; from her father, overruling a call the model graded well. The next child can check every word his father says.
-Last image: From the door, bag in hand: Kit, bud in, telling Rob the 9:14 is four minutes late; Rob, not checking, looking at the rim of Kit's ear, which has begun to go red.
-Question: Was Rob entitled to learn, on her, to be the man who knew his children (she paid, she can read the bill, and the father who stops mid-sentence for Kit is what she bought), or was it vanity charged to a child who could not be asked? By Thursday there is a second defendant: she lets Kit be the case.
-What the reader assumed and no longer does: That the one practised on stands outside the practice, as its judge: her audit is itself a departure, run on a boy who cannot consent. And that the harm is the mistakes, which an audit can total: here harm and gift are one thing. A child who cannot check his father's words grows round them, and what shields the next child from a father's errors also shields him from being known.
-Why it cannot be predicted, and why it is earned: The list is never read to Rob, and he never asks for it, as he never asked the counsel. The reader expects the younger child to repeat the elder's offence. Instead the second case is caused by the audit, and it reaches Rob because Tess lets it. Earned by the whisper, the creak, and stairs that come down to the door; the timing is hers, not the author's.
-Not the obvious version: The obvious version: the grown child reads the model's list to her father; he defends himself or breaks; they reconcile or part. Here the list is never read. He knew she was auditing him and never asked what it found. What she presents is his broken rule, in front of him, on someone else's behalf. Nor is it atrophy: his judgment is real.
-Closest published: Chiang, "The Truth of Fact, the Truth of Feeling": a father's memory of raising his daughter checked against a lifelog, from the parent's side. Chiang, "Anxiety Is the Dizziness of Freedom": other lives, machine-given and envied. Here no run holds another Tess. The eleven fathers are the model's scatter, read for error, and a child overhears the consulting.
-Beats:
-1. Monday, 3 a.m., her week off, a night worker's clock. She takes her bud from the bowl after Rob goes up and whispers because of the wall; Kit's bed creaks. Run eleven: forty-one entries, each beside a reasonable father's; this father is kinder to Rob than run ten's. She reads the gap between runs instead: wider than any entry.
-2. The entry: at thirteen, out of Calder High at lunch and up Midgley Moor till dark; Rob with a head torch; at the lights in Mytholmroyd: "I know why you did it. You wanted me to have to come and get you." The model offers three other reasons. She cannot tell whether his fits because it was true or because she has told her life in his words. She has made herself someone nobody need fetch.
-3. Wednesday, groundwork on a beech in Heptonstall. Rob ignores the client's model's felling plan and lays the limb between a greenhouse and a trampoline; his saw sparks on fence wire deep in the trunk. "Grew round it." That night, the curve: worse than counsel early, better later, Kit's years top right. And the credit it misses, a silent drive home at fifteen, "comparable to typical advice": it was the silence.
-4. Thursday, 4 a.m., going down to put hers back before his alarm: Kit's place is empty. She knows where he learned it. Her counsel gives the plan: wake him, return it, talk later. She goes back up with hers still in and waits for five.
-5. Five: the passage. The model grades him well; run four graded the lights well too.
-6. Six, Kit in her doorway: "Why did I do it?" He wants telling. An answer rises in her in her father's form, and might be true. She does not give it.
-7. Friday, Rob drops his keys in the bowl; she takes Kit's out in front of him. He watches and lets her. Upstairs: "Ask it. It'll give you three." Kit's fingers close on it. Nothing is said to Rob.
-8. Saturday morning: the last image.
-The passage:
-Her father's alarm went at five, as it had every working morning of her life, and she heard him on the stairs, then at the bowl, and then, which never happened, on the stairs again.
-
-Kit's door. The bed took his weight. It had been her room until she was eleven; she knew which board his heel was on.
-
-"Right," her father said.
-
-A small sound from Kit, the sound of being woken.
-
-"He's found it," the bud said in her ear. "You could still go in."
-
-"Shh."
-
-"I know why you did it," her father said.
-
-Her palm was flat on the wall. Six years she had lived inside the rest of that sentence. The lights in Mytholmroyd, the heater roaring, the head torch still round his neck: You wanted me to have to come and get you.
-
-"You did it because—"
-
-She waited for the rest. It did not come.
-
-"No," her father said. "I don't. Why did you?"
-
-"Dunno."
-
-"What did you ask it?"
-
-"Stuff."
-
-"Right."
-
-Then, after long enough that she thought he had finished: "Does it hurt? In your ear."
-
-"Bit."
-
-"Your sister's goes red."
-
-Her hand left the wall and found her own ear, the left, round the bud. The rim was hot under her fingers, and had been, she supposed, every morning since August.
-
-"He's asking rather than telling," the bud said, "which is generally considered good practice, though it may also be worth—"
-
-She took it out. It went on in her palm, very small, grading him.
-
-"Give it here," her father said. She heard Kit give it, heard him go down, and, because the stairs came down to the door, heard the click of Kit's going into the bowl beside his own, and the door, and the van.
-
-He had not come to her door. He had not come to her door once since August.
-Status: revised
-
-**Round-2 reviewers on O-4.**
-
-### reviewer-a — question 5, surprise 4, insight 5, grip 4, person 5, ending 5, prose 5 (total 33 of 35)
-
-question: Both people on trial are live and shown through action, not argument: Rob learned on Tess, and the father who stops mid-sentence for Kit is what she paid for, while Tess, going back upstairs with her bud still in, runs her own audit on a twelve-year-old who cannot consent, and nothing settles either.
-surprise: The premise comes straight from the card (a nineteen-year-old auditing the father who never asked), but the eleven fathers who differ from run to run, Kit's empty place in the bowl and Rob stopping mid-sentence are not foreseeable, and each is planted (the creak, the stairs that come down to the door, the red ear).
-insight: Two assumptions fall: that an audit can total the bill (eleven runs, eleven fathers, the gap between runs wider than any entry), and that a father the child can check is simply safer, since what shields the next child from his errors also shields him from being known.
-grip: The 9:14 on Saturday, a night worker's clock and the wall between siblings make the 5 a.m. listening scene one a reader cannot leave, but the story opens on its most abstract material (run eleven, forty-one entries, a curve), which is where a reader could put it down.
-person: Tess is wholly particular, a Halifax night care assistant who follows care plans to the letter, knows which board Kit's heel is on and has an ear rim gone hot every morning since August, and Rob, his saw sparking on fence wire inside a Heptonstall beech, is just as real.
-ending: Kit, bud in, reporting that the 9:14 is four minutes late while Rob, not checking, looks at the reddening rim of his ear, is earned by the passage, physical and open, and carries the whole question without a word of moral.
-prose: At the level of the best published stories ("she knew which board his heel was on," "Six years she had lived inside the rest of that sentence," "It went on in her palm, very small, grading him"), with only the bud's hedged "generally considered good practice" as a stock AI-voice gag.
-largest gap: Its premise is nearly the card's own "who it lands on" with a daughter in the son's place, and it opens on analytics (runs, entries, a learning curve that conveniently holds steady through eleven audits that otherwise disagree), so its first page has to win back both the surprise and the reader.
-
-### reviewer-b — question 5, surprise 5, insight 5, grip 4, person 5, ending 5, prose 5 (total 34 of 35)
-
-question: Every position is acted out, none argued: the bowl, the whispered audit, the father stopping his own sentence, the daughter waiting till five to see what he does with Kit and then overruling a call the model graded well; both his real judgment (the limb laid between greenhouse and trampoline) and its cost (a girl who made herself someone nobody need fetch) stay live to the end.
-surprise: The card's obvious scene, the list read to the father, never comes; instead the audit breeds a second case, the auditor becomes a defendant, and "Your sister's goes red" turns a week of secrecy into something he knew and allowed since August, unforeseeable yet planted by the creaking bed.
-insight: A reader leaves seeing that a model's audit of a parent is a scatter of eleven reasonable fathers rather than a verdict, that the eldest's harm and the youngest's better father are one transaction, and that what shields a child from a father's errors also shields him from being known.
-grip: The Saturday 9:14, the wall and the five o'clock scene heard through plaster are hard to leave, but the opening (3 a.m., run eleven's forty-one entries) and the night of the learning curve are both a woman reading a screen, and that is where a reader would stop.
-person: Tess is embodied and placed (a night care assistant who follows every care plan to the letter, Midgley Moor, the lights in Mytholmroyd, a hot ear rim, the board under her brother's heel), and Rob the tree surgeon, sawing into wire a beech "grew round," is just as particular.
-ending: Rob not checking the train time his son reads off the model, but watching the boy's ear begin to redden, is earned by the passage and open: attention, or the same silence he kept outside her door.
-prose: Published-level throughout ("then, which never happened, on the stairs again," "Six years she had lived inside the rest of that sentence," the bud "very small, grading him"), with only the doubled last line a touch mannered.
-largest gap: Its meaning hangs on one inference the story never states, that Tess waiting till five was her own practice on Kit, and if the page does not make that clear the second defendant vanishes and the Friday gesture reads as mere sisterly kindness.
-
-**What the reviser changed.** Both reviewers were right that Kit's theft, in her last week and in the shape of hers, read as arranged. The Co-op call is gone, and there is no theft anywhere. Tess's own entry is now the moor, and the card's phrase is gone. Kit hears her audit through the wall during her week off, and that is what causes his case. It reaches Rob because Tess lets it, her first departure from her counsel. So a character arranges the hinge, and the question falls on the auditor too. The curve is folded into the beech day for grip. "Anxiety" is named, and the runs are read for error, not envied. The passage drops the radiator, "did not remember," "the way," and the explaining close, and the lit-device ending is replaced. Refused: reading Rob the list, or reconciling them. Either would make it safer. Cost: the peaches. It survives.
-
+_(nothing: M2 is running for both stories. Story A, O-4 Eleven Fathers, in this kit; story B, O-2 Working Height, in ../kit-B. Next stop: G2 for each, one page of spine and the question "is this the story you want?", with the writer-model choice (DEC-021) open for you to overrule before any draft is written.)_
 ---
 
 ### O-2 — Working Height
@@ -577,6 +443,24 @@ curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
 
+- **G1 is signed (2026-09-25).** Your three sentences are pasted verbatim under a G1 heading marked as dictated in chat;
+  the gate check accepts them; I read them as GO for two outlines (DEC-022). The cap is 15M (DEC-019). Two outlines
+  means two kits: the kit is built for one story (one spine, one bible, one draft series, and checks that read those
+  paths), so O-2 runs in `../kit-B`, a copy of this kit with its own spine, drafts, reviews, ledger and gates; the caps,
+  the token count and your channel stay here, and any gate paragraph you dictate for story B is pasted into both.
+- **Your question, "Should the writers be Fable 5.1 or Opus 5.5?"** My answer (DEC-021): Fable 5.1 for the
+  story-architect and the story-writer, opus for the depth and adversarial critics as their briefs say, judge a on
+  Fable and judge b on opus as before. Reasons: the draft is the product and Fable 5.1 is the more capable model; the
+  critics and one judge stay cross-model, so the writer's taste is not grading itself; and if Fable calls hit the
+  account's usage limit as the opus reviser calls did, the writer falls back to opus and I record it. The case for opus:
+  it wrote the outlines' prose, which the reviewers put at the level of the best published work, and it costs about
+  two and a half times less per token, which matters for the account's usage limit though not for the token cap. You
+  can overrule this at G2, before any draft is written.
+- **The budget at 15M.** About 9.9M is spent, 5.1M left. Two spines with their critics are about 0.4M each; two first
+  drafts with their first critic round and comparisons about 1.1 to 1.7M each: 3.0 to 4.2M in all. That leaves about
+  1 to 2M, one revision round for one story at most. Reading both first drafts and choosing which continues is the
+  natural next decision, and the cap will need raising again for the revision rounds.
+
 - **Outline pass, round 2 (the second critic round), 2026-09-25.** (1) Reviewer a struck O-1 (a cover-up with a known
   victim, not a risk no one could price); reviewer b struck O-5 (a stock courtroom reveal; the departure reads as bias);
   nothing disputed. (2) For O-4, O-2 and O-1 the objections are new and in text the revisers changed; for O-3 and O-5 the
@@ -639,4 +523,4 @@ _(every request made of the human, kept after it is answered)_
 | 2026-09-08 | Caps row for a second funnel pass: writers 13, premises 52, probes 16, judge calls 28 | 2026-09-08, in chat: raised as proposed (DEC-013), and writers may pose their own big questions (DEC-014) |
 | 2026-09-08 | G1, second time: pick one of P-26, P-31, P-40 (or the runner-up P-25); the sign-off paragraph | 2026-09-14, in chat: sent back; the four are shelved; a questions-first funnel runs (DEC-015) |
 | 2026-09-14 | The questions funnel's offer: choose one of Q-06, Q-11, Q-12, Q-14, Q-27 (Q-05, Q-08 just below); a caps row for the third premise pass; the token cap | 2026-09-25, in chat: Q-06 (DEC-016); the others saved (SHELVED-QUESTIONS.md); "say, five outlines" read as the caps row (DEC-017); the token cap not addressed, asked again with the ranking |
-| 2026-09-25 | G1, third time: pick one of O-4, O-2, O-3, O-5, O-1 (either version) or send back; the sign-off paragraph; the token cap; whether O-3 or O-5 gets a third attempt | |
+| 2026-09-25 | G1, third time: pick one of O-4, O-2, O-3, O-5, O-1 (either version) or send back; the sign-off paragraph; the token cap; whether O-3 or O-5 gets a third attempt | 2026-09-25, in chat: "raise the cap to 15M" (DEC-019); drafts of O-4 and O-2 (DEC-020, G1 pasted verbatim, read as GO); O-3 and O-5 not taken further; the writer-model question answered by DEC-021 |

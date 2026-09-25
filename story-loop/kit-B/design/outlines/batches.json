@@ -1,0 +1,31 @@
+{
+ "round1-a": [
+  "O-4",
+  "O-1",
+  "O-5",
+  "O-2",
+  "O-3"
+ ],
+ "round1-b": [
+  "O-2",
+  "O-3",
+  "O-4",
+  "O-5",
+  "O-1"
+ ],
+ "round2-a": [
+  "O-3",
+  "O-1",
+  "O-5",
+  "O-4",
+  "O-2"
+ ],
+ "round2-b": [
+  "O-2",
+  "O-1",
+  "O-4",
+  "O-3",
+  "O-5"
+ ],
+ "_method": "random.Random(seed).shuffle over [O-1..O-5]; one batch of five per reviewer per round; seeds round1 a=20260925 b=20260926, round2 a=20260927 b=20260928"
+}
