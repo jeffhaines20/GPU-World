@@ -1,6 +1,6 @@
 # State
 
-**Milestone:** M1 — Premise funnel · **Updated:** 2026-09-14 · **Current draft:** none
+**Milestone:** M1 — Premise funnel · **Updated:** 2026-09-25 · **Current draft:** none
 
 ## Caps
 
@@ -11,8 +11,8 @@ is a failing check.
 
 | Cap | Value | Used | What kind of number |
 |---|---|---|---|
-| Premise-writer calls (one per partition cell) | 13 | 13 | budget for M1: six cells, and one spare so that the human sending a cell back at G1 does not need a caps decision. Every M1 row below is sized the same way — one regeneration and no more; a second needs the human's caps row |
-| Premises generated | 52 | 52 | budget for M1: twenty-four, and four more for one regenerated cell |
+| Premise-writer calls (one per partition cell) | 18 | 13 | budget for M1: six cells, and one spare so that the human sending a cell back at G1 does not need a caps decision. Every M1 row below is sized the same way — one regeneration and no more; a second needs the human's caps row. Raised 13 to 18 by DEC-017 for the outline pass (five writers, one cell of Q-06 each) |
+| Premises generated | 57 | 52 | budget for M1: twenty-four, and four more for one regenerated cell. Raised 52 to 57 by DEC-017: the five outlines of the third pass count here |
 | Probe passages | 16 | 12 | budget for M1: six probes for the six cards chosen at step 6, and four more so that one regenerated cell can be probed too. Sized for the send-back G1 offers the human |
 | Premise-judge calls | 28 | 22 | budget for M1: two judges over four batches of six cards is eight calls, two more over the probed six is ten; four more so that a regenerated cell's cards can be judged and then re-judged with their probe. Sized for the send-back G1 offers the human |
 | Revision rounds in M3 | 3 | 0 | budget for M3; resets never. Lowered from the kit's 12 to the 3 the human named in the handoff; a raise is their caps row |

@@ -26,3 +26,11 @@ because the human was "still not quite sold on any of the questions" (DEC-015).
 | P-25 | The Sunset | `kit/design/premises/cards/P-25.md` | `kit/design/premises/probes/P-25.md` | runner-up, judge a's favourite; held out by the one-lifelog-card rule |
 
 The other twenty-four second-pass cards are in `kit/design/premises/pass2.md`; P-33 and P-49 also have probes.
+
+## Questions, shelved 2026-09-25
+
+The human's words: "Ok, make sure the other ideas are saved for future use. I agree that Q-06 looks like the best question. Have some writer agents draft, say, five outlines of stories that would both convey the rich philosophical complexities of the idea and also be gripping, excellent sci-fi short stories, then again have reviewers critique and iterate, and then present me with a ranking of the Q-06 story ideas."
+
+The twenty-seven implications not chosen (ten revised, seventeen as generated) are kept in full in `SHELVED-QUESTIONS.md`,
+with their scores and critiques in `kit/design/questions/`.
+

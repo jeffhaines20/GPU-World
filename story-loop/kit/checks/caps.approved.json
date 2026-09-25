@@ -1,13 +1,13 @@
 {
- "accepted": "DEC-013",
+ "accepted": "DEC-017",
  "caps": [
   {
    "name": "Premise-writer calls (one per partition cell)",
-   "value": "13"
+   "value": "18"
   },
   {
    "name": "Premises generated",
-   "value": "52"
+   "value": "57"
   },
   {
    "name": "Probe passages",

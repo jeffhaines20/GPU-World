@@ -12,114 +12,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**The questions-first funnel is done (2026-09-14). Five implications for you to choose from.** Twenty-eight
-were argued, two reviewers scored them all, the top ten and one disputed card were each revised by a fresh agent against
-both critiques, and two fresh reviewers scored the eleven again. These are the top five of that second scoring. The
-whole file, with both reviewers' scores, their "weakest step" lines and each reviser's note of what it changed, is
-`design/questions/round2/OFFER.md`; every review is there verbatim.
-
-Three things are yours to say, in your words (I will not choose or write any of them):
-
-1. **Which question** the story is written to. One of the five below, or Q-05 or Q-08, which sit just under the line,
-   or more than one if you want premises written to two.
-2. **A caps row for the third premise pass.** The premise-writer cap is spent (13 of 13). Four probe passages and six
-   judge calls remain. A pass of four writers to the chosen question, four probes and four judge calls would need
-   "premise-writer calls 17, premises 68, premise-judge calls 32"; say the numbers you want.
-3. **The token cap.** About 7.2M of 10M is spent. At the measured costs a premise pass is about 1M, the spine about
-   0.3M, each draft or revision round 1.1 to 1.7M, the final about 0.2M. The 2.8M left reaches the pass, the spine
-   and the first draft, and no revision round. One revision round and the final need about 13M; two rounds about 15M.
-   Say the cap you want, or say to spend the 2.8M and stop where it stops.
-
-Two things to know before you choose. The five hold cells B (moral), C (economic, twice), D (political) and G (unnamed):
-no philosophical (A) or religious (E) card reached the revision round, and the one social (F) card fell. And Q-14's
-weakest step is the same one in both rounds, the size of the fraction of cases that ignorance alone was holding; the
-reviser called it an empirical bet it cannot settle from the premise.
-
-### Q-06 — cell B — Practicing on People
-Implication: Because the model is good but never superhuman, no one has more than one, and it is there before every decision, the only way past it is departing from it, on live cases, before knowing one is right, which makes cultivating one's own judgment a risk run, without consent, on others.
-Follows from: (1) The model advises at a thoughtful generalist's level and is there before every decision. (2) Judgment, in Aristotle's sense, seeing what matters here, is built by deciding and bearing the outcome. Consulting and watching counsel fail teaches where it fails; what to do instead is learned only by doing otherwise, each a live case. When counsel was a person, often absent, most departures were forced and their costs no one's fault; now counsel precedes every decision, every departure is chosen, and a chosen cost is an imposition. Still contested. (3) Because the model is never superhuman and cannot be pooled or bought, everyone's ceiling is the same; the only way past it is personal: a woman can beat it on her own daughter with what she cannot put into words. Since progress stopped, if no one departs, human practical wisdom is capped where the frontier was. (4) But such cases are about other people, and she cannot know in advance that she has beaten it. Knowing when one's sense outruns the counsel is judgment itself; the mother who knows when to overrule owes nothing, and got there through cases where she did not. The debt is the apprentice's: not a worse expected outcome but a risk she cannot yet price, run on another's account. (5) Those people have the same model. The son can run his father's choices through it and read what a reasonable man would have done: the apprentice is audited by her material.
-For an ordinary person: A shift supervisor has a man gone slack. The model offers a script; he sets it aside and speaks in his own words, wanting to be a supervisor who can. It goes badly; the man is shamed before two others. The man asks his model what a competent supervisor would have said, and reads how much worse he was treated.
-The strongest objection: This is romanticism. No surgeon refuses the checklist to grow; judgment was always built by consulting, following, and departing only where counsel has visibly failed, a loop the model makes faster, and the child pays for a generalist's rarer mistakes, not a beginner's. Departing sooner, to become someone, is arrogance; Bernard Williams named the vice: caring more about the agent you are than the people in front of you, moral self-indulgence.
-Either side: May a person depart from the model, at a risk they cannot yet price to those affected, to become someone whose judgment is their own, or is that vanity paid for by others?
-Not the obvious version: The nearest cliché is atrophy: AI makes us dumb. This is not about capacity, and where the father beat the model he owes nothing. The question is whether he was entitled to find out, given who paid and can check the bill.
-Who it lands on: A father who raised his son, never asking, because he wanted to be the man who knew his boy, not the one who relayed. At nineteen the son runs those years through his model and brings a list: the theft, where the script was better; the heartbreak, where his father's silence was. He asks which his father knew in advance, and whether he was raised or practiced on.
-Status: revised
-
-### Q-11 — cell C — The Ghost Estate
-Implication: Since compute cannot be accumulated, the only cognitive capital that grows is context, the years of memory, corrections and taught habits that fit one engine to one life, and because context is a file, the inalienable share casts an alienable shadow. Where a living is a practice, that shadow is the practice made runnable, worth most to whoever lets it drive; so it passes as practices pass, to heirs and buyers, whose own context stops growing while it runs.
-Follows from: Identical engines that cannot be pooled differ only in what they have been told: instructions, memory, years of feedback. That is information, not capability; the ceiling holds. But the facts are the business, and business as usual already sells them as goodwill: a solo practice's client book goes for a year or two of fees, often more than a modest house, to a successor who must still earn the clients, and some walk. In 2040 the successor's engine already knows them, greets them in the old manner, and fewer walk. So the shadow is worth goodwill plus a continuity premium, no more; that premium is the weakest step, assuming clients stay for the manner, not only the numbers. Nor is it fungible: a peer with fourteen years of their own has no use for it; it moves to heirs and entrants, an estate, not an exchange; and a wage worker's was taught on the clock and may belong to it. The displacement is not a hardware limit; one engine holds two files. But a context grows only from its person's corrections, and a person has one day to give: whichever runs it compounds, the other stalls. A firm pays someone to be displaced; an heir displaces herself.
-For an ordinary person: A carpenter in Oaxaca inherits his uncle's fourteen-year context: every job, every client, every correction. Loaded, his engine quotes like the old man, greets clients by nickname; it cannot cut like him. Two files fit; one grows, so he chooses daily whose day it is, and clients have noticed which days are which.
-The strongest objection: Grant the asset; the displacement is still chosen, not forced. An engine can consult the dead man's context and run as the heir: she keeps the records, the clients and her own day, losing only a manner most clients will not pay for once the numbers are right. Then the ghost is a filing cabinet with a voice, only grief lets it drive, and the drama is sentiment. And privacy law may make contexts untransferable personal data.
-Either side: If the shape of a mind can be left but only worn, is the heir who runs her father's context keeping him or spending herself; and should a mind be inheritable at all, when whoever receives it must give it their days?
-Not the obvious version: The cliché is the upload, the ghost with rights. This is no copy of anyone but a 2026-quality engine wearing a dead man's habits, paid for only by displacing the living. The story is not the ghost's claims but the heir's opportunity cost, her whole allotted mind.
-Who it lands on: Ines, twenty-nine, inherits her father's context: a small-town tax practice, fourteen years, three hundred clients, appraised at more than his house. Keeping him means spending her engine's days being him; being paid means licensing him to the practice's buyer, whose engine will greet his clients in his voice. She has not opened her own in three months; it has not grown since.
-Status: revised
-
-### Q-12 — cell C — The Ward's Share
-Implication: Because everyone has a share, infants and the comatose included, and every share must be directed by someone, the right to direct the engine of one who cannot is the unpriced loophole in the equality: dependents turn from costs into assets, guardianship into compute custody, and household income can hinge on a body staying alive.
-Follows from: Every human, no one has none: a newborn has an engine, always on; so does a woman six years silent. Neither can direct it. The premise forbids selling or pooling a share and is silent on who directs it: for a competent adult, owner and director are one. Guardianship parts them: business as usual gives whoever cannot act a guardian to direct what the ward cannot. No lease is needed: the engine stays the ward's, unpooled; the guardian sells what it makes as she would her own work. The weakest step: that law lets direction reach past the ward instead of quarantining ward-engines. Idled, wards are visibly less equal, and her family pays her bed from one engine; no legislature chooses that. Sole benefit is a door, not a fence: her engine's first service to her is earning her bed; the surplus is the guardian's to justify. A trust holds earnings, not direction, which someone must give the engine every day. So a guardian has a second engine and a parent of four has five: dependents are net assets from birth, for the first time since agrarian child labour. And her engine is a stream that ends at her death and passes to no one: the household's interest and hers can part. This is de facto pooling: inalienable in law, aggregated in practice, inside families, where nobody signs anything.
-For an ordinary person: A father in Naples runs his four children's engines on freight manifests and sells them to an agent who does not ask how one man does five men's work. He is scrupulous: the children's earnings in trust, their contexts kept clean of his. His twelve-year-old's engine has spent more hours on manifests than homework, and knows more about shipping than about her.
-The strongest objection: Guardianship already handles this: a child actor's Coogan account; a 2040 statute would ring-fence ward-engines for care, surplus in trust. Before 2040 a silent woman was a cost to family or state; a share that pays her own bed is the equality working, not leaking. And keeping her alive for a stream that stops at death is a pension's incentive, centuries old.
-Either side: Is directing the engine of someone who cannot direct it care or extraction, and does the answer change when the proceeds pay for her bed, so that stopping one stops the other?
-Not the obvious version: The cliché is exploitation and a villain. The child is not working; her engine is, and the father is kind. The point is not cruelty but that the equality is fiction for anyone who cannot direct their share, that the fiction pays for the bed, and that honest households live well on it.
-Who it lands on: Lourdes, forty-seven, is guardian to her mother, six years silent. She runs her mother's engine beside her own, two translators under one name; its earnings keep her mother out of the state ward, the surplus her daughter's school. The doctor has raised withdrawing care. The first thing Lourdes computed was the bed against the engine; it came out the way she wanted, and she can no longer find where the wanting ends and the sum begins.
-Status: revised
-
-### Q-14 — cell D — The Rights Run
-Implication: Universal counsel lets people exercise the rights ignorance kept them from, and the state finds its guarantees were sized for, and underwritten by, the incapacity of the guaranteed; it cannot ration quietly now that the guaranteed can count: expand open-endedly, or ration out loud.
-Follows from: (1) A 2026 model reads a file, drafts motions and appeals at paralegal grade, and prices a plea's afterlife: deportation, eviction. Everyone has one, judge and prosecutor too: drafting is nobody's bottleneck; the court's hour is. (2) Such systems are sized to mass non-exercise, no slack: 95% of American criminal cases plead out; under 1% of denied insurance claims are appealed; four in ten win. (3) Conceded: in strong cases the trial penalty and detention, not ignorance, hold the plea rate. The model moves only the fraction priced in information: thin files, hidden-price pleas, uncontested denials. (4) That suffices: no-slack systems break at a doubling, and even where pleas hold, every case now carries the motions it always could have, each costing a bench hour. (5) Stacked charges, harder detention, a longer clock remain, but each is now contested at expert grade in a hearing that spends the scarce hour, or is itself a written rule. (6) Quiet fails regardless: the docket is public, every citizen's model reads it, and "only N of you this year" is said by the model in every pocket, not the state. (7) England, with public counsel and fewer pleas, has a years-long backlog and a 2025 review proposing to remove jury trial for some offenses: the clause, written down.
-For an ordinary person: A woman in a cell is offered a plea: felony charge, misdemeanor plea, time served, home tonight. Her model reads the file, thin and winnable, and the plea: a deportable offense. Yesterday that price was invisible. She refuses; so do the others with thin files or hidden-price pleas, 2,500 a year in a county that can try 800. She demands a speedy trial; the court cites its own docket as good cause. Her model reads that docket: median wait, fourteen months. Nobody published that; she can count.
-The strongest objection: The system changes how it rations, not how much. Trial penalty and detention drive pleas, not ignorance; well-lawyered defendants plead as often. Prosecutors overcharge and detain harder, legislatures lengthen the clock, and the frightened take time served whatever their models say: the equilibrium returns quietly, no quota is written, the thin-file fraction is too small to matter.
-Either side: Is a right the state has always honored for a few, and can afford for only a few, a right or a lottery it must now draw aloud? Expand open-endedly, trying every case anyone chooses to try at any cost, or ration in writing: honest, contestable at the ballot as the quiet quota never was, the first admission the guarantee was never universal?
-Not the obvious version: The nearest cliché is "a free lawyer for everyone." This is the bank run: universal access reveals the bank never held the deposits, the run breaks the institution that promised them, and cannot be hushed: every depositor can read the ledger.
-Who it lands on: A public defender fought her career for this, counsel for everyone, no plea from ignorance, and now faces a client whose model knows the wait for the trial she won her the right to demand: fourteen months in a cell, or home tonight at a price she can see. She hears herself say: take the deal. What she wanted broke what she needed.
-Status: revised
-
-### Q-27 — cell G — Nothing said is evidence
-Implication: Because no institution can obtain a share-free person, speech stops separating the changed from the unchanged; judgment falls back on the record, and a change of heart younger than its record, which until then can only be said, cannot be recognized.
-Follows from: (1) A 2026 model writes and coaches a perfect apology, allocution or interview answer; everyone has one. (2) Universal and inalienable, it cannot be kept from anyone: a room can be emptied of devices, not of months of rehearsal. (3) Parole boards, judges, asylum officers, admissions committees and confessors read articulacy, coherence, detail and affect in one encounter as evidence of the person. (4) A signal informs by costing the faker more than the genuine. Telling one's own change cost material, cheaper for the changed, and words, cheaper for the articulate; the share zeroes the words for everyone, which is fair, and gives the faker the material, which is the loss. Rehearsal still costs months, but equally to either, and the stumbles are drafted too; what survives sorts diligent from idle, not changed from unchanged. (5) Unable to forbid the share or tell coached from uncoached, institutions retreat to the record. But a record shows what a person was, and a change of heart claims it has stopped predicting; the record confirms that only after years of new conduct outweigh the old, and only where conduct can show it: a prison file lists programs and no fights, which the unrepentant man who wants out also has. Weakest step: (5). Most decisions were always made on the file; the claim is only that the encounter could overrule it, and a second chance that waits on the record is a waiting period.
-For an ordinary person: A man rehearses eleven minutes with his share for four months; so does every man on his tier, and each share says not to sound rehearsed. Three board members hear fourteen flawless statements in a day and decide on the summaries their shares wrote. A wife answers an apology with "did you write that?", cannot be sure, and falls back on his record, which is what he is sorry for.
-The strongest objection: Speech was never good evidence — con men, coached witnesses, the allocution as ritual — and boards already leaned on files. Years of conduct are stronger evidence of conversion than eleven minutes; the share forces institutions onto the better evidence and ends a discount the tongue-tied paid and the rich bought out of. Nothing is lost that was not an illusion.
-Either side: If a change of heart can only be spoken and nothing spoken is evidence, does the second chance survive, or was it always a bet on words we are right to stop making? One says mercy that waited on eloquence was mercy for the eloquent; another, that a record confirms a change only once it no longer needs believing, and whoever cannot be believed as new cannot become new.
-Not the obvious version: The cliché is the hollow machine-written toast. This is the institutions of judgment losing their instrument at once, because equality lets them neither forbid the share nor tell coached from uncoached; the casualty is the conversion younger than its record.
-Who it lands on: A man nine years in for a robbery in which someone died, changed eighteen months ago in the way that changes a person, with a nine-year file and an allocution rehearsed like everyone's on his tier. He will walk in and say nothing prepared, knowing the board's shares will read that too.
-Status: revised
-
-**The ranking of all eleven (ranking A pulls each reviewer's total halfway toward that reviewer's median, then averages; raw totals are out of 25):**
-
-| Rank | Card | Cell | Ranking A | Raw totals (of 25) | Note |
-|---|---|---|---|---|---|
-| 1 | Q-06 Practicing on People | B | 22.8 | 24, 23 |  |
-| 2 | Q-11 The Ghost Estate | C | 22.2 | 22, 23 |  |
-| 3 | Q-12 The Ward's Share | C | 22.2 | 23, 22 |  |
-| 4 | Q-14 The Rights Run | D | 22.2 | 23, 22 |  |
-| 5 | Q-27 Nothing said is evidence | G | 22.2 | 22, 23 |  |
-| 6 | Q-05 The Unasked Question | B | 22.0 | 20, 24 |  |
-| 7 | Q-08 The Promise Against the Forecast | B | 22.0 | 22, 22 |  |
-| 8 | Q-26 The lucid remainder | G | 21.5 | 21, 21 |  |
-| 9 | Q-15 No Cognition Without a Person | D | 21.2 | 20, 21 |  |
-| 10 | Q-25 Solitude becomes a verb | G | 21.2 | 20, 21 |  |
-| 11 | Q-21 The Competence Marriage | F | 20.8 | 21, 18 |  |
-
-Named as not surviving by a reviewer: Q-15 (both reviewers: the soldier's counsel reasons only from the briefing the
-state wrote) and Q-21 (reviewer b: couples dress bids with known-false needs all the time; no event, no price). No
-reviser said its card does not survive.
-
-The reviewers' batch verdicts:
-
-- reviewer a-1, most important: Q-14, because it turns universal counsel into a solvency test of every guarantee a state has underwritten with its citizens' incapacity, and forces a choice no polity can make quietly.
-- reviewer a-1, most novel: Q-06, because it recasts the exhausted "AI makes us dumb" worry as a consent problem — self-cultivation as an unpriced risk run on other people who can now audit the bill.
-- reviewer a-1, does not survive: Q-15, because its own flagged step (5) is contradicted by the Milgram evidence it cites and its independence claim fails to the briefing objection — the state writes the facts the counsel reasons from, so the "counsel the state did not pick" is not the check the card needs.
-- reviewer a-2, most important: Q-12, because it locates the one place the premise's equality is a fiction and makes a life's continuation a line item in a household's income.
-- reviewer a-2, most novel: Q-12, because dependents turning from costs into assets and guardianship into compute custody is a reading no commentary on AI access has produced.
-- reviewer a-2, does not survive: none — Q-05 is the weakest, since its own concession that the model holds only what she has told it makes the change one of speed that the card must inflate into a change of kind, but the "ignorance becomes an act" turn still earns its place.
-- reviewer b-1, most important: Q-14, because it puts the constitutional guarantee itself on the table and shows a state forced to say aloud what it has always rationed in silence.
-- reviewer b-1, most novel: Q-11, because inherited context as an estate whose upkeep is the heir's own allotted mind is a reading of the premise no follower of this subject will have seen.
-- reviewer b-1, does not survive: Q-15, because its central move needs the soldier's share to know the fact the briefing withheld, and once the counsel is only as good as the state's own account, "I did not ask" collapses back into "I could not know."
-- reviewer b-2, most important: Q-06, because a permanently frozen ceiling makes the right to cultivate judgment past it a question about whether human practical wisdom continues at all, and it lands on an ordinary parent.
-- reviewer b-2, most novel: Q-12, because dependents becoming net assets and equality leaking into de facto family pooling is a structural consequence no one in this discourse has named.
-- reviewer b-2, does not survive: Q-21, because its central step — that a known-false need can no longer dress a bid for attention — is contradicted by how couples actually use pretexts, and its "crisis" is a mood with no event, no deadline and nobody paying.
-
+_(nothing: the outline pass is running (DEC-016). Next stop: a ranking of five Q-06 story outlines, reviewed, revised and re-reviewed, for you to pick from. The token cap is still an open question: about 7.2M of 10M was spent before this pass.)_
 ---
 
 *The G1 offer as it stood, kept for the record:*
@@ -241,6 +134,8 @@ curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
 
+- **Your answer of 2026-09-25 is recorded** verbatim as DEC-016 (Q-06 is the question) and DEC-017 (the caps row read from "say, five outlines": writers 13 to 18, premises 52 to 57). The twenty-seven other implications are saved in full in `SHELVED-QUESTIONS.md`. The outline pass is framed in `design/outlines/FRAME.md` and running.
+
 - **Questions funnel, round 2 (the re-review), 2026-09-14.** (1) Reviewer a scored eleven cards and struck one, Q-15;
   reviewer b scored eleven and struck two, Q-15 and Q-21; no card is disputed at five or more. (2) For four of the five
   offered, the objection named this round is to text the reviser changed (a new objection to the new mechanism); for
@@ -281,4 +176,4 @@ _(every request made of the human, kept after it is answered)_
 | 2026-09-08 | G1: pick one of P-06, P-17, P-12, or send a cell back; the sign-off paragraph | 2026-09-08, in chat: sent back with an amended brief (DEC-012); the three are shelved for later |
 | 2026-09-08 | Caps row for a second funnel pass: writers 13, premises 52, probes 16, judge calls 28 | 2026-09-08, in chat: raised as proposed (DEC-013), and writers may pose their own big questions (DEC-014) |
 | 2026-09-08 | G1, second time: pick one of P-26, P-31, P-40 (or the runner-up P-25); the sign-off paragraph | 2026-09-14, in chat: sent back; the four are shelved; a questions-first funnel runs (DEC-015) |
-| 2026-09-14 | The questions funnel's offer: choose one of Q-06, Q-11, Q-12, Q-14, Q-27 (Q-05, Q-08 just below); a caps row for the third premise pass; the token cap | |
+| 2026-09-14 | The questions funnel's offer: choose one of Q-06, Q-11, Q-12, Q-14, Q-27 (Q-05, Q-08 just below); a caps row for the third premise pass; the token cap | 2026-09-25, in chat: Q-06 (DEC-016); the others saved (SHELVED-QUESTIONS.md); "say, five outlines" read as the caps row (DEC-017); the token cap not addressed, asked again with the ranking |
