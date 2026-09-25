@@ -2,21 +2,44 @@
 
 One page. Written after the premise is chosen, read by the human at G2, and changed freely until then.
 
-**Point of view and tense:** _(and one sentence on why this one)_
-**Who:** _(the person; what they want; the thing they are wrong about)_
-**Obstacle:**
-**The turn:** _(one sentence: what changes and cannot change back)_
-**Ending image:** _(and what it costs)_
-**The question:** _(what the story is actually about, and the answer it refuses to give)_
-**Length target:**
+**Point of view and tense:** Third person, close on Tess, past tense. Tess, because the story's evidence is what one person hears through a wall and what a machine tells her in a whisper, and because she is the one who is wrong about where she stands; Rob and Kit must stay on the far side of the wall, heard and not entered. Close third rather than first, because the story depends on her not concluding: first person would hand over the verdict she reached, and close third can withhold what she withholds (the sentence she does not give Kit) without lying. Past tense because the week is one she has already lived through in the exact order of its sounds, and because the outline's passage, whose register the whole story reaches for, is in it. The narration notices as a night worker notices (which board, which ear, the hour to the minute), never explains the world, and never says which of the eleven fathers was the real one.
+
+**Who:** Tess Haworth, nineteen, of Hebden Bridge; a year of nights as a care assistant in Halifax, every care plan followed to the letter; on Saturday she takes the 9:14 to Leeds to train as a nurse, where she will be taught when not to. Her father, Rob, a tree surgeon, has kept every bud in the house in a bowl by the door for eleven years, so that he and not the thing in the ear would be the one who knew his children. She wants one bill she can believe before she goes: what the eleven years cost her, in entries she can read. What she is wrong about: that the one practised on stands outside the practice as its judge. Her judgment was made in the house she is auditing (she cannot tell whether his reason at the lights fits because it was true or because she has told her life in his words); the harm and the gift are one thing and cannot be totalled apart; and she is not the finished article she takes herself for but a first-year at the bottom of her own curve, whose first departure from a plan, when it comes, is run on her brother.
+
+**Obstacle:** The audit will not hold still: eleven runs, eleven reasonable fathers, and the gap between runs wider than any entry. Every second opinion is the same bud in another ear. The only thing no rerun can vary is a live case, and the only live case in the house is Kit; and the father now handling Kit is the one she paid for, so to collect the bill is to spend it.
+
+**The turn:** Friday evening, at the bowl, in front of her father, Tess takes Kit's bud out and carries it upstairs, and Rob watches and does not stop her; after that no child in that house can again be raised by a man whose words he cannot check, and Tess can never again be only the one it was done to.
+
+**Ending image:** Saturday, from the door, one bag in her hand: Kit, bud in, telling Rob the 9:14 is four minutes late; Rob, not checking, because he cannot and would not, looking at the rim of Kit's ear, which has begun to go red. What it costs: she leaves without the bill she came for, having spent it; Rob has lost being the only one who knows his boy, and it was his daughter who took that, with nothing said between them about why; Kit has the shield and, with it, has lost the growing-round; and whether the eleven years were a gift or a charge leaves the house with her, because the one person who could have been asked never was.
+
+**The question:** Was Rob entitled to learn, on Tess, to be the man who knew his children (she paid, she can read the bill, and the father who stops mid-sentence for Kit is what she bought), or was that vanity charged to a child who could not be asked? And by Thursday, was Tess entitled to let Kit be the case? The answer the story refuses: whether Rob was right at the lights. If "You wanted me to have to come and get you" was true, he beat the bud and owes nothing; if it was a sentence she grew to fit, the knowing was made by the knowing. No run, no character and no narrator settles it, or settles whether Friday was a rescue or a spending. The audit's disagreement with itself is the form of the refusal.
+
+**Length target:** About 3,500 words; the contest's bounds are 1,000 and 5,000.
 
 ## Beats
 
-1.
-2.
-3.
-4.
+1. Monday, three in the morning, her week off, a night worker's clock. Rob went up at nine; she gave it an hour, went down on the boards that do not speak, and took hers from the bowl. In her room, the bud in her left ear, she whispers because of the wall; on the far side of it Kit's bed takes his weight. She asks it to go again. What it says of her father is what a reasonable man would say, and kinder than last night's. She stops it at the lights and reads instead the distance between last night and tonight: wider than any entry. Then the entry itself, in memory: thirteen, out of Calder High at lunch and up Midgley Moor till dark, Rob with the head torch, the heater roaring in the van, and at the lights in Mytholmroyd the one time he ever told her what she was. The bud offers three other reasons. She cannot tell whose is hers. Since that night she has made herself someone nobody need fetch. (No numbers on the first page: the bowl arrives as an object and an act, not a history. "Forty-one" and "eleven" appear once each, on the second page.)
+
+2. Wednesday, a beech in a garden in Heptonstall, Tess on the ropes below as she has been on Saturdays since fifteen. The client, bud in, relays its felling plan (the big limb over the lawn, in three). Rob lays it whole between the greenhouse and the trampoline, where he sees it should go, and it goes there. Then his chain sparks on fence wire the tree closed over decades ago, that nobody could have seen. "Grew round it." The client says his had not mentioned wire; Rob does not answer him, he is looking at the cut. That night, the one thing all eleven runs agree on: the curve, worse than the bud early and better late, her years bottom left and Kit's top right. Asked, the bud says any scoring of a learner draws that shape, and it cannot tell learning from luck, or from a second child being easier. And the entry it cannot see: fifteen, one in the morning, Rob driving her home from Halifax and saying nothing the whole way, scored comparable to typical advice. It was the silence.
+
+3. Thursday, four in the morning, going down to put hers back before his alarm: Kit's place in the bowl is empty, and she knows where he learned it. Her bud gives the plan (wake him, return it, talk to him later) and the other option (put it back herself; nobody need know). She does neither. The story says once, plainly, in her own words for it, that she is not waiting for Kit's sake: she has a plan and is setting it aside to see what her father does, and the one it is done on is asleep on the far side of the wall. She goes back up with hers still in. Five: the passage, whole and as written. Her palm flat on the wall; "I know why you did it"; "No. I don't. Why did you?"; "Does it hurt? In your ear."; "Your sister's goes red." The bud grades him well and starts on her; she takes it out; it goes on in her palm. Kit gives his up; the click into the bowl; the door; the van. He has not come to her door since August.
+
+4. Thursday, six, Kit in her doorway in his school shirt: "Why did I do it?" He wants telling, the way she was told. An answer rises in her in her father's form ("You wanted him to have to come up") and might be true. She does not give it. What she says instead is short, true, and not an answer.
+
+5. Friday evening, Rob home; his keys go into the bowl beside three buds. She takes Kit's out (the scratched one), leaving her own, in front of him, and goes up. He watches and lets her; nothing is said, then or after. Kit's room: "Ask it. It'll give you three." Kit's fingers close on it. She does not stay to see him put it in.
+
+6. Saturday, ten to nine, at the door with the bag: the last image, as written above, and nothing after it.
 
 ## What this story must not become
 
-_(the nearest bad version of itself; the thing the writer must not drift into)_
+The nearest bad version is the one where the list gets read: Tess sets the audit before Rob, he defends himself or breaks, and they reconcile or part. Nothing from the audit is ever said to Rob, and he never asks. Its neighbours, each to be recognised and refused:
+
+- The atrophy story, and its mirror, the noble refuser. The bud is not always right (the wire, the silence) and not a fool; Rob's judgment is real (the beech) and was once plainly wrong (the party at nine). Nobody is dumb because of the machine or wise for refusing it.
+- The other-lives story. No run is a life she could have had; each is a grading of the same life, and she envies none of them.
+- The kindness reading. If Thursday's plain sentence is missing, Friday is a sister being nice; it must read as her paying with the thing she paid for.
+- The lecture. "Practised on", "raised or", "consent", "judgment", "vanity", "counsel" and "model" do not appear. The bud may say "good practice"; nobody says what the story is about.
+- The bud as a character. It never seems to want, never apologises, never asks to be worn; it hedges, offers three, and grades.
+- The stated metaphor. "Grew round it" is said once, by Rob, of the wire. Nobody says a child grows round a father.
+- The dashboard. The curve is one image, once; the only percentage-shaped phrase is "comparable to typical advice".
+- The house style of the five outlines: no cut from a hard line to an ambient sound (fridge, radiator, boiler, kettle, rain on roofs); no "said it the way [a job] reads [a thing]"; no "did not remember" a small act of the hand; no "looked at the window, where"; and no ending on a verdict withheld (a pen held over a line). The ending is an image with a cost, not a decision declined.
+- Kit as a device. He is twelve, says "Stuff", "Bit" and "Dunno", and has something of his own the story never gets.
