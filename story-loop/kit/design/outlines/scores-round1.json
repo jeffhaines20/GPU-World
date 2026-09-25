@@ -1,0 +1,96 @@
+{
+ "reviewer-a": {
+  "O-4": {
+   "question": 5,
+   "surprise": 4,
+   "insight": 5,
+   "grip": 4,
+   "person": 5,
+   "ending": 4,
+   "prose": 4
+  },
+  "O-1": {
+   "question": 4,
+   "surprise": 3,
+   "insight": 4,
+   "grip": 4,
+   "person": 5,
+   "ending": 3,
+   "prose": 4
+  },
+  "O-5": {
+   "question": 4,
+   "surprise": 4,
+   "insight": 5,
+   "grip": 4,
+   "person": 5,
+   "ending": 4,
+   "prose": 5
+  },
+  "O-2": {
+   "question": 5,
+   "surprise": 4,
+   "insight": 5,
+   "grip": 5,
+   "person": 5,
+   "ending": 5,
+   "prose": 5
+  },
+  "O-3": {
+   "question": 4,
+   "surprise": 3,
+   "insight": 4,
+   "grip": 3,
+   "person": 5,
+   "ending": 3,
+   "prose": 4
+  }
+ },
+ "reviewer-b": {
+  "O-2": {
+   "question": 5,
+   "surprise": 4,
+   "insight": 4,
+   "grip": 5,
+   "person": 4,
+   "ending": 5,
+   "prose": 5
+  },
+  "O-3": {
+   "question": 4,
+   "surprise": 5,
+   "insight": 4,
+   "grip": 3,
+   "person": 5,
+   "ending": 4,
+   "prose": 5
+  },
+  "O-4": {
+   "question": 5,
+   "surprise": 4,
+   "insight": 5,
+   "grip": 4,
+   "person": 5,
+   "ending": 4,
+   "prose": 4
+  },
+  "O-5": {
+   "question": 4,
+   "surprise": 4,
+   "insight": 5,
+   "grip": 4,
+   "person": 4,
+   "ending": 4,
+   "prose": 5
+  },
+  "O-1": {
+   "question": 4,
+   "surprise": 3,
+   "insight": 3,
+   "grip": 4,
+   "person": 5,
+   "ending": 4,
+   "prose": 4
+  }
+ }
+}

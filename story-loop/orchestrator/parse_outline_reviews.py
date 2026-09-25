@@ -10,7 +10,7 @@ out_scores, out_crit, *files = sys.argv[1:]
 scores, crit = {}, {}
 pat = r"^(O-\d) \| " + r" \| ".join(f"{a}=(\d)" for a in AX)
 for f in files:
-    judge = "reviewer-" + re.search(r"review-([ab])", Path(f).name).group(1)
+    judge = "reviewer-" + re.search(r"review-(?:round\d-)?([ab])", Path(f).name).group(1)
     lines = Path(f).read_text(encoding="utf-8").splitlines()
     i = 0
     while i < len(lines):
