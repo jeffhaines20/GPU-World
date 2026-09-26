@@ -4,34 +4,34 @@
 
 ## The rows from my last report
 
-- **F1 (MAJOR, FIXED): the archive.** Gone. The archive exists and has been run on every midwife since 2033. Everyone scores at chance, Marga and Noor included. It is in the Obstacle, in beat 5 and in the Who, and it combines two of the three reasons I offered: everyone is at chance, and Noor has sat the test and knows her score. What the fix took with it becomes this round's F1:
+- **REV-05 F1 (MAJOR, FIXED): the archive.** Gone. The archive exists and has been run on every midwife since 2033. Everyone scores at chance, Marga and Noor included. It is in the Obstacle, in beat 5 and in the Who, and it combines two of the three reasons I offered: everyone is at chance, and Noor has sat the test and knows her score. What the fix took with it becomes this round's F1:
   - **The balance.** A universal now stands in the Against column, and nothing in the For column answers it.
   - **The ending's open possibility.** After beat 5 the reader knows no ear has beaten chance on a tape, so the unplayed second at the end withholds a result the reader can already predict.
   - **Noor's standing.** "She did not believe it of her own ear" makes her the one person who exempts herself from a result that holds for her own teacher. That is exact and human, and it is the heaviest line against her. It sits in the Who, where nothing weighs it.
-- **F2 (MINOR, FIXED): three departures, one priced.** Gone.
+- **REV-05 F2 (MINOR, FIXED): three departures, one priced.** Gone.
   - "Your call" is logged as Marga's seventh, and both figures move.
   - The review names her, with the fair sentence.
   - "All right" is quoted at 02:16, and the listening at the end is Sanne's second departure.
   - Marga taking out her phone at 07:50 to look at a figure she never looks at is the teacher's price in one gesture. It is better than the line I asked for.
 
   What the fix took: the new "31 January" sentence starts a second clock. It also means the complaint names Marga, which is Sanne's heaviest act before the ending, and the spine never says she chose to (F5).
-- **F3 (MINOR, FIXED): the fading told twice.** Gone, cleanly. The fading is told once, in the passage, as the answer Noor does not give to "What did you hear?". Beat 5 has a new engine in the two tests and the box. Nothing was lost. A small version of the pause has turned up at the end instead (F7).
-- **F4 (MINOR, FIXED): the weight of the last image.** Gone. The spine knows what Noor wants and gives it a gesture: she counts to the second on Sanne's face, using the payer's face as her instrument. It is the best new image in the spine. The fix took nothing by itself. But now that the vanity is in the last image, the image's balance depends on Sanne's listening being more than grace, and after the misses the spine does not say what her listening is for (F1, F3).
-- **F5 (MINOR, FIXED): the record of human departures.** Not fixed where it mattered.
+- **REV-05 F3 (MINOR, FIXED): the fading told twice.** Gone, cleanly. The fading is told once, in the passage, as the answer Noor does not give to "What did you hear?". Beat 5 has a new engine in the two tests and the box. Nothing was lost. A small version of the pause has turned up at the end instead (F7).
+- **REV-05 F4 (MINOR, FIXED): the weight of the last image.** Gone. The spine knows what Noor wants and gives it a gesture: she counts to the second on Sanne's face, using the payer's face as her instrument. It is the best new image in the spine. The fix took nothing by itself. But now that the vanity is in the last image, the image's balance depends on Sanne's listening being more than grace, and after the misses the spine does not say what her listening is for (F1, F3).
+- **REV-05 F5 (MINOR, FIXED): the record of human departures.** Not fixed where it mattered.
   - The cord is concrete, which is good.
   - The birth books are unread, so they are a gesture, not a record.
   - The misses are a record, and they count against her.
 
   What the row asked for is still missing: what live departures show, even if the answer is "too few to tell". And "right about all it can see" has become "right about all it could hear, blind only to what left no trace", which is further from the world's "fallible", not nearer. Raised again: the phrase in F1, the record in F2.
-- **F6 (MINOR, FIXED): Marga's five words.** Gone. Marga says nothing and puts a box in Noor's hands. Nothing was lost, and a rhyme was gained: each woman holds a record she has not opened, and only the payer opens hers. One thing to watch: handwritten books set against a recording is the one place this story could slide into nostalgia. "Not read, by her or the narration" is the guard, so keep the prose off the paper and the handwriting.
-- **F7 (MINOR, FIXED): the exactness of the audit.** Gone. "Three in five" prices the section, "consistent with" carries the motive, and the board's process is "the complaint". What the fix took: with the board's process called "the complaint", its bar on day three waits on a complaint that is not sent until day eight (F5).
-- **F8 (NIT, FIXED): "She cannot hear this play".** Gone. The last sentence has an object and no verb of hearing. What the fix took: the object, "the second", carries a double sense of its own, and the spine already plays on it (F6).
-- **F9 (NIT, FIXED): "after every contraction".** Gone. The file holds four contractions, and the spine is right about them. The disposition's gloss is not in the spine and is wrong by it. It says Noor heard the lateness "after contractions no one else examined", but:
+- **REV-05 F6 (MINOR, FIXED): Marga's five words.** Gone. Marga says nothing and puts a box in Noor's hands. Nothing was lost, and a rhyme was gained: each woman holds a record she has not opened, and only the payer opens hers. One thing to watch: handwritten books set against a recording is the one place this story could slide into nostalgia. "Not read, by her or the narration" is the guard, so keep the prose off the paper and the handwriting.
+- **REV-05 F7 (MINOR, FIXED): the exactness of the audit.** Gone. "Three in five" prices the section, "consistent with" carries the motive, and the board's process is "the complaint". What the fix took: with the board's process called "the complaint", its bar on day three waits on a complaint that is not sent until day eight (F5).
+- **REV-05 F8 (NIT, FIXED): "She cannot hear this play".** Gone. The last sentence has an object and no verb of hearing. What the fix took: the object, "the second", carries a double sense of its own, and the spine already plays on it (F6).
+- **REV-05 F9 (NIT, FIXED): "after every contraction".** Gone. The file holds four contractions, and the spine is right about them. The disposition's gloss is not in the spine and is wrong by it. It says Noor heard the lateness "after contractions no one else examined", but:
   - the review reanalysed all four;
   - on the first night Noor heard the lateness even after the contraction Marga had listened through live and found nothing in.
 
   That is evidence against her, not for her. Keep the gloss out of the draft.
-- **F10 (NIT, REJECTED): the galloping horse.** I accept the reason. It is a NIT, the passage is the register, and the must-not list now keeps "gallop" inside the passage. On rereading, the second "gallop" falls on "coming back", the story's own verb for what Noor listens for, so the repetition is the return.
+- **REV-05 F10 (NIT, REJECTED): the galloping horse.** I accept the reason. It is a NIT, the passage is the register, and the must-not list now keeps "gallop" inside the passage. On rereading, the second "gallop" falls on "coming back", the story's own verb for what Noor listens for, so the repetition is the return.
 
 ## The load-bearing claim
 
