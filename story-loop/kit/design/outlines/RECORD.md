@@ -140,3 +140,60 @@ story-architect inherits that outline's round-2 critiques and its REV-03 reading
 The pick, or a send-back, in their words; the G1 sign-off paragraph; and the token cap, since the spine cannot start
 inside what is left.
 
+## M2: the spines (both kits), 2026-09-25 to 2026-09-26
+
+G1 was signed on 2026-09-25 for two outlines (DEC-020): story A, O-4 Eleven Fathers, in `kit/`; story B, O-2 Working Height,
+in `kit-B/`. Each story-architect (default type, Fable 5.1, DEC-021) read only its M2 packet (`story/M2-PACKET.md`: the
+revised outline, the Q-06 card, the originality critic's reading and findings, two readers' largest gaps without scores,
+the length target), `BRIEF.md`, and the two templates, and rewrote `story/SPINE.md` and `story/BIBLE.md`. The architects'
+reports, verbatim:
+
+**Story A, first architect** (114,916 tokens): "Decisions the outline left open: close third on Tess, past tense (she must
+not conclude; Rob and Kit stay behind the wall). The bud and bowl kept; buds answer only their owner, hear only the hall
+from the bowl, never replay anything: the audit runs on Tess's telling alone. "Counsel" and "model" dropped from the
+manuscript: people say "mine", "yours", "it"; Rob names a bud only by its owner. The mother left in April 2029, unnamed,
+and the bowl began that week, no cause given. A third entry (the party at nine) added so Rob is plainly wrong once. On
+Friday Tess leaves her own bud in the bowl and takes only Kit's. Week fixed: 17–22 September 2040. Gaps: Reader b
+answered: one plain sentence at four on Thursday that she is waiting to see what her father does, not for Kit's sake,
+with her bud's "You could still go in" beside it. Reader a, half: no numbers on page one, and the curve's steadiness made
+the audit's own blindness (the bud says the shape is built in). Refused the other half: the premise was chosen at G1;
+the surprise owed is the plot's, not the setup's. Least sure: whether that one plain Thursday sentence makes the second
+defendant too legible and tips into thesis."
+
+**Story B, first architect** (132,323 tokens): "Decisions the outline left open: close third on Noor, past tense (the sound
+must be heard and lost with her; Sanne stays opaque). The baby unnamed. Sanne sends the complaint and asks for Noor the
+same morning; Noor chooses to go. The counsel's landing recommendation is "listen through three more"; her figure moves
+to 96.9 at 02:14. Marga's 0.4 is six departures, one cord, five for nothing; she refuses to listen to the recording. The
+review is written to Sanne as "you" and Noor reads it in that form. Three plays; the third at Sanne's ear, out of Noor's
+hearing. Oosterschelde under the bridge, distinct from the father's Westerschelde. Gaps: Reader a answered: complaint
+stands, no pardon line, Sanne's own counsel says nothing is there and she listens anyway; Bohjalian's shape kept, its
+trial banned. Reader b answered in part: the complaint is priced (live cases suspended, simulator hours, sign-off deferred
+past Marga to a stranger reading the record) in one message and one simulator scene; refused the implication that the
+back half needs more plot, because the weight belongs on the quiet scene. Least sure: whether rules alone can keep the
+last image (mother, baby, phone at ear) from reading as a pardon; the writer's temperature decides it."
+
+**First critic round** (two Explore critics on opus per kit, reading the spine, the outline's passage and the brief):
+story A, REV-04 (depth) 1 MAJOR 7 MINOR 1 NIT and REV-05 (adversarial) 2 MAJOR 6 MINOR 1 NIT, NEEDS CHANGES; story B,
+REV-04 0/6/1 and REV-05 1 MAJOR 6 MINOR 3 NIT, NEEDS CHANGES. Costs: 137,684 + 136,774 (A); 134,834 + 147,957 (B).
+Both spines went to fresh architects with the findings lists only (`story/M2-FINDINGS.md`). The first launch of both
+revisions was cut short by the account's usage limit (Fable calls, tokens unreported); story B's half-written spine was
+restored from the last commit and both were relaunched on 2026-09-26.
+
+**Story B, revising architect** (175,618 tokens): "MAJOR (REV-05 F1): the archive exists and has already been tried. "The
+misses", the registry's recordings of births a counsel heard nothing wrong in, were played blind to every midwife in
+2033 and to every second-year since, and everyone scores at chance: Marga in 2033, Noor in 2038. It is a clause of the
+Obstacle, a line in beat 5 beside her hundred on the simulator, one sentence in the Who, and in the bible a term, a rule
+and two timeline entries. So Noor asked "Let me" knowing no recording holds an ear; the fading is evidence for neither
+side, and a live birth is truly the only test. Addressed: REV-04 F1 ("Keep that" cut; the obstetrician says "loose";
+Marga silent), F2 (the cord concrete in beat 2, "Left side" in beat 1, the birth books in beat 5), F3 and REV-05 F2 ("Your
+call" is logged as Marga's seventh departure, 99.6 to 99.5; she checks it once at Goes; the review names her; January is
+her reason; Sanne's "All right" at 02:16 is quoted, so her listening is her second departure), F4 (she has had the
+recording since Wednesday, unplayed; Joost's line), F5 and REV-05 F6 (the five words replaced by the box), F6 and REV-05 F3
+(fading told once, in the passage), F7; REV-05 F4 (Noor wants to hear it, through Sanne, and counts to the second: vanity
+in the last image, chosen), F5, F7, F8, F9 (four contractions). Refused: REV-05 F10 for the passage; "gallop" stays as
+written there and appears nowhere else. Least sure: whether "the misses" reads as a fact of the world or as the story
+explaining itself." The spine grew from 1,964 to 2,101 words against the instruction not to grow; left as written.
+Dispositions: `kit-B/reviews/REV-04-disposition.md`, `REV-05-disposition.md` (F10 REJECTED with the reason). Second
+critic round on the revised spine: REV-06 (depth, fresh) and REV-07 (adversarial, with its first report and the
+dispositions).
+
