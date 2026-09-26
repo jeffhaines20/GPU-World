@@ -214,3 +214,14 @@ bud-in-the-wrong-ear at the bowl may read as a trick rather than an act; the dra
 Dispositions: `kit/reviews/REV-04-disposition.md`, `REV-05-disposition.md` (all FIXED). Second critic round on the
 revised spine: REV-06 (depth, fresh) and REV-07 (adversarial, with its first report and the dispositions).
 
+**Second critic round (2026-09-26).** Story A: REV-06 (depth, fresh) 0 MAJOR 7 MINOR 1 NIT; REV-07 (adversarial, with its
+first report and the dispositions) 0 MAJOR 5 MINOR 1 NIT, SIGN-OFF on the spine as read, holding only while Friday reads
+as Tess's judgment rather than her kindness. Story B: REV-06 0/6/2; REV-07 1 MAJOR 4 MINOR 3 NIT, NEEDS CHANGES: the
+archive fix tipped the factual question the spine had tied the verdict to; two routes offered (cut the "and so"; or give
+02:10 the hand on the belly). Both adversarial reports were reissued by their critics with earlier findings labelled
+"REV-05 Fn", because the review check reads a bare "F9" outside the Findings heading as a misplaced finding; the reissued
+text is what is saved. Dispositions for both rounds are all DEFERRED to one architect pass per story after G2 (story A's
+MINORs; story B's MAJOR route, the human's choice, and its MINORs). Costs: A 151,067 + 153,102 (+ about 20K for the
+reissue); B 148,997 + 168,961 + 19,776. Ledger rows M2-2 in both kits. G2 requested for both stories in `kit/INBOX.md`
+(mirrored to `kit-B/INBOX.md`); the M2 skill's "two rounds at most" puts story B's third round in the human's hands.
+
