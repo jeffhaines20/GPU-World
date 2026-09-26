@@ -197,3 +197,20 @@ Dispositions: `kit-B/reviews/REV-04-disposition.md`, `REV-05-disposition.md` (F1
 critic round on the revised spine: REV-06 (depth, fresh) and REV-07 (adversarial, with its first report and the
 dispositions).
 
+**Story A, revising architect** (127,364 tokens): "Spine (1,970 words, down from 2,192) and bible rewritten in place.
+MAJORs, what now happens differently: REV-04 F1 / REV-05 F2 (vanity side): the party at nine is in Beat 2, and its cost is
+visible three times at nineteen: Tess on the client's wall before the van, early to every shift, at the door fifty minutes
+before a ten-minute walk. Nobody names it. The gift side also gets an act: on the ropes she has the limb's line before Rob
+says it. REV-05 F1 (the turn): Friday now has a mechanism and a price. Two small buds alike; she tells Kit's from hers by
+trying both in her ear (a bud is silent in any ear but its owner's), puts hers back in front of Rob, carries Kit's up. Rob
+says "Right." and keeps his own in the bowl (F4's sign: her he lets). Her last night is without hers: no run twelve, and
+she hears Kit whisper through the wall and cannot hear the answers. MINORs addressed: REV-04 F2 (question rises at the
+bowl, let go), F3 ("Did you see mine was gone?"), F4, F5 (bowl began the week the mother left; first night, his hand at
+her ear; reach is the house), F6, F7 (no outcome pays), F8, F9; REV-05 F3 (bill defined once), F4 (she takes hers
+Saturday), F5 (Kit's own thing: trains to Manchester, one trace), F6 (Wednesday's night cut; curve moved to Monday), F7
+(silent bud is the 2040-only act), F8, F9 (scratch dropped; keys noticed). None refused. Least sure: the
+bud-in-the-wrong-ear at the bowl may read as a trick rather than an act; the draft has to play it flat." (The architect's
+"2,192" counts differently from `wc`, which gave 1,886 before and 1,970 after; the bible grew from 4,505 to 5,882 words.)
+Dispositions: `kit/reviews/REV-04-disposition.md`, `REV-05-disposition.md` (all FIXED). Second critic round on the
+revised spine: REV-06 (depth, fresh) and REV-07 (adversarial, with its first report and the dispositions).
+
