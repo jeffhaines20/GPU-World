@@ -1,0 +1,26 @@
+# Findings for the architect's pass after G2 (round 2 of the M2 critics)
+
+The human signed G2 on 2026-10-29: both spines go through and nothing needs to change on their side. These are the
+second-round critics' findings, deferred at G2 to this pass, each with its severity; the critics' reasoning is not included.
+
+## REV-06 (depth critic, second round)
+
+- F1: MINOR — The spine rests the audit's refusal on the runs disagreeing as a whole ("kinder than last night's", beat 1; "the gap between runs wider than any entry", Obstacle; "the form of the refusal", the Question), which a reader who knows these tools will take for noise to be averaged, a faulty instrument rather than an undecidable man. The spine already has the better design (the party worse in every run, the curve in all eleven): let the swing between nights come only from the lights and the silence, so that the eleven fathers are the ones her entries permit.
+- F2: MINOR — "Every second opinion is the same bud in another ear", the spine's freshest idea and the reason Thursday is method rather than curiosity, lives only in the Obstacle, and no beat stages it. The beech (beat 2) can stage it without a new scene: the client's bud misses the line and the wire as hers would have, and Tess can know it is hers in another ear.
+- F3: MINOR — Thursday at four (beat 3) is where Tess does what the plot needs, leaving her brother to be found, with nothing earlier in the spine to show what Kit is to her. Give her one ordinary act of care for him before it, and state what the passage already implies (her bud is in her ear at five, so her place in the bowl is empty too), so that she lets them both be found and he goes to Kit's door with grounds to come to hers.
+- F4: MINOR — Friday's price as the spine names it, "the last night she could have run it" (Ending image; "the kindness reading"), will not be credited: from Saturday her bud is in her ear for good, and eleven runs have shown a twelfth would settle nothing. The price the story actually has is the night before Leeds spent without the bud she has used every night since August, by the girl who was sick in the van on the way to a party that had started without her, and the question only Rob can answer; name those, or one of Friday's two guards against the kindness reading is soft.
+- F5: MINOR — The curve's rival explanations in beat 1 (learning, luck, an easier second child) leave out the one a reader supplies first from the Who: Tess was eight and Kit one the week the buds went into the bowl and their mother went. A bud described as competent that does not say so looks steered toward a father-audit; let it say so, obliquely if the mother must stay one clause, and let Tess pass over it, so that the omission is hers.
+- F6: MINOR — Rob acting well is always a scene in the present (the beech, the stopped sentence, "Your sister's goes red", the door, the look at Kit's ear), and Rob acting badly is only a clause of memory (the party, inside beat 2) or a graph (beat 1), so a reader will total the eleven years as a gift, the one total the Question says the story refuses. Give the party a scene's weight, or let the lights' other reading show: the sentence as the wish of a man who put every bud in a bowl so that his children would have to come to him.
+- F7: MINOR — "It was the silence." (end of beat 2) glosses the Halifax drive, and the gloss states the story's most familiar idea, that the machine cannot score what mattered. The passage's register leaves such verdicts to the reader, and "comparable to typical advice" set against the drive says it without one.
+- F8: NIT — "Kit has the three and will never be told what he was" is listed among the ending's costs (Ending image) but is Kit's gain; the cost is Tess's, in giving away what she wanted and cannot have, and "never" promises what an ending cannot show.
+
+## REV-07 (adversarial critic, second round)
+
+- F1: MINOR — The spine pays Friday's price in a currency it has already voided, and leaves the real price unbooked. The costs line reads "the bill she came for, since the last night she could have run it went to Kit". The guard reads "hers back in the bowl, the last night given away". Neither holds:
+- F2: MINOR — The turn sentence names changes the spine made before Friday.
+- F3: MINOR — The party is the story's one plain case against Rob, and it is now exposed on two sides.
+- F4: MINOR — Kit's trace points one of two ways, and the spine has not chosen which.
+- F5: MINOR — REV-05's F7 is not fixed in substance. The ear test is a lock, and a 2025 phone does the same job, so the plot survives the swap. The spine has two things only 2040 can do:
+- F6: NIT — The door's numbers do not agree on any reading. Leaving at twenty past eight for the 9:14 is fifty-four minutes before the train. With a walk of ten she is forty-four minutes early at the platform, or forty-eight with Kit's four minutes. A narrator who counts boards should give one number that checks. A judge will count the minutes.
+
+The adversarial critic signed off on this spine on one condition: the sign-off holds only while Friday reads as Tess's judgment rather than her kindness, and it withdraws if a draft plays "no run twelve" as the sacrifice or stages Friday as the moment Rob learns.

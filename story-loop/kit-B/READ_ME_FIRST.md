@@ -1,6 +1,6 @@
 # Read me first
 
-**Project:** GPU World story, kit B (story B: O-2 Working Height; story A and the human's channel are in ../kit) · **Milestone:** M2 — The spine · **Updated:** 2026-10-29
+**Project:** GPU World story, kit B (story B: O-2 Working Height; story A and the human's channel are in ../kit) · **Milestone:** M3 — Draft and revise · **Updated:** 2026-10-29
 
 This is your copy of what the agents are doing. You write in two files and no others: `INBOX.md`, where the agents write what they need from you and where you answer, and `DECISIONS.md`, where your gate sign-offs go. (`BRIEF.md` at intake and `design/RUBRIC.md` are worth a look when this page points you at them; everything else in the folder is the agents'.)
 

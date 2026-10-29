@@ -14,41 +14,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**G2 for story B (2026-09-26), mirrored from `../kit/INBOX.md`, where the human reads and answers.**
-
-### Story B, Working Height (kit-B): the spine, and one decision the critics could not settle
-
-**Read:** `kit-B/story/SPINE.md` (about 2,100 words, ten minutes) and `kit-B/story/PASSAGE.md` (the outline's passage, the
-register the story reaches for). The bible (`kit-B/story/BIBLE.md`) is the writer's reference and is yours to skim or skip.
-
-**The question at this gate:** is this the story you want? Three to five sentences in your words: what you saw, what you
-liked, what must change, whether it goes through.
-
-**What the critics did.** Two rounds. Round one found one MAJOR: the world records every birth, so an archive of the
-counsel's misses would have let Noor test her ear on the dead instead of on a living woman, and the spine never shut
-that door. The architect shut it: the archive exists, has been played blind to every midwife since 2033, and everyone
-scores at chance, Noor and Marga included. Round two found that this fix tipped the story's own scale: with every fact now
-saying Noor heard nothing on the tape, and the spine making the moral verdict follow from whether she heard anything,
-the refused verdict reads as vanity and the ending as grace beside vanity. The kit allows two critic rounds at this
-stage; a third means the decision is yours, so here it is, with the critic's two routes:
-
-- **(a) Cut the "and so."** The question stops turning on whether she heard anything that night: a departure made
-  against everything the evidence says is either how a judgment becomes one's own or vanity paid for by others, and a
-  departure can be judgment and wrong. The weight against her ear becomes what makes 02:14 a departure; Sanne's listening
-  becomes an act on her own daughter's birth, not a test of Noor's ear. Cheaper, and closer to the question you chose.
-- **(b) Give 02:10 one thing the tape does not hold.** The hand: "late" is measured against the end of the contraction,
-  which a hand on the belly feels and a doppler recording keeps only as breath. This reopens the ending, because the one
-  listener whose body held those contractions is Sanne. Gives back more of the ending; more to build.
-- Or send the story back with your own instruction, or drop it for the runner-up, O-3 Undispensed (ranked third).
-
-Both critics' second reports are in `kit-B/reviews/REV-06.md` and `REV-07.md`; their remaining MINORs (the board's
-clock, what Sanne's counsel tells her about the misses, what the seven earlier departures found) are deferred to the
-architect's pass that implements your choice, and every finding has a disposition row.
-
-**Findings we decided not to act on:** none. No MAJOR has been answered with REJECTED since G1.
-
-**Then:** in `kit-B/`, run `make gate N=2` and write the paragraph, or dictate it here; I paste it verbatim into
-`kit-B/DECISIONS.md` and into `kit/DECISIONS.md`, marked as dictated in chat.
+_(nothing: G2 signed 2026-10-29, route (a) chosen; M3 running. The human reads and answers in ../kit/INBOX.md.)_
 ---
 
 ### O-2 — Working Height

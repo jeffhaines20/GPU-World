@@ -12,79 +12,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**Still owed at G2 (2026-10-29): your paragraph for each story, and story B's route.** The models stand (DEC-024) and the cap is 18M (DEC-023). The contest closes on 31 October 2026, two days from today; the plan for those two days is in "Since you last looked".
-
-**G2 for both stories (2026-09-26): read each spine and say whether it is the story you want.** About twenty
-minutes in all. Both kits are at M2; the writer model is Fable 5.1 (DEC-021), which you may overrule here before any draft
-is written.
-
-### Story A, Eleven Fathers (kit): the spine, signed by the adversarial critic
-
-**Read:** `kit/story/SPINE.md` (about 2,000 words, ten minutes) and `kit/story/PASSAGE.md` (the outline's passage, the
-register the story reaches for). The bible (`kit/story/BIBLE.md`) is the writer's reference and is yours to skim or skip.
-
-**The question at this gate:** is this the story you want? Three to five sentences in your words: what you saw, what you
-liked, what must change, whether it goes through.
-
-**What the critics did.** Two rounds. Round one found three MAJORs: the Friday turn changed nothing that Thursday had not
-already changed, at no cost a reader could see, and every scene on the page argued for Rob, so the "vanity" side of the
-question had no weight. The architect rebuilt Friday (Tess tells Kit's bud from her own by trying both in her ear, since a
-bud is silent in any ear but its owner's, puts hers back in front of Rob, and carries Kit's up; Rob says "Right."; her last
-night is without her bud, hearing Kit whisper through the wall and unable to hear the answers) and put the party at nine
-into a beat with its cost visible at nineteen. Round two: the depth critic finds the question real and turned over rather
-than repeated, no MAJOR; the adversarial critic signs off on the spine, on one condition it states: the sign-off holds
-only while Friday reads as Tess's judgment rather than her kindness, and it withdraws if a draft plays "no run twelve" as
-the sacrifice or stages Friday as the moment Rob learns. Its remaining MINORs (the spine books Friday's price in a
-currency Monday voided while the real price sits on the page unbooked; the turn sentence names changes Thursday made;
-whether Tess can do the sum about her brother and the trains to Manchester) and the depth critic's are deferred to one
-architect pass after G2, which will also take whatever your paragraph asks for. Both reports are in `kit/reviews/REV-06.md`
-and `REV-07.md`; every finding has a disposition row.
-
-**Findings we decided not to act on:** none. No MAJOR has been answered with REJECTED since G1.
-
-**Then:** in `kit/`, run `make gate N=2` and write the paragraph, or dictate it here; I paste it verbatim into
-`kit/DECISIONS.md`, marked as dictated in chat.
-
-### Story B, Working Height (kit-B): the spine, and one decision the critics could not settle
-
-**Read:** `kit-B/story/SPINE.md` (about 2,100 words, ten minutes) and `kit-B/story/PASSAGE.md` (the outline's passage, the
-register the story reaches for). The bible (`kit-B/story/BIBLE.md`) is the writer's reference and is yours to skim or skip.
-
-**The question at this gate:** is this the story you want? Three to five sentences in your words: what you saw, what you
-liked, what must change, whether it goes through.
-
-**What the critics did.** Two rounds. Round one found one MAJOR: the world records every birth, so an archive of the
-counsel's misses would have let Noor test her ear on the dead instead of on a living woman, and the spine never shut
-that door. The architect shut it: the archive exists, has been played blind to every midwife since 2033, and everyone
-scores at chance, Noor and Marga included. Round two found that this fix tipped the story's own scale: with every fact now
-saying Noor heard nothing on the tape, and the spine making the moral verdict follow from whether she heard anything,
-the refused verdict reads as vanity and the ending as grace beside vanity. The kit allows two critic rounds at this
-stage; a third means the decision is yours, so here it is, with the critic's two routes:
-
-- **(a) Cut the "and so."** The question stops turning on whether she heard anything that night: a departure made
-  against everything the evidence says is either how a judgment becomes one's own or vanity paid for by others, and a
-  departure can be judgment and wrong. The weight against her ear becomes what makes 02:14 a departure; Sanne's listening
-  becomes an act on her own daughter's birth, not a test of Noor's ear. Cheaper, and closer to the question you chose.
-- **(b) Give 02:10 one thing the tape does not hold.** The hand: "late" is measured against the end of the contraction,
-  which a hand on the belly feels and a doppler recording keeps only as breath. This reopens the ending, because the one
-  listener whose body held those contractions is Sanne. Gives back more of the ending; more to build.
-- Or send the story back with your own instruction, or drop it for the runner-up, O-3 Undispensed (ranked third).
-
-Both critics' second reports are in `kit-B/reviews/REV-06.md` and `REV-07.md`; their remaining MINORs (the board's
-clock, what Sanne's counsel tells her about the misses, what the seven earlier departures found) are deferred to the
-architect's pass that implements your choice, and every finding has a disposition row.
-
-**Findings we decided not to act on:** none. No MAJOR has been answered with REJECTED since G1.
-
-**Then:** in `kit-B/`, run `make gate N=2` and write the paragraph, or dictate it here; I paste it verbatim into
-`kit-B/DECISIONS.md` and into `kit/DECISIONS.md`, marked as dictated in chat.
-
-**The budget, before you decide.** About 12.2M of 15M is spent (M2 for two stories cost about 2.3M: the critics are
-thorough and each spine went round twice). About 2.8M is left. A first draft costs about 0.15M to write, and its first
-critic round with the calibrated comparisons about 1.1 to 1.7M, so two first drafts with their rounds need 2.2 to 3.4M.
-Three ways through, yours to choose: raise the cap again (about 18M reads both first drafts through their first round;
-each revision round after that is another 1.1 to 1.7M); or write both first drafts and run the full round on one; or take
-one story forward now. I will not choose.
+_(nothing: G2 is signed for both stories (2026-10-29) and both kits are at M3. Running now: one architect pass per story (the deferred findings; route (a) for story B), then the first drafts, then each draft's calibrated comparison and critic round. Next stop: G3, your first reading of each draft. The contest closes on 31 October.)_
 ---
 
 ### O-2 — Working Height
@@ -515,6 +443,8 @@ curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
 
+- **G2 is signed (2026-10-29).** Your paragraph is pasted verbatim under a G2 heading in both kits, marked as dictated in chat and covering both stories; the gate check accepts it; I read it as GO for both (DEC-026), with route (a) for story B (DEC-025). Both kits are at M3.
+
 - **2026-10-29: your two answers are recorded** (DEC-024, the models stand; DEC-023, the cap is 18M, re-accepted in both
   kits). G2 is not yet signed: the gate needs your paragraph for each story, three to five sentences in your words, and
   story B needs its route (a or b, a send-back, or the runner-up). **The contest closes on 31 October.** What fits in two
@@ -622,4 +552,4 @@ _(every request made of the human, kept after it is answered)_
 | 2026-09-08 | G1, second time: pick one of P-26, P-31, P-40 (or the runner-up P-25); the sign-off paragraph | 2026-09-14, in chat: sent back; the four are shelved; a questions-first funnel runs (DEC-015) |
 | 2026-09-14 | The questions funnel's offer: choose one of Q-06, Q-11, Q-12, Q-14, Q-27 (Q-05, Q-08 just below); a caps row for the third premise pass; the token cap | 2026-09-25, in chat: Q-06 (DEC-016); the others saved (SHELVED-QUESTIONS.md); "say, five outlines" read as the caps row (DEC-017); the token cap not addressed, asked again with the ranking |
 | 2026-09-25 | G1, third time: pick one of O-4, O-2, O-3, O-5, O-1 (either version) or send back; the sign-off paragraph; the token cap; whether O-3 or O-5 gets a third attempt | 2026-09-25, in chat: "raise the cap to 15M" (DEC-019); drafts of O-4 and O-2 (DEC-020, G1 pasted verbatim, read as GO); O-3 and O-5 not taken further; the writer-model question answered by DEC-021 |
-| 2026-09-26 | G2, both stories: is each spine the story you want; for story B, route (a), route (b), a send-back, or the runner-up; the writer model (DEC-021) to overrule or keep; the budget: raise the cap, run one full round, or take one story forward | 2026-10-29, in chat, in part: the models stand (DEC-024); the cap is 18M (DEC-023). Still owed: the G2 paragraph for each story and story B's route |
+| 2026-09-26 | G2, both stories: is each spine the story you want; for story B, route (a), route (b), a send-back, or the runner-up; the writer model (DEC-021) to overrule or keep; the budget: raise the cap, run one full round, or take one story forward | 2026-10-29, in chat: the models stand (DEC-024); the cap is 18M (DEC-023); one paragraph for both stories, pasted verbatim as G2 in both kits and read as GO (DEC-026); route (a) for story B (DEC-025) |

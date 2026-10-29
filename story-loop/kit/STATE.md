@@ -1,6 +1,6 @@
 # State
 
-**Milestone:** M2 — The spine · **Updated:** 2026-10-29 · **Current draft:** none
+**Milestone:** M3 — Draft and revise · **Updated:** 2026-10-29 · **Current draft:** none
 
 ## Caps
 

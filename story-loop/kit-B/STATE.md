@@ -1,6 +1,6 @@
 # State
 
-**Milestone:** M2 — The spine · **Updated:** 2026-10-29 · **Kit B (DEC-020): story B, O-2 Working Height.** The caps table and the token count of the whole project are kept in `../kit/STATE.md` and mirrored here; the human's channel is `../kit/INBOX.md` · **Current draft:** none
+**Milestone:** M3 — Draft and revise · **Updated:** 2026-10-29 · **Kit B (DEC-020): story B, O-2 Working Height.** The caps table and the token count of the whole project are kept in `../kit/STATE.md` and mirrored here; the human's channel is `../kit/INBOX.md` · **Current draft:** none
 
 ## Caps
 
