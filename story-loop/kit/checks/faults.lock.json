@@ -7,14 +7,14 @@
   "check_continuity.py": "081cf0b987976396134122dc5e68ac6a4c61157292c13dc692ad8dcd8820fb44",
   "check_gate.py": "087da2c7208b4ebdb6678da203cca0b363365b673bb457e52346646057699ea1",
   "check_manuscript.py": "63114f4ef121aa2f902d7ad8111b7df9be5d9110b0c16e0c91fbfde0c34155f9",
-  "check_reviews.py": "c930700bd416200d2ee72f235f03a80d59131e8348a71a7169d78fadc7fed248",
+  "check_reviews.py": "efe07e2d77d26f1e8465376588c965aad1e35c5139da48369e04a971a06efe70",
   "check_state.py": "7dc7908b0850b2eb1e4c9bf8d2737e43d26f2e4e778884e9951538a2757388b1",
-  "check_tics.py": "18fc3c57eba1aba38b8fb12489d0b0f4409b70101a54d536a01a0dee379eff5c",
+  "check_tics.py": "2ec8da5846e31cdc10be586d582a1985cdaca9a68b9d301d1d86f4f0b3c3b0ab",
   "common.py": "6484b8795c43479e3a57ca7fb2428b086530310188b12a931ba496124cd715bf",
-  "plant_faults.py": "a03f90fcf1d7beea3ef229193f4eacb9fa798f63456ba60d5dd625feabbef449",
+  "plant_faults.py": "d0ad708c8c5aa68b5eb088d2b11abf2f47baf1e718d9add3a66f0985be6228b7",
   "run_all_checks.py": "9acea6b64242373b94de6ffa635f4c31d24b800cb5aaf94175fb8dc552e5d662",
   "thresholds.json": "2d9cf4b8546bf589572a93ef0f6f2cdf186ae2a5e58fb167e6590a6f26d154bd"
  },
- "controls": 16,
- "faults": 74
+ "controls": 18,
+ "faults": 75
 }

@@ -8,7 +8,9 @@ naming a draft that was never written; a finding written below the Findings sect
 cannot see it; a finding with no severity; a MAJOR rejected on the orchestrator's own say-so rather than
 by naming the review or the human decision that agreed; and, at a gate, a MAJOR left deferred.
 What it does not check: whether the fix was any good. That is the next round's critics, and the
-adversarial critic opens every FIXED row of its own last report.
+adversarial critic opens every FIXED row of its own last report. Nor does it check that a FIXED row naming
+`SPINE.md` or `BIBLE.md` once drafts exist was about the spine or the bible: a prose finding closed that way
+is caught by the adversarial critic reopening the row, not here.
 Usage: check_reviews.py [--gate N]"""
 import re
 import sys
@@ -131,7 +133,10 @@ def main(root=ROOT, gate=None):
             # changing the premise card or the spine. Requiring a draft name there made every M1 and M2
             # review impossible to close by any of the three dispositions.
             artefact = re.search(r"\b(SPINE\.md|PREMISES\.md|BIBLE\.md|P-\d+)\b", detail)
-            if not named and not (not draft_names and artefact):
+            # The artefact form stays valid after the first draft exists: a review of the premises or the
+            # spine closed at M1 or M2 is not re-judged by the draft rule when M3 begins, and a finding
+            # about the spine or the bible found at M3 is still fixed there, not in a draft.
+            if not named and not artefact:
                 rep.fail(f"{disp.name} line {r['_line']}: FIXED naming nothing that changed. A FIXED row "
                          f"names the draft that fixed it (`draft-06`); before the first draft exists it "
                          f"names the artefact instead — `SPINE.md`, `PREMISES.md`, or the card by ID "

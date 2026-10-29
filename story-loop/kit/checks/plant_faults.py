@@ -726,6 +726,16 @@ def f_repeat_beyond_the_top_five(r):
          "Morning, and the console.", "The console."]) + "\n", encoding="utf-8")
 
 
+def f_possessive_of_an_undeclared_word(r):
+    """A distinctive word repeated past the limit behind an apostrophe-s. `console's` seven times is `console`
+    seven times; the possessive exemption is for the bible's names and motifs, not for any word with an apostrophe."""
+    p = Path(r) / "story/drafts/draft-02.md"
+    p.write_text(p.read_text(encoding="utf-8") + "\n\n" + " ".join(
+        ["The console's light held.", "She read the console's log again.", "The console's hum was the room's.",
+         "The console's glass was cold.", "She trusted the console's clock.", "The console's face went dark.",
+         "Morning, and the console's light."]) + "\n", encoding="utf-8")
+
+
 def f_losing_round_rerun_until_it_wins(r):
     p = Path(r) / "reviews/comparisons/round-01.json"
     d = json.loads(p.read_text(encoding="utf-8"))
@@ -802,6 +812,7 @@ FAULTS = [
     ("a paragraph over the maximum", f_paragraph_too_long, ["check_tics.py"], "over the maximum of"),
     ("every sentence the same length", f_sentences_all_one_length, ["check_tics.py"], "sentence lengths vary by"),
     ("a repeated word not declared as a motif", f_undeclared_repeated_word, ["check_tics.py"], "declare it in BIBLE.md"),
+    ("a distinctive word hidden behind a possessive", f_possessive_of_an_undeclared_word, ["check_tics.py"], "\"console's\" appears 7 times"),
     ("a name respelled halfway through", f_name_respelled, ["check_continuity.py"], "one character from the bible's"),
     ("a bible entry the story never uses", f_bible_term_never_used, ["check_continuity.py"], "never appears in"),
     ("a review with findings and no disposition", f_review_without_disposition, ["check_reviews.py"], "no REV-01-disposition.md"),
@@ -942,6 +953,15 @@ def c_protagonist_named_often(r):
     p.write_text(body.rstrip("\n") + "\n\n" + extra + "\n", encoding="utf-8")
 
 
+def c_possessive_of_a_name_is_the_name(r):
+    """`Ada's` seven times is the story saying its protagonist's name seven more times, which is not a tic."""
+    p = Path(r) / "story/drafts/draft-02.md"
+    p.write_text(p.read_text(encoding="utf-8") + "\n\n" + " ".join(
+        ["Ada's hands were cold.", "The lamp was Ada's now.", "Ada's record ran to nine days.",
+         "Nobody read Ada's log.", "The ice was Ada's whole window.", "Ada's clock said 11:06.",
+         "It was Ada's turn to wait."]) + "\n", encoding="utf-8")
+
+
 def c_name_that_neighbours_an_ordinary_word(r):
     """A character called Wren, in a story where the word "when" appears: not a drifted name."""
     edit(r, "story/BIBLE.md", "| Mir | the person who taught her the discipline | one syllable |",
@@ -1000,7 +1020,14 @@ def c_pristine_kit_with_no_drafts_folder(r):
     shutil.rmtree(Path(r) / "story/drafts")
 
 
-CONTROLS = [
+def c_artefact_fixed_row_survives_the_first_draft(r):
+    """An M2 review closed FIXED against SPINE.md stays closed once draft-01 exists: the draft rule does not
+    re-judge dispositions written before the first draft."""
+    edit(r, "reviews/REV-01-disposition.md", "| F1 | FIXED | draft-02 - the last paragraph is cut to its image |",
+         "| F1 | FIXED | SPINE.md - the ending image was rewritten before any draft existed |")
+
+
+CONTROLS = [("a FIXED row naming SPINE.md, kept after the first draft exists", c_artefact_fixed_row_survives_the_first_draft, ["check_reviews.py"]), 
     ("the day-one claims check on a pristine kit with no drafts folder", c_pristine_kit_with_no_drafts_folder, ["check_claims.py"]),
     ("a new draft added in sequence", c_new_draft_in_sequence, ["check_manuscript.py", "--milestone", "4", "--complete"]),
     ("a repeated word declared as a motif", c_motif_declared, ["check_tics.py"]),
@@ -1011,6 +1038,7 @@ CONTROLS = [
     ("a comparison round for a new draft", c_comparison_round_for_a_new_draft, ["check_comparisons.py", "--milestone", "4", "--gate", "4"]),
     ("deliberate roughness: a fragment and a dash", c_deliberate_roughness, ["check_tics.py"]),
     ("a protagonist named fifteen times in eleven hundred words", c_protagonist_named_often, ["check_tics.py"]),
+    ("the possessive of a listed name, seven times", c_possessive_of_a_name_is_the_name, ["check_tics.py"]),
     ("a character called Wren in a story containing the word when", c_name_that_neighbours_an_ordinary_word, ["check_continuity.py"]),
     ("the human amending their own sign-off under a gate-amend row", c_human_amends_their_own_signoff, ["check_gate.py", "--record"]),
     ("the plural of an invented term", c_plural_of_an_invented_term, ["check_continuity.py"]),

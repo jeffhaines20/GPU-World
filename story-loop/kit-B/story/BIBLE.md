@@ -76,6 +76,7 @@ also a discipline: a word you cannot justify in this table is a word you are lea
 | nothing | The counsel's finding at 02:10, Marga's June departure ("and nothing"), the counsel's last words ("nothing is there"), Noor's hands ("nothing to do with her hands"): the story's word for what a record can hold. |
 | again | The turn; the word Sanne says; the replays. |
 | second | The record's unit: the place Sanne's counsel gives her is to the second. Kept out of the last sentence, where it would carry the time, the play and the departure at once. "The second play" and "second departure" are the spine's phrases, never the narration's. |
+| minutes | The night's unit as the people in it live it, set against the record's seconds: contractions "two minutes apart" and then "five minutes apart" are how both dangers are measured, and the times said aloud, "fourteen minutes past two", are the clock of the landing where the record has "02:14". |
 | place | Where in the recording the heart comes back: what Sanne's counsel gives her and what Noor counts toward; the last sentence's object. |
 | count | What Noor does at the end instead of hearing: she counts on Sanne's face toward the place where the heart comes back. Also "counted". |
 | gallop | The doppler's sound in the passage, "a horse going hard on sand"; the word appears in the passage only and nowhere else. |

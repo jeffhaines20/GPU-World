@@ -8,8 +8,10 @@ tic or a motif and the count cannot tell — so a repeated word is failed only w
 has not declared it. That turns an unjudgeable measure into a declaration the writer has to make.
 Bypass attempts this check refuses: a draft where every sentence is the same length; adverb or filter-word
 density past the extreme; a paragraph longer than the maximum; the same opening word four paragraphs running; a distinctive word repeated past the limit and not declared
-as a motif in the bible; a motif declared with no reason given. Names and invented terms from the bible are
-not counted as repeats at all: a third-person story says its protagonist's name, and that is not a tic.
+as a motif in the bible; a motif declared with no reason given; a distinctive word hidden behind a possessive
+(`winter's` seven times is still `winter` seven times, and the apostrophe does not exempt it). Names and
+invented terms from the bible are not counted as repeats at all, and neither is their possessive: a
+third-person story says its protagonist's name, and `Ada's` is still saying it.
 What it does not check: whether any of these numbers means the prose is good. A story can pass every
 measure and be dead on the page; that is the flow critic's finding and the human's read-aloud at G4.
 Usage: check_tics.py"""
@@ -28,6 +30,11 @@ NOT_ADVERBS = {"family", "reply", "supply", "apply", "ally", "rally", "holy", "u
                "yearly", "friendly", "deadly", "costly", "elderly", "orderly", "july", "italy", "belly",
                "fly", "sly", "ply", "imply", "multiply", "assembly", "anomaly", "melancholy", "chilly"}
 COMMON = COMMON_WORDS
+
+
+def possessive_of(w):
+    """The word a possessive is made from: ada's -> ada, keepers' -> keepers; a word with no apostrophe is itself."""
+    return w[:-2] if w.endswith("'s") else w[:-1] if w.endswith("'") else w
 
 
 def main(root=ROOT, milestone=None):
@@ -100,13 +107,13 @@ def main(root=ROOT, milestone=None):
                     names.add(part.lower())
     if names:
         rep.note("names and terms, which repeat by necessity and are not counted: " + ", ".join(sorted(names)))
-    shown = [(w, c) for w, c in distinctive.most_common() if w not in names][:5]
+    shown = [(w, c) for w, c in distinctive.most_common() if w not in names and possessive_of(w) not in names][:5]
     rep.note("most repeated distinctive words: " + (", ".join(f"{w}\u00d7{c}" for w, c in shown) or "none"))
     for w, c in distinctive.most_common():          # every word over the limit, not a fixed window: a
         if c <= th["distinctive_word_repeats_max"]:  # declared motif must not blind the check to the next word
             break
-        if w in names or w in motifs:
-            continue
+        if w in names or w in motifs or possessive_of(w) in names or possessive_of(w) in motifs:
+            continue  # a name's possessive is the name; a motif's possessive is the motif
         rep.fail(f"{w!r} appears {c} times (limit {th['distinctive_word_repeats_max']}); either it is a "
                  f"tic the reader will start to see, or it is a motif — declare it in BIBLE.md's Motifs "
                  f"table with the reason, and this check will leave it alone")
