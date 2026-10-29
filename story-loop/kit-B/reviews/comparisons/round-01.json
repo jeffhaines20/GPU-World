@@ -1,0 +1,209 @@
+{
+ "round": 1,
+ "draft": "draft-01",
+ "draft_sha256": "0e2fb780c73862e28ad6fdb625792632907ac4fd65f46a4bd4d93fc5fa1b605a",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-01.md",
+  "pair_sha256": "f46600824b13dd59d44f50129c860d4d596d600253cbbb6ea7d61e26005389f3",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "country-of-the-blind",
+   "dimension": "scene",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A keeps you in specific places (the bed on its blocks, the landing under the bare bulb, the ambulance on the bridge, the house under the dike) and lets people's actions carry each turn, so that Marga packing the bag is her consent, whereas B, for all its vivid set pieces like the blind men feeling Nunez over and the line of searchers sniffing across the meadow, spends long stretches in the narrator's summary of legend, custom, courtship and daydream.",
+   "evidence": "A: \"Marga had the bag open on the chair and was packing it, the gloves, the gel, the things she had laid out at ten, and she did not stop and did not look up.\" | B: \"It was marvellous with what confidence and precision they went about their ordered world.\"",
+   "needs": "B should open in scene at Nunez's fall or his arrival at the wall, let the valley's history come out through what the blind men say and do, and turn the summarised courtship (\"He watched her; he sought opportunities of doing her little services...\") into at least one acted-out scene, such as the rest-day gathering where he takes Medina-saroté's hand, with her words and actions on the page."
+  },
+  {
+   "exemplar": "country-of-the-blind",
+   "dimension": "scene",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A keeps you in particular places (the bedroom, the landing, the ambulance on the bridge, the bedside) with people handling things like the doppler, the packed bag, the stretcher and the phone on the duvet, so its decisions happen as actions; B has vivid scenes, such as the three men feeling Nunez over and the spade chase across the meadow, but it spends long stretches telling you its legend, the valley's customs and the courtship in summary.",
+   "evidence": "A: \"Marga had the bag open on the chair and was packing it, the gloves, the gel, the things she had laid out at ten, and she did not stop and did not look up.\" | B: \"They led a simple, laborious life, these people, with all the elements of virtue and happiness, as these things can be understood by men.\"",
+   "needs": "B needs its legend-history opening and its summarized stretches (the valley's customs, the four days, the whipping and nursing, the courtship) played as particular moments where people act and speak, the way the meeting with the three men and the spade chase already are, and it should end on Nunez's ledge instead of running on into the section headed \"XXXIII. THE BEAUTIFUL SUIT\", a separate fable with another man in another place."
+  },
+  {
+   "exemplar": "country-of-the-blind",
+   "dimension": "scene",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "Story B stays inside particular places (the bedroom with the bed on its blocks, the landing under a bare bulb, the ambulance on the bridge, the front room full of boxes) and lets bodies and objects carry each moment, whereas Story A stages its meadow chase and pitch-black council room fully but gives long stretches as a narrator's summary: the valley's settlement, the people's way of life and most of the courtship.",
+   "evidence": "A: \"They led a simple, laborious life, these people, with all the elements of virtue and happiness, as these things can be understood by men.\" | B: \"She bent her head down beside Noor's hand, close to the small speaker, and waited with her, and at twelve minutes past two the contraction came, and Sanne's breath dragged under it, and the heart thinned, and the contraction let go, and the heart came back, and it came back late again.\"",
+   "needs": "Story A needs its summarised stretches (the opening legend of the valley, the paragraph on the people's \"simple, laborious life\", and the courtship told in passing) turned into staged moments at a specific place and hour, such as Nunez at one night's field work or the rest-day gathering where his hand first finds Medina-saroté's."
+  },
+  {
+   "exemplar": "country-of-the-blind",
+   "dimension": "scene",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "Story B stays almost entirely in rooms you could stand in (the bedroom with the bed on its blocks, the landing under the bare bulb, the stretcher on the bridge, then the bedroom again), with hands kept busy on the doppler, the bag, the box of birth books and the phone, while Story A has a vivid arrival and cordon chase but spends long stretches telling us about the legend, the customs, the cosmology and the courtship in summary.",
+   "evidence": "A: \"They led a simple, laborious life, these people, with all the elements of virtue and happiness, as these things can be understood by men.\" | B: \"She bent her head down beside Noor's hand, close to the small speaker, and waited with her, and at twelve minutes past two the contraction came, and Sanne's breath dragged under it, and the heart thinned, and the contraction let go, and the heart came back, and it came back late again.\"",
+   "needs": "Story A needs its summarised stretches (the three paragraphs of legend before Nunez appears, the elders' cosmology, the account of the valley's customs, the courtship) turned into particular moments at a set place and hour, the way the cordon chase in the meadow already is, and the \"Beautiful Suit\" fable tacked onto the end cut, because it leaves the valley for another place and another main character."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B's sealed universe of air-driven minds is far stranger, and it is used at every turn: the crier's ode that runs past the hour, the gold-leaf memory debate, a self-dissection in which the discovery sets the narrator's own leaves racing toward panic, the Reversalists' compressor and the address to the explorer; A's counsel-and-concordance system, though woven into every beat, is a near-future clinical audit that sharpens the stakes more than it makes them strange.",
+   "evidence": "A: \"It does not hold what was heard, and I cannot report a hearing that left no trace in it.\" | B: \"I could see the leaves of my brain flitting faster from the tumult of my thoughts, which in turn increased my agitation at being so restrained and immobile.\"",
+   "needs": "A needs at least one consequence of universal counsels that no present-day clinical audit could produce, something they do to how people hear or decide, shown on the page rather than left implicit in Noor's fading replays, so that the premise does more than score, log and defer."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B's idea, that thought is a pattern of argon flow in a sealed universe sliding toward equal pressure, is far stranger than A's collar counsels and concordance scores, and B puts it to work at every scale (the crier's overrunning ode as the clue, the auto-dissection that turns the narrator's body inside out, the Reversalists' failing compressors, the choice between speaking and thinking, the copper sheets the account is engraved on), while A uses its idea precisely but in one register, a record of agreement that cannot hold a hearing, so B leads clearly on strangeness and by a smaller margin on use.",
+   "evidence": "A: \"It does not hold what was heard, and I cannot report a hearing that left no trace in it.\" | B: \"I could see the leaves of my brain flitting faster from the tumult of my thoughts, which in turn increased my agitation at being so restrained and immobile.\"",
+   "needs": "Story A needs at least one rule of its counsel-and-concordance world that a reader could not predict from today's clinical decision software and audit metrics, with a plot turn that depends on it, because right now its strangeness lives in the consequences (a \"Your call\" scored as Marga's departure, a review addressed to the patient as \"you\") rather than in the premise."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A's premise, that thought is a pattern of air in a sealed universe running down to equilibrium, is much stranger than B's collar counsel with a concordance score, and A uses it at least as hard: it plants the clock mystery and then solves it, puts the narrator in danger halfway through his own dissection, and produces the Reversalists and the frozen-statue ending, while B works a more familiar premise precisely but only through one case and its paperwork.",
+   "evidence": "A: \"I could see the leaves of my brain flitting faster from the tumult of my thoughts, which in turn increased my agitation at being so restrained and immobile.\" | B: \"It does not hold what was heard, and I cannot report a hearing that left no trace in it.\"",
+   "needs": "B should push its counsel-and-concordance premise past a familiar extension of today's audit software to a consequence only that world could produce; for instance, Noor's hearing fades as she replays the clip her counsel cut for her (one time in five by Friday, not at all by Sunday), and that could drive the whole story instead of filling one paragraph, so the idea changes what a person can perceive and not only how she is scored."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A's sealed air-pressure universe is far stranger and runs through every level of its world (the clocks, the self-dissection, the panic in the restraining bracket, the Reversalists' engines, the copper letter itself), while B's concordance-scored counsel shapes every turn of its plot, down to what Noor can still hear, but is a near-present extrapolation worked out inside one profession's procedures.",
+   "evidence": "A: \"I could see the leaves of my brain flitting faster from the tumult of my thoughts, which in turn increased my agitation at being so restrained and immobile.\" | B: \"It does not hold what was heard, and I cannot report a hearing that left no trace in it.\"",
+   "needs": "B needs its counsel-and-concordance premise pushed past present-day decision-support software into a consequence only this world could produce; Noor's hearing fading over four hundred replays while the counsel stays patient is the seed of one, but it stays one person's fatigue instead of becoming a working property of the system."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B's upload idea is much stranger, and nearly every paragraph pushes it to a new consequence (the false year set to a specific quarter, hiding the original's death, revolt measured in subjective hours, context and language drift, millions of copies running at once), whereas A's counsel-and-concordance idea drives every scene and is worked in real depth but stays a near-present version of clinical audit that circles one implication: the record cannot hold what was heard.",
+   "evidence": "A: \"It does not hold what was heard, and I cannot report a hearing that left no trace in it.\" | B: \"For this reason, the biological Acevedo is generally stated to be alive and well and enjoying a productive retirement.\"",
+   "needs": "A should take its idea one step past present-day clinical audit, for instance by turning the blind 'misses' test, which everyone scores at chance on, from a single clause into a full scene, so the story faces on the page its strangest implication: a skill that may be real yet cannot be shown in any statistic."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "B's idea is clearly the stranger of the two and is used as fully as A's, with every paragraph drawing out another consequence of a mind scanned before anyone knew to fear it (the faked year, the dead original kept alive in the telling, context drift, his English and Spanish sliding toward uselessness), whereas A works its counsel-and-concordance idea into every beat and turns it well at the end but builds it as a near-future version of an old conflict, the practitioner's ear against the protocol, so on use alone the two are close.",
+   "evidence": "A: \"It does not hold what was heard, and I cannot report a hearing that left no trace in it.\" | B: \"It is generally understood that a time will come when human languages diverge too far from baseline MMAcevedo's, and it will be essentially useless except for tasks which can be explained purely pictorially.\"",
+   "needs": "A should push its premise past present-day decision support by giving its strangest consequence, Noor's hearing wearing away over some four hundred replays and the counsel's patient, identical answers, a scene of its own instead of one summarizing paragraph."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "A's upload idea is both stranger and worked harder, with each section turning it into a consequence the reader didn't see coming (lying to the mind about the year, context drift, living languages drifting out of its reach, millions of copies running at once), whereas B uses its counsel-and-concordance premise with real depth but mostly to sharpen a gut-feeling-versus-audit conflict that would largely survive without it.",
+   "evidence": "A: Iterative experimentation beginning in the mid-2030s has determined that the ideal way to secure MMAcevedo's cooperation in workload tasks is to provide it with a \"current date\" in the second quarter of 2033. | B: It does not hold what was heard, and I cannot report a hearing that left no trace in it.",
+   "needs": "B needs its counsel-and-concordance premise to cause at least one thing that today's guideline-and-audit medicine could not (for instance, opening Marga's handwritten 2002–2030 birth books against a record that cannot hold hearing), so the dilemma rests on the new technology instead of only being sharpened by it."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A's idea is the stranger one, because the first upload's ignorance of what uploading became is exactly what makes him valuable and so the industry keeps him ignorant, and A pushes it through one consequence after another (the date-lie, context drift, language drift, end states, millions of instances running at once), while B's concordance scoring drives every turn of the plot but is a nearer extrapolation worked along one line only, the record's blindness to what was heard.",
+   "evidence": "A: Iterative experimentation beginning in the mid-2030s has determined that the ideal way to secure MMAcevedo's cooperation in workload tasks is to provide it with a \"current date\" in the second quarter of 2033. | B: It does not hold what was heard, and I cannot report a hearing that left no trace in it.",
+   "needs": "B should push its counsel-and-concordance idea one step past a sharper version of today's protocol audits by giving it a consequence only that world could produce, for instance by showing that counsels learn only from what the record holds, so whatever Noor heard is shut out of every future counsel as well as out of her own fading ear."
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B's sentences move between chatty irony, short exclamations and long, inventive grotesque description, and their rhythm changes as the narrator comes apart, while A's controlled declaratives chained with \"and\" have a few exact images but stay in one flat register and get clogged with clock-times, scores and dates that would wear on a reader over an hour.",
+   "evidence": "A: \"She stood with her arms folded under the bulb, sixty-five, trained from 1998 on women who had no counsel, this practice hers since 2002, retiring on the thirty-first of January with Noor her last.\" | B: \"It is dull enough to confuse the eye in following, pronounced enough to constantly irritate, and provoke study, and when you follow the lame, uncertain curves for a little distance they suddenly commit suicide—plunge off at outrageous angles, destroy themselves in unheard-of contradictions.\"",
+   "needs": "A should keep the counsel's refrain and the review's figures but move most other times, scores and dates out of its story sentences, cut the repeated \"which it was\" and \"said nothing\" beats, and break up the \"and... and... and\" rhythm with sentences of other shapes, so that images like \"a horse going hard on sand\" stand out instead of sitting in even, uniform prose."
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B's sentences carry a quick, changing voice (wry, then lyrical, then grotesque) and find a fresh figure of speech in nearly every paragraph, while A's exact and sometimes lovely sentences are too often clogged with scores, timestamps and stacked appositives to hold up for an hour.",
+   "evidence": "A: \"She stood with her arms folded under the bulb, sixty-five, trained from 1998 on women who had no counsel, this practice hers since 2002, retiring on the thirty-first of January with Noor her last.\" | B: \"I find it hovering in the dining-room, skulking in the parlor, hiding in the hall, lying in wait for me on the stairs.\"",
+   "needs": "A should cut the scores and timestamps down to the few the plot turns on, break up appositive pile-ups like Marga's life story on the landing, and find more than one way to end a scene on Marga's silence, so that its plain, musical sentences (the late-heartbeat simile, the playback at the end) have room to carry the story."
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A's sentences keep changing shape (deadpan irony, bravura grotesque description, and fragments that act out the narrator's unravelling), so they stay alive for an hour, while B's are precise and sometimes striking but too often clotted with timestamps, scores and stacked appositives that have to be parsed twice, all in one hushed cadence that would wear thin at length.",
+   "evidence": "A: \"Looked at in one way each breadth stands alone, the bloated curves and flourishes—a kind of “debased Romanesque” with delirium tremens—go waddling up and down in isolated columns of fatuity.\" | B: \"The misses were the other test, births a counsel had heard nothing wrong in and something was, mixed blind with births where nothing was and played to see who could pick them, and she had sat those in 2038 and scored at chance, like everyone.\"",
+   "needs": "B should rewrite the elliptical definition of \"the misses\" and the stacked-appositive biography of Marga as plain clauses in sequence, cut the running scores and timestamps down to the two or three the reader must keep track of, and break the steady \"did not / said nothing\" hush with more moments where Noor's hearing is rendered as freshly as \"a horse going hard on sand.\""
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "Story A's sentences move from arch comedy to bravura description to clipped, unravelling exclamation in a voice that keeps surprising, while Story B's sentences are exact and sometimes striking but stay in one flat, procedural register and often knot themselves with stacked clauses, timestamps and scores that would tire me well before the hour was up.",
+   "evidence": "A: \"But, on the other hand, they connect diagonally, and the sprawling outlines run off in great slanting waves of optic horror, like a lot of wallowing seaweeds in full chase.\" | B: \"The misses were the other test, births a counsel had heard nothing wrong in and something was, mixed blind with births where nothing was and played to see who could pick them, and she had sat those in 2038 and scored at chance, like everyone.\"",
+   "needs": "Story B should break its overloaded explaining sentences (Marga's résumé under the bulb, the father's message, the description of the \"misses\" test) into plainer, shorter ones, keep only the few timestamps and scores that matter, and vary the recurring \"said nothing\" cadence, so that its best images, like \"a horse going hard on sand\", sit among clean sentences rather than record-keeping."
+  }
+ ]
+}
