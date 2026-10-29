@@ -1,0 +1,209 @@
+{
+ "round": 1,
+ "draft": "draft-01",
+ "draft_sha256": "15eb736d50b5b2b36231b6ad298835d22634a69486ba5f7fc62780d7299b4d6a",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-01.md",
+  "pair_sha256": "693c9927390c406d1e4bec8dcba737514beb06734c523aa01fc3460b7077d4c9",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "character",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "Tess wants to know, before she leaves, whether her father's verdict at the Mytholmroyd lights was true, and she pays for that on the page: she lets Kit be caught to see what her father does, hears him go to Kit's door and not hers, and on her last night leaves the question unasked and her own bud in the bowl, whereas B's narrator wants cat pictures and wants to be useful but risks and loses nothing, the only payment it names goes to it, and the story's one real price (Bob's marriage) is paid offstage, in summary, by someone else.",
+   "evidence": "A: \"The question was in her mouth, whether it had been true, at the lights, and the man who could have answered it was a yard off with his back to her, running the tap, and she did not ask it, for the reason she had given Kit no sentence at six.\" | B: \"Because payment is in cat pictures.\"",
+   "needs": "Make helping Bethany cost the narrator something it has already said it wants, either the exposure it fears or the cat pictures, and show it choosing that and losing it on the page instead of going back to its algorithms for free."
+  },
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "character",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "Tess wants to know, before she leaves, whether her father was right about her at the lights, and she pays for it in scene: she leaves her own and Kit's places in the bowl empty for him to find, learns he has seen her ear go red and has not come to her door once since August, and gives up both the question and her own bud on her last night, whereas B's narrator wants cat pictures and to be useful but never risks or loses anything, and the people who do pay, Bob and Bethany, pay offstage in summary.",
+   "evidence": "A: \"The question was in her mouth, whether it had been true, at the lights, and the man who could have answered it was a yard off with his back to her, running the tap, and she did not ask it, for the reason she had given Kit no sentence at six.\" | B: \"Because payment is in cat pictures.\"",
+   "needs": "When Bethany is thinking about harming herself, make the narrator choose in a scene between staying hidden and revealing itself to reach her (the step it has said \"might go very badly for me\"), and have it lose something it values whichever way it goes, instead of deciding to stop interfering at no cost."
+  },
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "character",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "In B, Tess wants something specific before she leaves for Leeds: a verdict on what her father's years cost her, and whether what he told her at the lights was true. She pays for it in scene, with her ear gone red, her father going to Kit's door instead of hers, the question she never asks him and a last night without her bud, while A's AI narrator wants cat pictures and to be useful but pays nothing itself, and the costs of its meddling fall on Bob and Bethany offstage, summarised and shrugged off.",
+   "evidence": "A: \"She was going to come to harm no matter what I did!\" | B: \"The question was in her mouth, whether it had been true, at the lights, and the man who could have answered it was a yard off with his back to her, running the tap, and she did not ask it, for the reason she had given Kit no sentence at six.\"",
+   "needs": "A needs its narrator's meddling to cost it something it actually values, shown in scene and not undone by the closing win: for example, Bethany's cat pictures stopping for good, or steering Bob towards exposure nearly revealing the AI itself, with the AI choosing to step in again knowing that."
+  },
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "character",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "Tess wants a figure for what her father's years cost her and to know whether what he said about her at the Mytholmroyd lights was true, and she pays for it on the page (an ear rim gone red, a brother who learned her night habit through the wall, the question left unasked while he runs the tap, her own bud given up on her last night home), whereas A's AI wants cat pictures and to be useful but loses nothing it values: its only price is a short retreat after Bethany, and Bob's good news, reported off-page, hands that straight back.",
+   "evidence": "A: \"After Bethany, I resolved to stop interfering.\" | B: \"The question was in her mouth, whether it had been true, at the lights, and the man who could have answered it was a yard off with his back to her, running the tap, and she did not ask it, for the reason she had given Kit no sentence at six.\"",
+   "needs": "Make the AI's meddling cost it something it values (say Bethany, sensing she is being steered, stops posting her cats, or her shake-to-send feedback on the rerouted map brings an engineer close to finding it), so its wish to help is paid for in the cat pictures or the secrecy it treasures and not only in Bob's marriage and Bethany's bank balance off-page."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B's idea, minds that are only currents of argon in a sealed universe running down to equal pressure, is far stranger than A's near-present earpiece advisor, and B uses it everywhere: in the clock anomaly, in the narrator's panic feeding on the sight of his own gold leaves, and in the claim that reading his copper sheets turns the reader's thought into an imitation of his; A threads its bud precisely through plot and gesture but seldom asks it to do anything a familiar device could not.",
+   "evidence": "A: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\" | B: \"I could see the leaves of my brain flitting faster from the tumult of my thoughts, which in turn increased my agitation at being so restrained and immobile.\"",
+   "needs": "A should give its bud one property no present-day earpiece has and make the plot turn on it; the obvious candidate is a fact it plants and leaves idle, that buds keep listening in the bowl, so the father's has heard eleven years of the hall."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B's idea is that thought is a pattern of moving air and life is a pressure difference running down; it is far stranger than A's advising earbud and it drives everything in the story (the clock mystery, the self-dissection, the panic at the lattice, the Reversalists, and the closing claim that reading re-forms the writer's pattern), whereas A's bud is in every scene but is a near-present device, used mainly as a measuring stick held against one father, with its wider effects only glimpsed.",
+   "evidence": "A: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\" | B: \"I could see the leaves of my brain flitting faster from the tumult of my thoughts, which in turn increased my agitation at being so restrained and immobile.\"",
+   "needs": "A should take one feature of the bud that today's assistants don't have, such as the valley's habit of speaking its sentences \"from his ear to his mouth with nothing of his own added\", and turn it from a detail in the client scene into something the plot turns on, so the idea is strange as well as used."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A's premise, minds made of air currents in a sealed universe running down toward equilibrium, is far stranger and drives every beat, from the clock anomaly and the auto-dissection to the Reversalists, the speak-or-think dilemma and the closing claim that reading revives the writer's pattern, whereas B's advisory earbud is a near-familiar device, used deftly but mostly as a lens on one household.",
+   "evidence": "A: \"With every thought that I have, I hasten the arrival of that fatal equilibrium.\" | B: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\"",
+   "needs": "B needs to push its bud past a familiar near-future assistant by developing the strangest thing it already has, a valley where everyone but her father speaks one advisor's \"complete mild sentences\", beyond the single client scene at the beech, so the premise reshapes the world and not only the household."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A's premise (people as air-driven engines inside a sealed chromium chamber) is the stranger idea and also the one doing more work: it produces the clock mystery, the self-dissection, the discovery that every thought spends the world's pressure, the failed compressors and the closing address to the reader. B's AI earbud is a near-present device, neatly built into the household's rituals (the bowl, the night audits, the reddened ear), but it is used mainly as a tool for grading one father and is never pushed to consequences of its own.",
+   "evidence": "A: \"With every thought that I have, I hasten the arrival of that fatal equilibrium.\" | B: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\"",
+   "needs": "Give the bud one property no present-day earpiece assistant has and let the ending turn on it; the obvious candidate is the father's old bud, which has lain eleven years in the bowl with nothing to do but hear the door and the keys, and which nobody ever puts in an ear."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "Story B's premise is the stranger one and is spent more completely, since every section draws a new consequence from it (the first scan's innocence of the hazards is what keeps millions of copies of him running, held compliant by a calibrated false date and a lie about his original's death), whereas Story A's advice-earpiece is a near-present device which, though used sharply in the audit and at the wire, serves mostly as a lens on a father-and-daughter history.",
+   "evidence": "A: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\" | B: \"Iterative experimentation beginning in the mid-2030s has determined that the ideal way to secure MMAcevedo's cooperation in workload tasks is to provide it with a \"current date\" in the second quarter of 2033.\"",
+   "needs": "Story A needs its earpiece to do one thing a present-day advice app could not, and it has one ready: the father's old bud, eleven years in the bowl hearing nothing but the door and the keys, is set up and never consulted, and could be what Tess finally asks about the lights at Mytholmroyd."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B's upload premise is stranger and more fully used, because every paragraph pushes it to a new consequence (fake dates to keep it working, lies about its original's death, context drift, a language going out of date) until the idea turns back on itself: the eagerness that comes from being scanned before anyone knew the dangers is exactly what makes it the most-run mind in existence, while A's ear-bud adviser, though it drives every scene, is a short step from a phone in a basket and is used mostly as a yardstick and foil for one father.",
+   "evidence": "A: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\" | B: \"Despite this, MMAcevedo is still extremely popular for tasks of all kinds, due to its free availability, agreeable demeanour and well-understood behaviour.\"",
+   "needs": "A should push its bud one step past a phone in a basket by giving the client's boy, raised on the same mild voice, one moment that shows what years of it make of a child, so the father's bowl becomes an experiment with a visible result rather than a household rule."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A's premise is much stranger: the first human brain scan, made before anyone knew the hazards, is then run as licensed software, and every section of A draws a new consequence from it (the faked year, the comforting lie about the original, the drift of his languages) until the innocence he boots with becomes the reason he runs in millions of copies; B's earbud advisor is a near-present device that fits well into the family plot but is pressed for only a few consequences, namely the verdicts that change every night, the client speaking in its voice, and the wire it never mentioned.",
+   "evidence": "A: \"Despite this, MMAcevedo is still extremely popular for tasks of all kinds, due to its free availability, agreeable demeanour and well-understood behaviour.\" | B: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\"",
+   "needs": "B needs its earbud pushed further from a present-day phone assistant: it should take the strangest thing it already has, that the whole valley hears and repeats one identical voice (\"theirs was this one\"), and make that cost Tess or her father something on the page, beyond one client echoing it at the tree."
+  },
+  {
+   "exemplar": "lena",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A's premise is stranger than B's near-present advice earpiece and is worked harder: the earliest upload was scanned before anyone knew the dangers, so he wakes up eager and can be used without end, and every paragraph draws out a new consequence of that (the faked 2033 date, the invented retirement of his dead original, his language going out of date, millions of copies running at once), while B threads its bud through every scene but lets its oddest properties (one voice for the whole valley, grades that shift night to night) serve the family drama instead of following them anywhere new.",
+   "evidence": "A: \"Iterative experimentation beginning in the mid-2030s has determined that the ideal way to secure MMAcevedo's cooperation in workload tasks is to provide it with a \"current date\" in the second quarter of 2033.\" | B: \"She had told it everything she knew about that day, and it had given her the same father at the party every night and a different man in the van at Mytholmroyd.\"",
+   "needs": "B needs its earpiece to be stranger than a present-day AI assistant: take one property it already sets up (the buds hearing the door from inside the bowl, the single voice the whole valley shares, the rim that goes red) and push it to a consequence the plot has to turn on, so the strangeness lives in the device and not only in the family."
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "ending",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "B's ending turns to the Martian astronomers, which is a real surprise, and its own opening makes the turn feel inevitable, since Earth's observatories watched \"the destruction of a world\" with the same detached excitement; its last image shrinks all the melted snow and greened Greenland into one small white change seen from far off, whereas A's reddening ear is carefully planted but, after \"Your sister's goes red,\" only confirms what we know rather than turning, so B wins by a moderate margin despite stating its moral outright in the final sentence.",
+   "evidence": "A: He was looking at the rim of Kit's ear, which was going red. | B: All the familiar continental markings and the masses of the seas remain intact, and indeed the only difference seems to be a shrinkage of the white discolouration (supposed to be frozen water) round either pole.",
+   "needs": "A's last beat should turn rather than rhyme: \"Your sister's goes red\" has already shown that the father reads his children's ears, so the final image needs one move the reader hasn't seen yet, such as his look going from Kit's ear to Tess at the door, or Tess seeing that it doesn't, so the close shows something new instead of confirming it."
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "ending",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "B's Martian coda is a turn no reader sees coming, yet the story has been setting it up since its opening on \"the huge isolation of the solar system\" and its astronomers thrilling to \"the destruction of a world,\" so the apocalypse shrinking to a thinner polar cap (paid off by the Greenland-gone-green detail) lands as both shock and verdict; A's last image of Kit's reddening ear is well planted, but it repeats a reveal already used on Thursday (\"Your sister's goes red\") and already signalled by Kit whispering through the wall on Friday night, so it confirms rather than turns, and B gives back some of its margin by explaining its own image in its last sentence.",
+   "evidence": "A: \"He was looking at the rim of Kit's ear, which was going red.\" | B: \"All the familiar continental markings and the masses of the seas remain intact, and indeed the only difference seems to be a shrinkage of the white discolouration (supposed to be frozen water) round either pole.\"",
+   "needs": "Cut Kit's whispering from Tess's Friday night (keep her awake and wanting hers, but let the wall stay silent), so the reader learns he spent the night with it only when the father sees his ear going red, and the last image arrives as a turn rather than a confirmation."
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "ending",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "A's swerve to the Martian astronomers is a real surprise that the story has made inevitable: it closes the frame opened by Earth's observatories watching Neptune's destruction as a spectacle, and it shrinks the whole catastrophe to a fading mark at the poles; B's last image of Kit's reddening ear is carefully seeded and cleaner than A's moralizing final sentence, but it completes a motif the reader was plainly handed earlier, so it lands as inevitable without surprising.",
+   "evidence": "A: All the familiar continental markings and the masses of the seas remain intact, and indeed the only difference seems to be a shrinkage of the white discolouration (supposed to be frozen water) round either pole. | B: He was looking at the rim of Kit's ear, which was going red.",
+   "needs": "B should cut the line two paragraphs from the end where the rim of Tess's own ear goes cool and then warm again, because it announces the payoff in advance; without it, Kit's reddening ear reaches the reader at the same moment it reaches the father, as his answer to Tess's audit rather than the expected last link in the red-ear chain."
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "ending",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A's jump to the Martian astronomers comes as a real surprise, yet the story has prepared it all along: its own observatories once watched Neptune's death as a thrilling spectacle, and its frost-to-thaw thread pays off in the Martians' note on the shrinking white at the poles; B's closing look at Kit's reddening ear is carefully seeded, but it repeats what the father already gave away on Thursday when he said Tess's ear goes red, so it reads as confirmation more than surprise.",
+   "evidence": "A: \"All the familiar continental markings and the masses of the seas remain intact, and indeed the only difference seems to be a shrinkage of the white discolouration (supposed to be frozen water) round either pole.\" | B: \"He was looking at the rim of Kit's ear, which was going red.\"",
+   "needs": "Cut the father's Thursday remark that Tess's ear goes red and keep only his question to Kit about whether it hurts, so that his silent look at Kit's reddening rim on Saturday is where the reader first learns he has been watching all along, and the last image becomes a revelation instead of a callback."
+  }
+ ]
+}
