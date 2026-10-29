@@ -7,7 +7,7 @@ at G2 with the two routes REV-07 offers, and no architect pass ran before the hu
 | Finding | Disposition | Detail |
 |---|---|---|
 | F1 | FIXED | SPINE.md (the architect's pass after G2, 2026-10-29; BIBLE.md where names or rules changed) — Marga visibly in the room at 02:14–02:16 doing something the parents take as assent |
-| F2 | DEFERRED | trigger: the architect's pass after G2, where it meets REV-07 F1 route (a): the Question rewritten to "to become", not "to find out"; owner: story-architect |
+| F2 | FIXED | SPINE.md (the architect's pass after G2, 2026-10-29, with route (a)) — the Question rewritten to "to become", not "to find out" |
 | F3 | FIXED | SPINE.md (the architect's pass after G2, 2026-10-29; BIBLE.md where names or rules changed) — what Noor's seven earlier departures were and how they came out, and the count made consistent with beat 2 |
 | F4 | FIXED | SPINE.md (the architect's pass after G2, 2026-10-29; BIBLE.md where names or rules changed) — beat 1 to say whether she heard the late return again live, so the fading can be read either way |
 | F5 | FIXED | SPINE.md (the architect's pass after G2, 2026-10-29; BIBLE.md where names or rules changed) — one clock for the board, and Sanne's naming of Marga shown, not inferred (REV-07 F5 says the same) |
