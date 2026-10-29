@@ -12,6 +12,8 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
+**Still owed at G2 (2026-10-29): your paragraph for each story, and story B's route.** The models stand (DEC-024) and the cap is 18M (DEC-023). The contest closes on 31 October 2026, two days from today; the plan for those two days is in "Since you last looked".
+
 **G2 for both stories (2026-09-26): read each spine and say whether it is the story you want.** About twenty
 minutes in all. Both kits are at M2; the writer model is Fable 5.1 (DEC-021), which you may overrule here before any draft
 is written.
@@ -513,6 +515,16 @@ curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
 
+- **2026-10-29: your two answers are recorded** (DEC-024, the models stand; DEC-023, the cap is 18M, re-accepted in both
+  kits). G2 is not yet signed: the gate needs your paragraph for each story, three to five sentences in your words, and
+  story B needs its route (a or b, a send-back, or the runner-up). **The contest closes on 31 October.** What fits in two
+  days, in parallel for both stories: one architect pass each (the deferred findings plus your paragraph), the first
+  drafts, one calibrated comparison and critic round each (G3, your first reading), one revision round, and the final
+  pass with the fresh reader and the line editor. Each round is roughly an hour of agent time and 1.1 to 1.7M tokens, so
+  the 18M cap reaches the first rounds for both and one revision round for one; a second story's revision round, or a
+  second round for either, needs another raise. If you want only one story to go the whole way, say which; otherwise I
+  run both to G3 and you choose there.
+
 - **M2, second critic round on both revised spines (2026-09-26).** (1) Story A: the depth critic 0 MAJOR, 7 MINOR, 1 NIT;
   the adversarial critic 0 MAJOR, 5 MINOR, 1 NIT, verdict SIGN-OFF with a stated condition. Story B: the depth critic
   0 MAJOR, 6 MINOR, 2 NIT; the adversarial critic 1 MAJOR, 4 MINOR, 3 NIT, NEEDS CHANGES. (2) Every round-1 MAJOR is gone
@@ -610,4 +622,4 @@ _(every request made of the human, kept after it is answered)_
 | 2026-09-08 | G1, second time: pick one of P-26, P-31, P-40 (or the runner-up P-25); the sign-off paragraph | 2026-09-14, in chat: sent back; the four are shelved; a questions-first funnel runs (DEC-015) |
 | 2026-09-14 | The questions funnel's offer: choose one of Q-06, Q-11, Q-12, Q-14, Q-27 (Q-05, Q-08 just below); a caps row for the third premise pass; the token cap | 2026-09-25, in chat: Q-06 (DEC-016); the others saved (SHELVED-QUESTIONS.md); "say, five outlines" read as the caps row (DEC-017); the token cap not addressed, asked again with the ranking |
 | 2026-09-25 | G1, third time: pick one of O-4, O-2, O-3, O-5, O-1 (either version) or send back; the sign-off paragraph; the token cap; whether O-3 or O-5 gets a third attempt | 2026-09-25, in chat: "raise the cap to 15M" (DEC-019); drafts of O-4 and O-2 (DEC-020, G1 pasted verbatim, read as GO); O-3 and O-5 not taken further; the writer-model question answered by DEC-021 |
-| 2026-09-26 | G2, both stories: is each spine the story you want; for story B, route (a), route (b), a send-back, or the runner-up; the writer model (DEC-021) to overrule or keep; the budget: raise the cap, run one full round, or take one story forward | |
+| 2026-09-26 | G2, both stories: is each spine the story you want; for story B, route (a), route (b), a send-back, or the runner-up; the writer model (DEC-021) to overrule or keep; the budget: raise the cap, run one full round, or take one story forward | 2026-10-29, in chat, in part: the models stand (DEC-024); the cap is 18M (DEC-023). Still owed: the G2 paragraph for each story and story B's route |
