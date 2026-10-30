@@ -14,7 +14,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-_(Read story B's revised draft, `story/drafts/draft-02.md` in this kit, and tell me which story carries on (DEC-028); the full request and story A's draft are in ../kit/INBOX.md, where you read and answer.)_
+_(Read story B's revised draft, the file draft-02.md in this kit's story/drafts folder, and tell me which story carries on (DEC-028); the full request and story A's draft are in ../kit/INBOX.md, where you read and answer.)_
 ---
 
 ### O-2 — Working Height

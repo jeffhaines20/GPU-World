@@ -433,6 +433,12 @@ def f_bible_term_never_used(r):
          "| Oyelaran | the keeper who switched the board off | as spelled here |\n| Quorl | a thing cut in revision | as spelled here |")
 
 
+def f_term_capitalised_mid_sentence(r):
+    """Every 'lattice' respelled 'Lattice' in the middle of its sentence: a respelling, so the term never appears."""
+    p = Path(r) / "story/drafts/draft-02.md"
+    p.write_text(p.read_text(encoding="utf-8").replace("lattice", "Lattice"), encoding="utf-8")
+
+
 def f_review_without_disposition(r):
     (Path(r) / "reviews/REV-01-disposition.md").unlink()
 
@@ -815,6 +821,7 @@ FAULTS = [
     ("a distinctive word hidden behind a possessive", f_possessive_of_an_undeclared_word, ["check_tics.py"], "\"console's\" appears 7 times"),
     ("a name respelled halfway through", f_name_respelled, ["check_continuity.py"], "one character from the bible's"),
     ("a bible entry the story never uses", f_bible_term_never_used, ["check_continuity.py"], "never appears in"),
+    ("a lower-case term capitalised mid-sentence everywhere it occurs", f_term_capitalised_mid_sentence, ["check_continuity.py"], "never appears in"),
     ("a review with findings and no disposition", f_review_without_disposition, ["check_reviews.py"], "no REV-01-disposition.md"),
     ("a disposition missing a finding's row", f_disposition_missing_a_row, ["check_reviews.py"], "no row for F2"),
     ("a disposition row with a blank Finding cell", f_disposition_blank_finding_cell, ["check_reviews.py"], "blank Finding cell"),
@@ -984,6 +991,16 @@ def c_plural_of_an_invented_term(r):
          "She traced the draw for three days. Two lattices, in fact, had been sunk here, and only one still ran.")
 
 
+def c_term_capitalised_at_a_sentence_start(r):
+    """The term 'lattice' appears only once, capitalised, where a sentence begins: that is the word in its place."""
+    edit(r, "story/drafts/draft-02.md", "a consortium had sunk a lattice of hydrophones", "a consortium had sunk hydrophones")
+    edit(r, "story/drafts/draft-02.md", "the lattice had been left running", "it had been left running")
+    edit(r, "story/drafts/draft-02.md", "where the lattice terminated", "where the array terminated")
+    edit(r, "story/drafts/draft-02.md", "at the depth the lattice was built to reach", "at the depth the array was built to reach")
+    edit(r, "story/drafts/draft-02.md", "She traced the draw for three days.",
+         "She traced the draw for three days. Lattice was the consortium's word for the array, and she used it.")
+
+
 def c_declared_near_neighbour(r):
     """Mara and Mars in one story: a writer's choice a program cannot tell from a typo, so the bible says so."""
     edit(r, "story/BIBLE.md", "| Ada | the keeper | never Ada's full name |",
@@ -1042,6 +1059,7 @@ CONTROLS = [("a FIXED row naming SPINE.md, kept after the first draft exists", c
     ("a character called Wren in a story containing the word when", c_name_that_neighbours_an_ordinary_word, ["check_continuity.py"]),
     ("the human amending their own sign-off under a gate-amend row", c_human_amends_their_own_signoff, ["check_gate.py", "--record"]),
     ("the plural of an invented term", c_plural_of_an_invented_term, ["check_continuity.py"]),
+    ("a lower-case term that appears only at the start of a sentence, capitalised", c_term_capitalised_at_a_sentence_start, ["check_continuity.py"]),
     ("a near neighbour the bible declares on purpose", c_declared_near_neighbour, ["check_continuity.py"]),
     ("a MAJOR rejected by naming a review and a human row that exist", c_major_rejected_with_real_corroboration, ["check_reviews.py", "--gate", "4"]),
     ("a dimension tried against one exemplar and lost", c_one_lost_pairing_on_a_dimension_tried_once, ["check_comparisons.py", "--milestone", "4", "--gate", "4"]),

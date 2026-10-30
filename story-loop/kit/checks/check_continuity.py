@@ -4,7 +4,9 @@ draft spelled as the bible spells it; nothing in the draft is a near-miss of a b
 away, which is how a name drifts across a revision); and no bible entry goes unused, because an entry the
 story never uses is either a cut the bible did not hear about or a detail the writer forgot to place.
 Bypass attempts this check refuses: a character renamed halfway through; an invented term respelled; a
-bible entry left behind after a scene was cut. A plural is never a drift, and a word the bible's
+bible entry left behind after a scene was cut; a lower-case term respelled with a capital in the middle of a
+sentence ("the Audit"), which does not count as the term appearing. A plural is never a drift, a lower-case term
+capitalised at the start of a sentence is the term in its ordinary place, and a word the bible's
 "Word that is not a drift" table declares is left alone — Mara and Mars in one story, or two
 characters called Mara and Mira, are things writers do and a program cannot tell them from a typo.
 What it does not check: whether the rules of the conceit make sense, or whether the timeline is possible;
@@ -22,6 +24,18 @@ def plural_of(term, word):
     """True when `word` is the term's plural or the term is the word's: the commonest thing done to a noun."""
     a, b = term.lower(), word.lower()
     return b in (a + "s", a + "es") or a in (b + "s", b + "es")
+
+
+def sentence_initial(term, body):
+    """True when a lower-case term appears capitalised where a sentence begins: after a full stop, a question or
+    exclamation mark, an ellipsis, or a paragraph break, with any opening quote or bracket between. 'Audit' there
+    is the word 'audit' in its ordinary place; 'the Audit' mid-sentence is a respelling and does not count."""
+    cap = term[:1].upper() + term[1:]
+    for m in re.finditer(r"\b" + re.escape(cap) + r"\b", body):
+        before = body[:m.start()].rstrip(" \t\"\u201c'\u2018(")
+        if not before or before[-1] in ".!?\u2026\n":
+            return True
+    return False
 
 
 def near_miss(term, word):
@@ -106,7 +120,7 @@ def main(root=ROOT, milestone=None):
     known_terms = {p.lower() for tm, _, _ in terms for p in tm.split()}
     for term, kind, line in terms:
         pattern = r"\b" + re.escape(term) + r"\b"
-        if not re.search(pattern, body):
+        if not re.search(pattern, body) and not (term[:1].islower() and sentence_initial(term, body)):
             rep.fail(f"BIBLE.md line {line}: {kind.lower()} {term!r} never appears in {path.name}; either "
                      f"the story cut it and the bible has not heard, or the writer forgot to place it")
             continue
