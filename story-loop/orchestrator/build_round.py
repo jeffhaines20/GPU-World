@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """M3: build every anonymized pair file for one comparison round and print the manifest the orchestrator spawns judges
 from. Usage: build_round.py <kit> <draft-NN> <round NN> <cal-pair-file> <outdir> <plan: exemplar:dimension,...>
+(a plan entry draft-NN:dimension pairs the current draft against that older draft, for the revision round)
 Writes, under <outdir>: cal-AB-A.txt/-B.txt and cal-BA-A.txt/-B.txt (the true draft against the weakened copy in both
 orders) and, per plan entry, <exemplar>-AB-{A,B}.txt and <exemplar>-BA-{A,B}.txt (the draft first in AB, the exemplar
 first in BA). Prints one manifest line per verdict needed: label, exemplar, dimension, order, A path, B path, A words,
@@ -23,7 +24,8 @@ for order, (a, b) in (("AB", (dpath, Path(cal))), ("BA", (Path(cal), dpath))):
                  "A": str(O / f"cal-{order}-A.txt"), "B": str(O / f"cal-{order}-B.txt"), "wa": wa, "wb": wb})
 for item in plan.split(","):
     ex, dim = item.split(":")
-    epath = K / "design/exemplars" / f"{ex}.txt"
+    # a plan entry named draft-NN is a revision pair: the older draft stands where the exemplar would
+    epath = (K / "story/drafts" / f"{ex}.md") if ex.startswith("draft-") else (K / "design/exemplars" / f"{ex}.txt")
     if not epath.exists(): sys.exit(f"no exemplar text {epath}")
     for order, (a, b) in (("AB", (dpath, epath)), ("BA", (epath, dpath))):
         wa, wb = pair(a, b, f"{ex}-{order}")
