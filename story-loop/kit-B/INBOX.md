@@ -14,7 +14,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-_(nothing: G2 signed 2026-10-29, route (a) chosen; M3 running. The human reads and answers in ../kit/INBOX.md.)_
+_(Read story B's revised draft, `story/drafts/draft-02.md` in this kit, and tell me which story carries on (DEC-028); the full request and story A's draft are in ../kit/INBOX.md, where you read and answer.)_
 ---
 
 ### O-2 — Working Height
@@ -444,6 +444,9 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-10-30, story B, round 1 is closed; draft-02 exists.** Three lines, as promised. (1) Findings by severity per critic, all on draft-01: flow-critic (REV-08) 5 MAJOR, 26 MINOR, 9 NIT, all line-level stumbles; depth-critic (REV-09) 0 MAJOR, 3 MINOR, 3 NIT; adversarial-critic (REV-10) 0 MAJOR, 5 MINOR, 5 NIT, and a sign-off on draft-01. (2) This was the first round, so there was no earlier revision for the findings to fall in; every finding is on draft-01, and 48 of 56 are FIXED in draft-02, 8 flow NITs deferred to the line edit, 1 NIT rejected with the writer's reason. (3) The comparison: against the exemplars draft-01 won 1 of 4 pairings (scene against "The Country of the Blind") and lost 3 (idea against "Exhalation" and "Lena", sentences against "The Yellow Wallpaper"); both judges calibrated. Draft-02 against draft-01: 8 of 8 verdicts to draft-02 on idea and sentences, so the revision stands. Every judge named the same loss: draft-01 said plainly, in the review, that the record holds what was said, done and wanted but not what was heard, and draft-02 cuts that sentence (the adversarial critic had asked for the cut) and explains "I can't tell you" instead of leaving it bare. That tension is the next round's question if story B goes on.
+  Also recorded today: your two raises as DEC-027 (tokens 21M, verdicts per round 32; the caps table re-accepted in both kits) and your agreement to read both draft-02s as DEC-028.
 
 - **M2, second critic round (2026-09-26), story B:** the depth critic 0 MAJOR, 6 MINOR, 2 NIT; the adversarial critic 1 MAJOR, 4 MINOR, 3 NIT, NEEDS CHANGES; the MAJOR is in the text the round-1 fix changed; at G2 for the human with the critic's two routes and the runner-up beside it (see ../kit/INBOX.md).
 
