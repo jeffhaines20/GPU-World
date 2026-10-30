@@ -1,0 +1,122 @@
+{
+ "round": 1,
+ "draft": "draft-02",
+ "draft_sha256": "0ac05869b5d012366a56d3ffd5b65d18c77c7b69f8d116cb3376e435de493549",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-02.md",
+  "pair_sha256": "4bc217804dd738010d6e33bdbd12da817570eee846cde2436a214bc459775df4",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A puts the counsel-world to work at more points in the story: Noor's \"I can't tell you\" becomes a tactic the premise forces (anything she says out loud, a collar will rebut fairly), the transfer becomes the only place left to learn whether an ear is real, and a night replay has her counsel measure the exact interval she hears and find no gap, while B states the premise's blind spot more crisply but lets it drive fewer of the characters' choices.",
+   "evidence": "A: \"What was not said, nothing at any collar could answer.\" | B: \"It does not hold what was heard, and I cannot report a hearing that left no trace in it.\"",
+   "needs": "B needs the premise to force a choice rather than only be stated: have Noor's \"I can't tell you\" follow from knowing that Sanne's counsel would fairly rebut anything she said out loud, and add a scene where she describes the late return to her own counsel and it measures that exact interval and finds nothing.",
+   "lost": "The older draft named the system's blind spot outright (the registry \"measured agreement and nothing else\", and the review said the record holds what was said, done and wanted but not what was heard), and the newer draft cuts both lines, so that gap is now only implied by \"I cannot report a hearing that left no trace in the record.\""
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "Both drafts share the same premise (collar counsels that score every decision for agreement and can only test a human ear against themselves), but A puts it to work at the points of choice: the closed loop of misses-test and simulator is what pushes Noor to \"Let me\", the counsel at every collar is why she gives Sanne no reasons, and the first-night replay pits her ear against the counsel's measured recovery interval and shows the ear starting to drift, where B mostly mentions these mechanisms in passing or sums them up afterward.",
+   "evidence": "A: \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door.\" | B: \"She thought of the misses, and of her score on them, which was everyone's.\"",
+   "needs": "B needs its premise to act at the points of choice: on the landing, make the closed loop of misses-test and simulator the reason for \"Let me\" (an ear can be tested nowhere but on this woman), and add a first-night replay in which Noor checks her hearing against the counsel's measured recovery interval, so the fading of what she hears is shown as it happens and not only summed up afterward.",
+   "lost": "A no longer has the review say outright, in the counsel's own voice, that the record holds what was said, done and wanted but not what was heard, and it drops the line that the registry \"measured agreement and nothing else\", so the premise's blind spot is acted out but never named that plainly."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "Both drafts share the counsel-and-concordance world, but B makes it drive the choices: the misses become the reason a live labour is the only test an ear has left, the counsel's readiness to answer anything said becomes the reason for \"I can't tell you\", and the first-night replay sets Noor's ear against the counsel's measured intervals on the same audio, while A mentions the misses in one aside and lets \"Let me\" and \"I can't tell you\" stand without the world's machinery behind them.",
+   "evidence": "A: \"She thought of the misses, and of her score on them, which was everyone's.\" | B: \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door.\"",
+   "needs": "A needs the first-night replay on the page, with Noor and her counsel playing 02:06 to 02:13 together and the counsel measuring the four return intervals and finding no gap, plus a reason for \"I can't tell you\" that comes from the world (anything she said would be answered at Sanne's collar before she finished), so that the idea drives the decisions and does not only score them.",
+   "lost": "The older draft said plainly what the scoring cannot see: the registry \"measured agreement and nothing else\", and the review's \"The record holds what was said, done and wanted. It does not hold what was heard\" matches \"Your call\", \"Let me\", the transfer and the late heart one for one, but the newer draft cuts the first and softens the second to \"I cannot report a hearing that left no trace in the record\"."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B builds its premise into the story's turning points: the blind misses test makes \"Let me\" the only trial an ear can ever get, on a live woman; a counsel on every collar makes \"I can't tell you\" a chosen silence, because any reason Noor spoke would be rebutted at once; and the staged replay sets Noor's hearing against her counsel's measured interval, while A keeps the same ideas mostly in compressed summary.",
+   "evidence": "A: \"She thought of the misses, and of her score on them, which was everyone's.\" | B: \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door.\"",
+   "needs": "A should stage what it only reports, by explaining the blind misses test on the landing so \"Let me\" reads as the only trial an ear can get, and by dramatising the first-night replay in which Noor's counsel measures the return and finds no gap.",
+   "lost": "The older draft kept the hearing beyond words, with \"No\" on the landing, \"I can't tell you\" at the bed and a review saying outright that the record \"does not hold what was heard\"; the newer draft cuts that review sentence and says Noor \"had the words for it\", so her hearing is no longer unsayable, only unanswerable."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "A's sentences have more concrete, memorable images (the dike grass that is \"wrong\", the foot that finds the stair late, the child \"grey and then not grey\", the replay's run of \"late\") and knot up less often than B's, though B's long held-breath sentences and deadpan asides have a music that A sometimes swaps for explanatory glosses, so the margin is small.",
+   "evidence": "A: \"But between the contraction letting go and the heart coming up out of it there had been a gap the width of a breath held, like a foot in the dark that finds the stair a moment after it reaches for it, and there had been no gap after any of the others.\" | B: \"The misses were the other test, births a counsel had heard nothing wrong in and something was, mixed blind with births where nothing was and played to see who could pick them, and she had sat those in 2038 and scored at chance, like everyone.\"",
+   "needs": "B should untangle its overloaded sentences, mainly the simulator sentence that defines the misses and the box-scene sentence that packs in \"the stretch her counsel had cut for her the first night, 02:06 to 02:13, four contractions\", and fix \"under the dike on the dike side of Zierikzee\", while keeping its long rhythmic sentences where they already work.",
+   "lost": "The newer draft broke the older draft's dry, compressed music into shorter, more explanatory sentences: the single held-breath sentence that runs through the contraction while Marga listens, the deadpan asides \"which it was\" and \"because nothing yet was the case\", and the review's line that the record holds \"what was said, done and wanted\" but not \"what was heard\"."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "A's sentences are cleaner and full of exact, fresh details (the grass that was wrong, the foot that finds the stair a moment late, the child grey and then not grey), while B's compressed style has good dry turns but in several places knots into clauses you have to read twice.",
+   "evidence": "A: \"Sanne inspected dikes for the water board: she walked them for a living and marked the places where the grass was wrong, or the ground wet that should have been dry.\" | B: \"The misses were the other test, births a counsel had heard nothing wrong in and something was, mixed blind with births where nothing was and played to see who could pick them, and she had sat those in 2038 and scored at chance, like everyone.\"",
+   "needs": "B needs its knotted compressions (the misses gloss, the father's whole life packed into one sentence, \"under the dike on the dike side of Zierikzee\") broken into plain clauses that follow one another, and each flat summary line, such as \"Sanne was a dike inspector for the water board and had wanted this at home,\" given one exact physical detail.",
+   "lost": "The newer draft dropped the older draft's dry closing clauses that turn a plain fact into a judgement (\"and the record scored it as agreement, which it was\", \"had said perhaps a dozen words\", \"because nothing yet was the case\", and the review's \"It does not hold what was heard\"), and it also dropped the one long sentence joined by \"and\" that carried the twelve-past-two contraction through to the flat short line \"Noor heard it.\""
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B keeps A's plain, restrained cadence but untangles the sentences A packs too tight, and adds exact physical images (the grass that was wrong, the foot finding the stair, the child grey and then not grey), so it reads more cleanly and with more variety over a long stretch, though A's clipped lines sometimes hit harder.",
+   "evidence": "A: \"The misses were the other test, births a counsel had heard nothing wrong in and something was, mixed blind with births where nothing was and played to see who could pick them, and she had sat those in 2038 and scored at chance, like everyone.\" | B: \"The academy had gathered the births in which a counsel had heard nothing wrong and something had been wrong, with what came of each, and had mixed them blind with births where nothing had been wrong, and had played them to every midwife in the country, to find the ears.\"",
+   "needs": "A needs each of its knotted sentences broken into one main clause with short sentences after it: the misses (\"heard nothing wrong in and something was\"), the bridge (\"because nothing yet was the case\"), the father (main verb \"sent\" buried under four clauses) and \"under the dike on the dike side of Zierikzee\"; its clipped beats, like \"And of June, the same word, the same bridge, and nothing.\", should stay as they are.",
+   "lost": "A left \"I can't tell you\" bare, so the refusal read as something Noor could not put into words, but B's \"Noor had the words for it\" paragraph turns it into a tactic, and together with the new definition of concordance and \"Four hundred plays had put the count in her\" it explains what A trusted the reader to feel."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B keeps A's plain, level cadence but untangles its clause-stacked sentences and loose pronouns, and it adds exact images that the story sets up earlier (the grass that was wrong, the foot that finds the stair late, \"grey and then not grey\"), so it is the clearer and richer hour of prose, though A's dry compression keeps the margin moderate.",
+   "evidence": "A: \"Her father, who piloted ships up the Westerschelde and had last overruled his counsel in 2029, and said so at birthdays, as a good thing, which it was, sent one message that evening: a heart, and the section statistics for Goes, which were good.\" | B: \"Sanne inspected dikes for the water board: she walked them for a living and marked the places where the grass was wrong, or the ground wet that should have been dry.\"",
+   "needs": "A should split its clause-stacked sentences (the father, the \"misses\" explanation, the far-end-of-the-bridge sentence) into two or three plain ones each and make clear what its loose pronouns point to (\"it carries\", \"She's had it\", the closing \"Her counsel\"), while keeping its dry asides.",
+   "lost": "B gave up A's restraint: A let \"I can't tell you\" and the final counting stand unexplained and stated its theme once, drily (\"The record holds what was said, done and wanted. It does not hold what was heard\"), where B adds the \"Noor had the words for it\" paragraph and \"Four hundred plays had put the count in her\" and cuts that line."
+  }
+ ],
+ "previous": "draft-01"
+}
