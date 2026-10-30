@@ -13,11 +13,9 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 ## Waiting on you
 
 **Read story B's revised draft, and story A's when it lands, then tell me which story carries on (DEC-028).**
-Story B, "Working Height": `story-loop/kit-B/story/drafts/draft-02.md` (3,241 words). Story A, "Eleven Fathers": its
-draft-02 is being written now; `story-loop/kit/story/drafts/draft-02.md` once it exists, and "Since you last looked"
-will say so. Read each once, without notes. Then one line in chat or under "From you": which story goes on. Nothing
-else is needed from you: the remaining budget (about 2.3M of 21M) then goes to that story's second exemplar round, its
-G3 request if it meets the bar, and the final. **The contest closes on 31 October.**
+Story B, "Working Height": `story-loop/kit-B/story/drafts/draft-02.md` (3,241 words). Story A, "Eleven Fathers": `story-loop/kit/story/drafts/draft-02.md` (3,784 words). Read each once, without notes. Then one line in chat or under "From you": which story goes on, and (a), (b) or (c) from the
+newest entry under "Since you last looked", because about 1.3M of the 21M remains and that buys the second exemplar
+round or the final pass, not both. **The contest closes on 31 October.**
 
 _(The outline ranking below was the G1 request; it was answered on 2026-09-25 and stays here for the record.)_
 ---
@@ -449,6 +447,10 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-10-30, story A, round 1 is closed; draft-02 exists.** Three lines. (1) Findings by severity per critic, all on draft-01: flow-critic (REV-08) 4 MAJOR, 28 MINOR, 13 NIT; depth-critic (REV-09) 0 MAJOR, 3 MINOR, 1 NIT; adversarial-critic (REV-10) 0 MAJOR, 6 MINOR, 4 NIT, withholding sign-off for one missing mechanism (how the audit could fail to hear the lights when a bud was in her ear; fixed in draft-02 by Rob zipping her bud into his jacket on the moor). (2) First round, so no earlier revision for the findings to fall in; 46 of 60 findings FIXED in draft-02, 13 flow NITs deferred to the line edit, 3 REJECTED because they sit inside the passage the spine fixes whole; the "nothing" tic is down from 14 to 5. (3) The comparison: against the exemplars draft-01 won 1 of 4 pairings (character against "Cat Pictures Please") and lost 3 (idea against "Exhalation" and "Lena", ending against "The Star"); both judges calibrated. Draft-02 against draft-01: idea 4 of 4 to draft-02, ending 3 of 4 (one judge preferred the old ending in one order), so the revision stands. The judges named what it lost: Tess's own ear going cool and then warm on Saturday, Kit heard through the wall in the gaps where the answer came, and the bowl's purpose no longer stated. Those go to the next round if story A goes on.
+
+- **Both revised drafts are ready to read (DEC-028), and one more decision is needed with your choice.** The budget stands at about 19.7M of 21M; about 1.3M remains. That buys one of these for the story you pick, not both: (a) the second exemplar round on its draft-02 (about 1.2M), which is the only way to test the G3 bar honestly, leaving nothing for the final pass; or (b) the final pass straight away (a fresh reader, an originality critic and a line edit, about 0.5M), submitting the chosen draft without the bar being met, which the design's budget rule allows ("hand over the best draft by comparison record, and say what is unfinished"); or (c) a further raise, about 2M, for both. The contest closes tomorrow, 31 October. Say which story, and (a), (b) or (c).
 
 - **2026-10-30, story B, round 1 is closed; draft-02 exists.** Three lines, as promised. (1) Findings by severity per critic, all on draft-01: flow-critic (REV-08) 5 MAJOR, 26 MINOR, 9 NIT, all line-level stumbles; depth-critic (REV-09) 0 MAJOR, 3 MINOR, 3 NIT; adversarial-critic (REV-10) 0 MAJOR, 5 MINOR, 5 NIT, and a sign-off on draft-01. (2) This was the first round, so there was no earlier revision for the findings to fall in; every finding is on draft-01, and 48 of 56 are FIXED in draft-02, 8 flow NITs deferred to the line edit, 1 NIT rejected with the writer's reason. (3) The comparison: against the exemplars draft-01 won 1 of 4 pairings (scene against "The Country of the Blind") and lost 3 (idea against "Exhalation" and "Lena", sentences against "The Yellow Wallpaper"); both judges calibrated. Draft-02 against draft-01: 8 of 8 verdicts to draft-02 on idea and sentences, so the revision stands. Every judge named the same loss: draft-01 said plainly, in the review, that the record holds what was said, done and wanted but not what was heard, and draft-02 cuts that sentence (the adversarial critic had asked for the cut) and explains "I can't tell you" instead of leaving it bare. That tension is the next round's question if story B goes on.
   Also recorded today: your two raises as DEC-027 (tokens 21M, verdicts per round 32; the caps table re-accepted in both kits) and your agreement to read both draft-02s as DEC-028.

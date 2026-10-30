@@ -1,0 +1,122 @@
+{
+ "round": 1,
+ "draft": "draft-02",
+ "draft_sha256": "ed67a20997228f0fcb8192882e0d0661bc57e774859945130d390027b64fe76a",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-02.md",
+  "pair_sha256": "56be8545f7330d33c1945a4144a9de831059ae53e30d967357cd5f5f9375512e",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "draft-01",
+   "dimension": "ending",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "B sets up its last image inside the final scene, with Tess's own ear rim cool for the first morning in weeks and then not, so the father's look at Kit's reddening rim is both a surprise and the inevitable close: the cost passes to the child who stays, and the father watches him rather than her. A spends those final beats on the bud answering her before she asks and on the doubled voice, which draws attention to sound just before an image about the body.",
+   "evidence": "A: \"In her left ear, in the same words and the same voice, hers said it too, so that she heard it twice and their father once.\" | B: \"At twenty past eight she lifted the keys and took hers from beside his, the old one, and put it in, and the rim of her ear was cool for the first morning in weeks, and then was not.\"",
+   "needs": "Story A should bring Tess's own ear back into the Saturday scene, cool when she puts the bud in and then warm, and cut \"so that she heard it twice and their father once\", so that her body sets up the red rim instead of the voice-doubling taking its place.",
+   "lost": "The newer draft no longer has Tess's own ear rim going cool and then warm again when she puts the bud back in on Saturday, the physical echo that made the father's look at Kit's reddening rim show the cost moving from her to him."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "ending",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "A's ending turns where B's mostly confirms: when Tess's own bud says Kit's line in the same words, Kit becomes the Heptonstall boy repeating his bud aloud, so the father not checking and looking at the ear becomes a turn away from the voice everyone else hears, while B says the not-checking is habit before the last image arrives.",
+   "evidence": "A: \"In her left ear, in the same words and the same voice, hers said it too, so that she heard it twice and their father once.\" | B: \"He would not have.\"",
+   "needs": "B should cut \"He would not have.\" and add one beat to its last paragraph that shows Kit's sentence coming from the bud rather than from Kit, set up earlier by having the Heptonstall boy say his bud's words aloud, so the father's look at the ear reads as a choice against the information and not as habit.",
+   "lost": "The older draft put Tess's own ear in the final frame with \"the rim of her ear was cool for the first morning in weeks, and then was not,\" so the father's look at Kit's reddening ear quietly passed over hers; the newer draft cuts that line and leaves her ear out of the last image."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "ending",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "B wins by a small margin because its last scene turns where A's only rhymes: Tess's bud says Kit's words with him, which was set up at the beech when the boy said aloud what her bud said half a breath later, and that makes Kit audibly the boy on the step, so the father not checking and looking at the ear lands as a surprising shift from the machine's words to Kit's body; A instead warns the reader about the red rim a paragraph early with Tess's own ear and explains the look with \"He would not have,\" so its last image comes when expected.",
+   "evidence": "A: \"At twenty past eight she lifted the keys and took hers from beside his, the old one, and put it in, and the rim of her ear was cool for the first morning in weeks, and then was not.\" | B: \"In her left ear, in the same words and the same voice, hers said it too, so that she heard it twice and their father once.\"",
+   "needs": "A needs a turn in its final scene that has been set up earlier: at the beech, have someone wearing a bud repeat its words aloud, then on Saturday have Tess's bud say \"The 9:14's four minutes late\" at the same moment as Kit, so the father's look becomes a turn away from the machine; it should also cut \"He would not have,\" which explains the look before it lands, and keep the cool-then-not ear.",
+   "lost": "B no longer has Tess's own ear warming as she puts the bud back in on Saturday (\"cool for the first morning in weeks, and then was not\"), the bodily echo that let the final red rim stand for both children and quietly left hers unwatched while her father looks at Kit's."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "ending",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "B sets up the bud-echo on the Heptonstall step and pays it off on the bottom stair, so the doubled train time makes the father's not checking, and his look at Kit's reddening ear, land as the one human attention set against a machine voice heard twice; that is surprising in the moment and inevitable once you remember the tree, while A reaches the same last image with a softer lead-in and props it up with a narrator's \"He would not have.\"",
+   "evidence": "A: \"He would not have.\" | B: \"In her left ear, in the same words and the same voice, hers said it too, so that she heard it twice and their father once.\"",
+   "needs": "A should plant the echo it never sets up (have the client's boy say his bud's words aloud, half a breath behind, when the limb lands), then have Tess's own bud speak Kit's train time with him on the stair, and cut \"He would not have\" so that the father's look at the ear answers the doubled voice instead of a narrator's assurance.",
+   "lost": "The newer draft no longer shows the habit passing from Tess to Kit before the stair (Kit through the wall with \"her whisper\", the gaps and his one laugh, and her own ear \"cool for the first morning in weeks, and then was not\"), so the red ear at the end comes as a reveal rather than as a mark you have watched pass from her to him."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A gives the bud more to do and makes it stranger: the moor verdict won't hold still because her father zipped the bud into his jacket, so it knows that night only from her words; the nurse's hand goes to her ear before a question is even finished; and the bud's words come out of other people's mouths half a breath behind, which the ending pays off with Kit; B never explains the wobble and leaves the echo at \"the boy said something to his\".",
+   "evidence": "A: \"That's landed where he said it would,\" her bud said in her ear, and on the step the boy said it too, aloud, to no one, the same words in the same order, half a breath behind. | B: When the limb came it came in one piece and swung on the line she had seen and lay down on the grass where he had said it would, with a stride to spare either side, and the boy said something to his, and her father said nothing, and started on the trunk.",
+   "needs": "B should give the moor entry's wobble a cause in the device (her father takes the bud out of her ear on the moor, so it knows that night only from her telling) and should let the boy on the step say his bud's words out loud, so that Kit speaking \"from it\" at the end repeats something we have already seen.",
+   "lost": "The older draft carried Tess's insight at Kit's door through to the bowl itself, \"the wish of a man who had put every bud in the house in a bowl so that his children would have to come to him\", but the newer draft stops at the lights and never says what the bowl was for."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A gives the bud more of the story's work, and stranger work: on the moor the father pockets it, so the one entry the runs can't settle is the one the bud never heard; the bud's mild voice is set against the client's own broader one; and the same words come twice at once, in Tess's ear and out of a boy's mouth, at the beech and again at the door, where B covers the same moments in a line of summary.",
+   "evidence": "A: \"That's landed where he said it would,\" her bud said in her ear, and on the step the boy said it too, aloud, to no one, the same words in the same order, half a breath behind. | B: When the limb came it came in one piece and swung on the line she had seen and lay down on the grass where he had said it would, with a stride to spare either side, and the boy said something to his, and her father said nothing, and started on the trunk.",
+   "needs": "B should show the bud at work in the moments it now summarises: at the beech, have the boy say his bud's words aloud as Tess's says them, instead of \"the boy said something to his\", and on the moor, have the father take her bud out before they speak, so the entry the runs can't settle is the one the bud never heard.",
+   "lost": "The older draft showed other people's buds through the half of the talk you can't hear (the child at the client's door saying \"all right, then, to nobody in the room\", and Kit through the wall with \"the gaps where the answer came\" and a laugh at something it said), and the newer draft cuts both."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B gives the bud more work to do, and stranger work: its exact words come out of other people's mouths half a breath late (first the boy at the limb, then Kit on the bottom stair, so Tess hears it twice and her father once), the nurse reaches for her own ear before Tess can finish a question, and the father zipping the bud into his jacket on the moor explains, from inside the idea, why the audit wobbles on that one entry, since what came after it has \"only from her\", while A more often tells us the voice is shared than lets us hear it.",
+   "evidence": "A: When the limb came it came in one piece and swung on the line she had seen and lay down on the grass where he had said it would, with a stride to spare either side, and the boy said something to his, and her father said nothing, and started on the trunk. | B: \"That's landed where he said it would,\" her bud said in her ear, and on the step the boy said it too, aloud, to no one, the same words in the same order, half a breath behind.",
+   "needs": "A should give the audit's wobble a cause inside the idea, by having her father take the bud out of her ear on the moor so the one entry it can't hold still is the one it knows only from her telling, and should let the shared voice be heard coming out of other mouths (the boy at the limb, Kit on the stair) instead of \"the boy said something to his\".",
+   "lost": "The older draft let the bud be heard as a gap in other people's talk (the client's child \"saying all right, then, to nobody in the room\", and Kit through the wall in Tess's whisper with \"the gaps where the answer came\" and a laugh at something it said), and the newer draft cuts both, so now the bud is only ever heard as words, never as the silence someone else is listening to."
+  },
+  {
+   "exemplar": "draft-01",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B makes the earbud idea do work that A only states: the father zipping her bud into his jacket on the moor becomes the reason the audit cannot hold still on Mytholmroyd, and the one voice coming out of several mouths (\"half a breath behind\", \"heard it twice and their father once\") makes \"everyone asks theirs\" strange and audible right to the last line.",
+   "evidence": "A: \"When the limb came it came in one piece and swung on the line she had seen and lay down on the grass where he had said it would, with a stride to spare either side, and the boy said something to his, and her father said nothing, and started on the trunk.\" | B: \"'That's landed where he said it would,' her bud said in her ear, and on the step the boy said it too, aloud, to no one, the same words in the same order, half a breath behind.\"",
+   "needs": "A should make something the bud couldn't hear the cause of the audit's one unstable entry (say, the father taking it out of her ear on the moor, as he did at the door when she was eight), and let the shared voice be heard coming out of someone else's mouth at least once, instead of reporting that \"the boy said something to his.\"",
+   "lost": "The older draft let you hear the bud only through the pauses where it was answering: the child at the client's door \"saying all right, then, to nobody in the room,\" and Kit through the wall with \"the gaps where the answer came\" and a laugh at something it said; the newer draft swaps both for ordinary household noise, losing the idea's quietest, eeriest sign and the hint that Kit gets something from his bud that Tess never did."
+  }
+ ],
+ "previous": "draft-01"
+}
