@@ -107,6 +107,12 @@ also a discipline: a word you cannot justify in this table is a word you are lea
 | daughter | Sanne's; she is never named, so "her daughter" is the only way to say her. |
 | landing | Outside the bedroom door; where the departure is made and logged. |
 | dike | The house is under it; the story's first and last place. |
+| breath | The gap heard is "the width of a breath held"; Sanne's breath is under every contraction, in the room and in the recording, and Marga's is beside the speaker at 02:12: the night's other sound, the one the record does hold. |
+| wrong | The misses' word, "heard nothing wrong" and "something had been wrong", and the inspector's, the grass that is wrong; "a child with nothing wrong". The counterpart of "nothing": what a record holds only once it has shown. |
+| asked | The counsel answers what it is asked and raises nothing else, so who asked it what, and when, is the shape of every scene with one in it: Noor asks hers for the night and "Listen with me"; Sanne asks hers where in it. Also "ask", "asks", "asking". |
+| four | The recording's four contractions; the four hundred plays; the four blocks under the bed; the counsel's four sentences on the landing. |
+| eight | Eight centimetres, where labour is at ten past two and where it stops at Goes; the eight minutes the counsel cut; the eighth day. |
+| three | The counsel's three sentences, said after every contraction and on every replay; "three in five"; "three more contractions". |
 
 ## Word that is not a drift
 

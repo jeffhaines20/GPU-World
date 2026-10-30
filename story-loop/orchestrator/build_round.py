@@ -27,10 +27,11 @@ for item in plan.split(","):
     # a plan entry named draft-NN is a revision pair: the older draft stands where the exemplar would
     epath = (K / "story/drafts" / f"{ex}.md") if ex.startswith("draft-") else (K / "design/exemplars" / f"{ex}.txt")
     if not epath.exists(): sys.exit(f"no exemplar text {epath}")
+    stem = f"{ex}-{dim}" if ex.startswith("draft-") else ex   # a revision pairs one older draft on several dimensions
     for order, (a, b) in (("AB", (dpath, epath)), ("BA", (epath, dpath))):
-        wa, wb = pair(a, b, f"{ex}-{order}")
-        rows.append({"label": f"{ex}-{order}", "exemplar": ex, "dimension": dim, "order": order,
-                     "A": str(O / f"{ex}-{order}-A.txt"), "B": str(O / f"{ex}-{order}-B.txt"), "wa": wa, "wb": wb})
+        wa, wb = pair(a, b, f"{stem}-{order}")
+        rows.append({"label": f"{stem}-{order}", "exemplar": ex, "dimension": dim, "order": order,
+                     "A": str(O / f"{stem}-{order}-A.txt"), "B": str(O / f"{stem}-{order}-B.txt"), "wa": wa, "wb": wb})
 (O / "manifest.json").write_text(json.dumps(rows, indent=1), encoding="utf-8")
 for r in rows: print(f"{r['label']:34s} {r['dimension']:10s} A={r['wa']:5d}w  B={r['wb']:5d}w")
 print(f"{len(rows)} pair files; x2 judges = {2*len(rows)} verdicts; manifest {O/'manifest.json'}")
