@@ -1,0 +1,122 @@
+{
+ "round": 2,
+ "draft": "draft-03",
+ "draft_sha256": "a6018cec32dd212bbdc1922a5497ba73a7e8cde5742b5b571926e9680851bf9f",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-03.md",
+  "pair_sha256": "a27b6e5ea6c400a3567b771fd08581f3dfe628a617d2a02b75b1c59650b61492",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "draft-02",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A puts the counsel-and-concordance premise to work in more of the story's world and plot (Sanne's own dike marks are checked against the board's sensors, the younger pilots hear the father's override as a story about fog, and at the end the system files the very recording Noor heard something in among the misses test's nothing-wrong births), whereas B does its strangest work as reasoning inside Noor's head on the landing.",
+   "evidence": "A: \"Below it stood one more line: with Sanne's consent, the recording from 02:06 had gone to the registry for the misses, filed among the births in which nothing had been wrong.\" | B: \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door.\"",
+   "needs": "B needs the premise to act on the world after the landing instead of only being reasoned about there, for instance by having the system take the 02:06 recording into the misses test as a nothing-wrong birth, or by having Sanne's dike marks scored against the board's sensors, so the idea reaches the plot and the other characters and not just Noor's thinking.",
+   "lost": "The older draft let Noor know, before she said \"Let me\", that a live woman at eight centimetres was the only test left of whether an ear was real (\"and the woman was behind the door\"), so the transfer read as a deliberate experiment on someone else's labour, and the newer draft cuts that recognition."
+  },
+  {
+   "exemplar": "draft-02",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "A carries the counsel-and-concordance idea well past Noor's decision: Sanne's dike marks are scored against the board's sensors, the younger pilots hear an override as a story about fog, the record search finds that \"the worriers hid\" any ear, and Noor's recording ends up filed in the misses test as a birth where nothing was wrong, so the idea keeps causing things right to the end (though B uses it more sharply on the landing, and the margin is modest).",
+   "evidence": "A: \"Below it stood one more line: with Sanne's consent, the recording from 02:06 had gone to the registry for the misses, filed among the births in which nothing had been wrong.\" | B: \"What was not said, nothing at any collar could answer.\"",
+   "needs": "B should let the counsel world act on the aftermath and on the people around Noor, not only on her two choices: for example, have the complaint file the 02:06 recording in the misses registry as a nothing-wrong birth, and score Sanne's own dike marks against the water board's sensors, so that when she listens at the end she is up against the same system.",
+   "lost": "The older draft made the idea drive both of Noor's choices on the landing (the transfer as the only test left, \"nowhere left to learn whether an ear was real except a woman at eight centimetres\", and the silence as a tactic, because \"What was not said, nothing at any collar could answer\"), and the newer draft cuts both lines, so \"I can't tell you\" reads as pointlessness rather than as the one reply a counsel cannot answer."
+  },
+  {
+   "exemplar": "draft-02",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "Story B lets the scoring system act on more of the story: Sanne's own dike marks are checked against sensors, and the disputed recording is filed into the misses test as a birth where nothing was wrong, so a system that cannot find an ear turns Noor's moment into evidence against one; Story A states the idea's traps sharply in Noor's thoughts but lets fewer of them happen.",
+   "evidence": "A: \"The misses were the other test, and she had sat those.\" | B: \"Below it stood one more line: with Sanne's consent, the recording from 02:06 had gone to the registry for the misses, filed among the births in which nothing had been wrong.\"",
+   "needs": "Story A needs the scoring system to do at least one thing to this birth after the fact, for instance the 02:06 recording entered into the misses test as a birth where nothing was wrong and noted in the complaint, so the idea has a consequence outside Noor's head before Sanne asks 'Where in it.'",
+   "lost": "The newer draft no longer says the idea's hardest consequences aloud at the two decision points: A's 'There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door' made 'Let me' an experiment on Sanne, and A's 'What was not said, nothing at any collar could answer' made 'I can't tell you' a tactic against the collars rather than a failure to explain."
+  },
+  {
+   "exemplar": "draft-02",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B puts the counsel-and-concordance premise to work in more of the story: Sanne's own dike marks are checked against the board's sensors, younger pilots hear an overruled counsel as a story about fog, and, most of all, the 02:06 recording is filed into the blind misses as a birth where nothing was wrong, so the closed loop that A mostly describes in sharp sentences actually closes on Noor's own evidence before the last listening.",
+   "evidence": "A: \"The simulator could not write a heart the counsel could not hear.\" | B: \"Below it stood one more line: with Sanne's consent, the recording from 02:06 had gone to the registry for the misses, filed among the births in which nothing had been wrong.\"",
+   "needs": "A needs its premise to do something after the section instead of only being stated: have the registry or Sanne's counsel act on the 02:06 recording (for instance, enter it into the blind misses among the births where nothing was wrong), and put Sanne's own dike work under the same agreement-scoring, so the final listening happens inside the system the story built.",
+   "lost": "The older draft spelled out how the premise trapped Noor: the woman behind the door was the only test left for whether an ear was real, and Noor had the words for what she heard but held them back because only what went unsaid could not be answered at any collar; the newer draft cuts both, so her asking to transfer and her refusal to give a reason no longer read as moves the world forced on her."
+  },
+  {
+   "exemplar": "draft-02",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "A does more of its work through sentence rhythm and restraint (the single held-breath sentence at 02:12, the two bare lines before \"I can't tell you\", \"a story about fog\"), while B is crisper in its connecting phrases but more often states or explains its effects, so A gives more sentences worth stopping on, by a small margin.",
+   "evidence": "A: \"...and the contraction let go, and there was the hiss of the instrument with nothing in it for the width of a breath held, and then the heart, back, at its rate, in the same place as before.\" | B: \"The heart came back, and it came back late again, by the same width, in the same place: the foot, the stair.\"",
+   "needs": "B should cut the sentences that explain its own point (everything from \"Noor had the words for it\" to \"What was not said, nothing at any collar could answer\", and also \"The misses were the other test, and she had sat those\"), use \"the foot, the stair\" only once, and write the 02:12 return as what Noor hears instead of stating outright that it \"came back late again\".",
+   "lost": "The newer draft cut the line that brought Noor's landing thoughts back to the bed (\"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door\"), and it swapped several of the older draft's compressed phrasings (\"on her counsel's word and Marga's nod\", \"Marga looked at her for the length of a contraction\", \"She asked her counsel for the night\") for longer, more literal \"and... and\" chains and the doppler being handed back and forth."
+  },
+  {
+   "exemplar": "draft-02",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 2,
+   "reason": "By a small margin, B's sentences stay compressed and elliptical from start to finish (\"under hers\", \"on her counsel's word and Marga's nod\", \"She asked her counsel for the night\", \"Marga had ten\"), while A keeps opening those compressions out into longer, more literal clauses, even though A's single held-breath sentence at twelve past two is the best passage in either draft.",
+   "evidence": "A: \"Whoever came after Marga would be a stranger who had never seen Noor at a bed, and if the sign-off ran past January it would be the stranger's, from the record.\" | B: \"Whoever came after Marga would be a stranger who had never seen Noor at a bed, and would sign her off, or not, from the record.\"",
+   "needs": "A needs the compressions it unpacked put back (\"would sign her off, or not\", \"on her counsel's word and Marga's nod\", \"She asked her counsel for the night\", \"It cut her eight minutes\", \"Marga had ten\"), and \"the births a counsel had heard nothing wrong in when something was\" untangled, while it keeps the twelve-past-two sentence, the \"story about fog\" line and the record's \"said, done and wanted\".",
+   "lost": "The newer draft lost the older one's elliptical compression, and with it the landing sentence \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door,\" which brought the thinking about the misses back to the woman in the next room just before \"Let me.\""
+  },
+  {
+   "exemplar": "draft-02",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 2,
+   "reason": "By a small margin, A's sentences are tighter and more often end on a hard, earned close, while B, despite some fine additions (the long held-breath sentence at twelve past two, the pilots hearing the father's story \"as a story about fog\"), spends more of its sentences explaining, strings more clauses together with \"and\", and sometimes tangles its syntax.",
+   "evidence": "A: \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door.\" | B: \"In 2033 the academy had taken the births a counsel had heard nothing wrong in when something was, and mixed them blind with births where nothing was.\"",
+   "needs": "Keep the new held-breath sentence at twelve past two and the fog line, but bring back A's compressed phrasings (\"under hers\", \"on her counsel's word and Marga's nod\", \"She asked her counsel for the night\", \"It knew no other\"), untangle \"heard nothing wrong in when something was\", and break up the two o'clock examination sentence, which has five \"and\"s.",
+   "lost": "B cut the short, quotable sentences that closed Noor's two moments of deciding (\"and the woman was behind the door\" before \"Let me\", and \"What was not said, nothing at any collar could answer\" before \"I can't tell you\"), so both decisions are now reached through explanation rather than through a sentence that lands."
+  },
+  {
+   "exemplar": "draft-02",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "A's sentences are tighter and stranger, turning again and again on short, elliptical phrasings, while B has one superb held-breath sentence at 02:12 and a few sharp new aphorisms but mostly spells A's short forms out into flatter, explanatory sentences, so over an hour A's texture wins by a modest margin.",
+   "evidence": "A: \"Noor counted on Sanne's face toward the place where the heart came back.\" | B: \"Noor kept her eyes on Sanne's face and counted toward the place where the heart came back.\"",
+   "needs": "B should restore the short forms it unpacked (\"under hers\", \"on her counsel's word and Marga's nod\", \"She asked her counsel for the night\", \"It cut her eight minutes\", \"Marga had ten\", \"counted on Sanne's face\") and cut flat expository additions like \"The board's list said beside each of her marks whether the sensors had agreed\" and \"if the sign-off ran past January it would be the stranger's\", while keeping the new 02:12 held-breath sentence, \"the worriers hid it\" and \"a story about fog\".",
+   "lost": "The newer draft cut the line that closed the landing scene, \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door,\" so Noor's \"Let me\" is no longer named as a test of her ear run on a live woman."
+  }
+ ],
+ "previous": "draft-02"
+}
