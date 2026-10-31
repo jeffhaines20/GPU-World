@@ -113,6 +113,9 @@ also a discipline: a word you cannot justify in this table is a word you are lea
 | four | The recording's four contractions; the four hundred plays; the four blocks under the bed; the counsel's four sentences on the landing. |
 | eight | Eight centimetres, where labour is at ten past two and where it stops at Goes; the eight minutes the counsel cut; the eighth day. |
 | three | The counsel's three sentences, said after every contraction and on every replay; "three in five"; "three more contractions". |
+| played | The verb of the replays: the misses "played" to every midwife; ten past two played the first night, again, and through on Friday; Joost's "She hasn't played it". Also "play": "pressed play", "one play in five". |
+| bed | The bed on its blocks is the story's first object and its last; "at a bed" is where an ear is made or not, and where Marga's successor has never seen Noor; Noor lies on her own bed to play the night back. |
+| hand | The midwife's hands: the left flat on the belly, the right with the doppler; the doppler put into Marga's hand and back into Noor's on the landing, which is the call changing hands; the phone put into Sanne's hand at the end. Also "hands". |
 
 ## Word that is not a drift
 
