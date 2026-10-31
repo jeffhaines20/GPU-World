@@ -1,5 +1,5 @@
 {
- "accepted": "DEC-027",
+ "accepted": "DEC-030",
  "caps": [
   {
    "name": "Premise-writer calls (one per partition cell)",
@@ -35,7 +35,7 @@
   },
   {
    "name": "Tokens, whole project",
-   "value": "21M"
+   "value": "23M"
   }
  ]
 }
