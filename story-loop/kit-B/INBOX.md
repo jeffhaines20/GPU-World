@@ -14,7 +14,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-_(Read story B's revised draft, the file draft-02.md in this kit's story/drafts folder, and tell me which story carries on (DEC-028); the full request and story A's draft are in ../kit/INBOX.md, where you read and answer.)_
+_(G3 is open on draft-02 of this kit: read it and dictate three to five sentences in chat, what you felt, what stayed, what must change; the full request is in ../kit/INBOX.md, where you read and answer.)_
 ---
 
 ### O-2 — Working Height
@@ -444,6 +444,8 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-10-31, story B, round 2's comparison is in; G3 is open.** Round 2 on draft-02 against the four exemplars declared for it (reviews/comparisons/PLAN-round-02.md): 3 wins (character 4 of 4, turn 4 of 4, ending 4 of 4) and 1 loss (idea, 0 of 4 against "The Machine Stops"); both judges calibrated on this draft; record reviews/comparisons/round-02.json. The bar for G3 is met on draft-02 and `run_all_checks.py --pregate 3` passes. The three critics are reading draft-02 now (REV-11 flow, REV-12 depth, REV-13 adversarial); their findings and your G3 paragraph go to the revision together. Your choice (DEC-029) and the raise to 23M (DEC-030) are recorded in your words.
 
 - **2026-10-30, story A, round 1 is closed; draft-02 exists.** Three lines. (1) Findings by severity per critic, all on draft-01: flow-critic (REV-08) 4 MAJOR, 28 MINOR, 13 NIT; depth-critic (REV-09) 0 MAJOR, 3 MINOR, 1 NIT; adversarial-critic (REV-10) 0 MAJOR, 6 MINOR, 4 NIT, withholding sign-off for one missing mechanism (how the audit could fail to hear the lights when a bud was in her ear; fixed in draft-02 by Rob zipping her bud into his jacket on the moor). (2) First round, so no earlier revision for the findings to fall in; 46 of 60 findings FIXED in draft-02, 13 flow NITs deferred to the line edit, 3 REJECTED because they sit inside the passage the spine fixes whole; the "nothing" tic is down from 14 to 5. (3) The comparison: against the exemplars draft-01 won 1 of 4 pairings (character against "Cat Pictures Please") and lost 3 (idea against "Exhalation" and "Lena", ending against "The Star"); both judges calibrated. Draft-02 against draft-01: idea 4 of 4 to draft-02, ending 3 of 4 (one judge preferred the old ending in one order), so the revision stands. The judges named what it lost: Tess's own ear going cool and then warm on Saturday, Kit heard through the wall in the gaps where the answer came, and the bowl's purpose no longer stated. Those go to the next round if story A goes on.
 

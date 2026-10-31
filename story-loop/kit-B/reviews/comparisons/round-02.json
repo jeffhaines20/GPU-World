@@ -1,0 +1,209 @@
+{
+ "round": 2,
+ "draft": "draft-02",
+ "draft_sha256": "0ac05869b5d012366a56d3ffd5b65d18c77c7b69f8d116cb3376e435de493549",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-02.md",
+  "pair_sha256": "4bc217804dd738010d6e33bdbd12da817570eee846cde2436a214bc459775df4",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "as-easy-as-abc",
+   "dimension": "turn",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "In A, the hearing that sent Sanne to a section and cost Noor her live cases wears away over four hundred replays until, back in the room where she first heard it, Noor hears only a heart, and that change in her cannot be undone; B's irreversible acts (the melted Statue, the slagged Market, the exiled Serviles) happen to objects and an unnamed company, in a plot built to put things back as they were, so no one we follow ends the night changed.",
+   "evidence": "A: \"Since Sunday she had not heard it at all, and she had stopped asking the counsel, because it gave the same answer each time, patiently, and the patience was worse.\" | B: \"Carry on as before, but under the Board.\"",
+   "needs": "B needs the night to leave one person we follow changed for good: name the orator and give him a scene of his own, so that the shutter opening on London at the end is his own loss and not an unnamed company's weeping, or let Dragomiroff, now that he has seen the Board take action, refuse to sit with it again, instead of everyone being back where they started by breakfast."
+  },
+  {
+   "exemplar": "as-easy-as-abc",
+   "dimension": "turn",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A hangs on one act that cannot be taken back, the 02:14 transfer, which brings a section, a complaint, and a loose knot that can never show whether it would have pulled tight, and it ends with Noor having lost the very hearing she acted on; B's acts that cannot be undone (the melted statue, the slagged market, the exiled Serviles) only put back the order it opened with, leave the Board and the narrator as they were, and give its one human turn just the last line.",
+   "evidence": "A: \"Since Sunday she had not heard it at all, and she had stopped asking the counsel, because it gave the same answer each time, patiently, and the patience was worse.\" | B: \"Carry on as before, but under the Board.\"",
+   "needs": "B needs the lasting change to land on a person and not only on stone: give one named Servile, or Dragomiroff after his first sight of the Board in action, a scene where Chicago visibly costs them something they cannot get back, so that the weeping at the shutter is one particular person's turn and not a crowd's, which the narrator waves away as \"always without shame.\""
+  },
+  {
+   "exemplar": "as-easy-as-abc",
+   "dimension": "turn",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B turns on a loss in its protagonist that cannot be reversed: Noor has replayed away the hearing that was the only trace of the late heart, on top of a section and a sent complaint that are also one-way, while A uses its irreversible acts (the melted Statue, the exiled Serviles) to put Illinois back as it was, and even the Board's rule is offered as revocable.",
+   "evidence": "A: \"You're under the tyrannous heel of the Board from this moment, but if ever you feel like breaking your fetters you've only to let us know.\" | B: \"Noor heard a heart.\"",
+   "needs": "A needs the night to change someone we are inside, not only a statue and a troupe: carry the narrator's collapse under the pillars of fire through to the close so he cannot rejoin the breakfast laughter, instead of ending with Illinois carrying on as before."
+  },
+  {
+   "exemplar": "as-easy-as-abc",
+   "dimension": "turn",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B builds to losses that cannot be undone (a section, a sent complaint that will run past Marga's retirement, and Noor's own hearing, worn away over four hundred plays until in the room where she heard it she hears only \"a heart\", with the listening passing to Sanne's ear), while A's Board works to keep everything reversible (sight will return, no one dies, Illinois may break its fetters at a word), so only a statue, a market and the Serviles' home are lost for good and its central figures end as they began.",
+   "evidence": "A: \"You're under the tyrannous heel of the Board from this moment, but if ever you feel like breaking your fetters you've only to let us know.\" | B: \"Since Sunday she had not heard it at all, and she had stopped asking the counsel, because it gave the same answer each time, patiently, and the patience was worse.\"",
+   "needs": "A needs the Chicago night to cost someone at its centre something the breakfast laughter can't give back, for instance by carrying Dragomiroff's horror (\"I have never seen the Board take action\") through to his leaving the Board or no longer being able to say \"We reason with them\", so that the change that can't be undone lands on a person and not only on a statue and a market."
+  },
+  {
+   "exemplar": "stet",
+   "dimension": "ending",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A's ending surprises by handing the listening to the complainant just when Noor has lost the sound, and it earns its last image through callbacks laid from the first line (the bed at working height, the hand flat, the count, the place where the heart comes back), whereas B's final STET is inevitable but is the word its form has promised since the first query, so it completes the refrain rather than turning it.",
+   "evidence": "A: \"Noor counted on Sanne's face toward the place where the heart came back.\" | B: \"STET. — Anna\"",
+   "needs": "B needs its last exchange to do something the refrain has not already promised, for instance having Anna answer \"Please let us help?\" with a break from STET or a return to an image the story planted (the telescope, the sky), so the final line surprises as well as concludes."
+  },
+  {
+   "exemplar": "stet",
+   "dimension": "ending",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A hands the story's unanswerable question to a new listener: the mother, on the bed still raised to the working height of the first paragraph, puts the recording to her own ear while the student, who can no longer hear the sound, can only watch her face, and although no reader would predict that turn, the dike-walker's eye for wrong ground and her exact ear for \"Let me\" through the pulled-to door have set it up, whereas B's final STET, sharpened because it refuses an offer of help rather than an editor's query, is the word the form has promised since its first exchange and so is inevitable without being surprising.",
+   "evidence": "A: \"Noor counted on Sanne's face toward the place where the heart came back.\" | B: \"STET. — Anna\"",
+   "needs": "B needs a last reply the reader cannot write in advance, for instance Anna answering \"Please let us help?\" with one image brought back from the footnotes (the telescope, the sky past the clouds) before the STET, so the closing refusal shows what she is holding on to instead of repeating the word every exchange has ended on."
+  },
+  {
+   "exemplar": "stet",
+   "dimension": "ending",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "B's last image hands the story's unanswerable question to the person who sent the complaint: Sanne, who has saved the recording for Noor's visit, puts it to her own ear at the \"working height\" of the first paragraph while Noor, who can no longer hear the gap, counts on her face, a turn that comes unforeseen yet has been made inevitable by the bed on its blocks, Sanne's job of walking dikes for wrong ground and her catching \"Let me\" through a door pulled to, whereas A's closing \"STET\" is the reply its form has promised since the first query, so its surprise lives in the editor's plea rather than in the last line.",
+   "evidence": "A: \"Nathan misses his playdates with Ursula, but he's also been asking why you don't come over to visit anymore.\" | B: \"Noor counted on Sanne's face toward the place where the heart came back.\"",
+   "needs": "A needs its closing exchange to tell us something the earlier \"whose mother didn't even attend her funeral\" jab has not already given away (for instance, by holding that jab back for Anna's answer to the dinner invitation), so that the final STET turns the refrain instead of only repeating it."
+  },
+  {
+   "exemplar": "stet",
+   "dimension": "ending",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "B ends by handing the listening to Sanne, lying at the \"working height\" set up in its first paragraph, while Noor, who can no longer hear the gap herself, reads Sanne's face toward that place in the recording; I did not see that turn coming, yet it is the only test the story has left, a hearing that can show nowhere but on a face, whereas every reader can predict A's closing \"STET\", and A's surprise is spent in the editor's note just before it.",
+   "evidence": "A: \"Nathan misses his playdates with Ursula, but he's also been asking why you don't come over to visit anymore.\" | B: \"Noor counted on Sanne's face toward the place where the heart came back.\"",
+   "needs": "A needs the editor's personal plea to come only once, at the end: cut her earlier \"Are you alright?\" and her offer of a call, so that the dinner invitation and Nathan arrive unannounced and the closing \"STET\" refuses something the reader has not already watched it refuse."
+  },
+  {
+   "exemplar": "the-machine-stops",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "B's premise is the stranger of the two, and the story uses almost all of it: the hum, the unfamiliar button, the Book, the Mending Apparatus and Homelessness are planted early and each becomes a working part of the collapse, while A uses its quieter counsel-and-concordance premise with great precision but only through one labour and the scoring, review and complaint that follow, so on use alone the margin is small.",
+   "evidence": "A: \"What was not said, nothing at any collar could answer.\" | B: \"She had never known silence, and the coming of it nearly killed her--it did kill many thousands of people outright.\"",
+   "needs": "A should carry the counsel premise past the clinic and its paperwork in at least one concrete scene, showing what a life of being fairly advised has done to how Sanne, Joost or Noor's father speak, decide or trust, so the idea reshapes a world and not just one profession's scoring."
+  },
+  {
+   "exemplar": "the-machine-stops",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B's idea is far stranger and the story uses it everywhere, from the one-size bed and the dropped Book the gangway cannot lift to the hum whose stopping kills, while A's scored-counsel idea drives every scene precisely but stays a near-present extrapolation worked out within a single birth and its review.",
+   "evidence": "A: \"The simulator could not write a heart the counsel could not hear.\" | B: \"She had never known silence, and the coming of it nearly killed her--it did kill many thousands of people outright.\"",
+   "needs": "A should carry its counsel-and-concordance idea beyond this one clinical dispute, for example by letting Sanne's dike-walking or Noor's father's pilotage show what universal scoring has done to other human skills, so the idea becomes a strange world rather than one well-argued case."
+  },
+  {
+   "exemplar": "the-machine-stops",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "Both ideas carry their whole stories, but A's is far stranger and the story follows its logic all the way to the end (the hum whose absence kills, the Mending Apparatus that itself needs mending, Homelessness turned from a death sentence into hope), while B's counsel, though used with real precision, stays a fixed near-future pressure on one case and never changes as a system.",
+   "evidence": "A: \"She had never known silence, and the coming of it nearly killed her--it did kill many thousands of people outright.\" | B: \"The simulator could not write a heart the counsel could not hear.\"",
+   "needs": "B needs its counsel system to change beyond Noor's single case, for example by having the academy file her 02:06 recording among the nothing-wrong controls in the blind misses test, so that anyone who later hears what she heard is scored as mistaken and the idea reaches a stranger consequence than a fair machine outvoting one ear."
+  },
+  {
+   "exemplar": "the-machine-stops",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "A's Machine is the stranger idea and is used at every scale: it shapes bodies, touch, travel, religion and the habit of second-hand ideas, it drives every turn of the plot, and the ending runs it all the way to its stop, while B's counsel-and-concordance idea is used precisely (Noor stays silent because the counsels would answer any reason she spoke aloud) but stays a plausible extrapolation worked out inside one case's procedure.",
+   "evidence": "A: \"She had never known silence, and the coming of it nearly killed her--it did kill many thousands of people outright.\" | B: \"What was not said, nothing at any collar could answer.\"",
+   "needs": "B needs one consequence of its counsel premise that is stranger than procedure, for instance opening Marga's handwritten birth books (the only record in the story that no counsel wrote) and letting what is in them bear on whether an ear exists, so the idea changes a whole world and not just one disputed transfer."
+  },
+  {
+   "exemplar": "welcome-to-your-authentic-indian-experience",
+   "dimension": "character",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "On the landing Noor weighs the exact price of saying \"Let me\", which is a stranger signing her off from the record once Marga retires, and she says it anyway; the story then takes that price in full, down to the hearing she paid for, while Jesse's wants (Boss's approval, a friend, being authentic) cost him everything but are taken from him by White Wolf's con, not paid by a choice he made knowing the price.",
+   "evidence": "A: \"Since Sunday she had not heard it at all, and she had stopped asking the counsel, because it gave the same answer each time, patiently, and the patience was worse.\" | B: \"But he’s looking at you, friendly interest, and nobody looks at you like that much anymore, not even Theresa.\"",
+   "needs": "Let Jesse see what the friendship is costing him before the kitchen table (Theresa's new smile and \"You didn't tell me he was Cherokee\" are already there for him to notice) and choose White Wolf's company anyway, so that the job, the wife and the house are a price he paid, not a con he only finds out about afterwards."
+  },
+  {
+   "exemplar": "welcome-to-your-authentic-indian-experience",
+   "dimension": "character",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "In A, Noor wants to know whether her ear is real, says \"Let me\" knowing what it will cost her, and pays a price the story tracks step by step, ending with the loss of the hearing itself; Jesse in B wants many scattered things (approval, a friend, to be wanted), and his total loss comes mostly as White Wolf's theft, not as a price he chose to pay.",
+   "evidence": "A: \"There was nowhere left to learn whether an ear was real except a woman at eight centimetres, and the woman was behind the door.\" | B: \"But he’s looking at you, friendly interest, and nobody looks at you like that much anymore, not even Theresa.\"",
+   "needs": "B needs Jesse to see what it could cost him, at the moment he hands White Wolf his stories or sends Theresa to the bar, and do it anyway for the friendship, so that losing the job, his wife and the house reads as a price he paid and not a theft done to him."
+  },
+  {
+   "exemplar": "welcome-to-your-authentic-indian-experience",
+   "dimension": "character",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "Noor wants one exact thing, to act on a lateness only she can hear, and she weighs what it will cost her before she says \"Let me\"; she then pays in every currency the story counts out (her figure, her live cases, her sign-off, a probably-avoidable section, Marga's name on a complaint) and finally in the hearing itself, whereas Jesse wants several things loosely (the job, Boss's nod, a friend, to pass as authentic) and a con takes his losses from him rather than his paying a price he chose.",
+   "evidence": "A: \"Something about him seems to expand, to take up the space you once occupied.\" | B: \"Since Sunday she had not heard it at all, and she had stopped asking the counsel, because it gave the same answer each time, patiently, and the patience was worse.\"",
+   "needs": "Tie Jesse's ruin to a risk he sees and takes anyway, for instance by having Boss fire him for the fraternizing he knew could cost him the pod, or by having White Wolf win Theresa with one named secret Jesse chose to tell him at the bar, so the ending reads as the price of wanting to be seen rather than a theft that follows a sick week."
+  },
+  {
+   "exemplar": "welcome-to-your-authentic-indian-experience",
+   "dimension": "character",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "Noor names one want (\"Let me\"), weighs what it will cost her before she asks, and then pays in specific, mounting coin that ends with losing the very hearing she staked everything on, whereas Jesse's scattered wants (Boss's approval, a friend, to be desired) end in a dispossession White Wolf performs on him more than a price he knowingly pays, so the margin is modest given how vivid Jesse is.",
+   "evidence": "A: Something about him seems to expand, to take up the space you once occupied. | B: Since Sunday she had not heard it at all, and she had stopped asking the counsel, because it gave the same answer each time, patiently, and the patience was worse.",
+   "needs": "Story A should put on the page the moment Jesse knowingly spends something for White Wolf's friendship, so the final loss reads as a bill he ran up and not a twist done to him; right now the things he told White Wolf \"even Theresa doesn't know\" happen offstage, and he never weighs a cost before he lies to Theresa or sends her to the bar."
+  }
+ ]
+}

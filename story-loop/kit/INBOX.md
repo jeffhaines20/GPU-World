@@ -12,10 +12,21 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**Read story B's revised draft, and story A's when it lands, then tell me which story carries on (DEC-028).**
-Story B, "Working Height": `story-loop/kit-B/story/drafts/draft-02.md` (3,241 words). Story A, "Eleven Fathers": `story-loop/kit/story/drafts/draft-02.md` (3,784 words). Read each once, without notes. Then one line in chat or under "From you": which story goes on, and (a), (b) or (c) from the
-newest entry under "Since you last looked", because about 1.3M of the 21M remains and that buys the second exemplar
-round or the final pass, not both. **The contest closes on 31 October.**
+**G3: your first reading of story B's draft, and your paragraph.** The draft is `story-loop/kit-B/story/drafts/draft-02.md`
+(3,241 words), the one you read before choosing. Its second exemplar round meets the bar (3 of 4 pairs won outright:
+character against "Welcome to Your Authentic Indian Experience", turn against "As Easy as A.B.C.", ending against "STET";
+idea lost against "The Machine Stops", one exemplar, which the bar allows; both judges calibrated; all four pairs on
+supplied text), and the pre-gate checks pass. G3 asks what the draft did to you, not whether it goes through. Dictate
+three to five sentences in chat, in your words: what you felt reading it, what stayed with you, and what must change.
+I paste them verbatim under a G3 heading in both kits and everything you say becomes findings the revision has to
+answer. Then the round-2 critics' findings and yours go to a fresh writer for draft-03.
+
+**And one budget line with it.** About 1.75M of the 23M will remain after this round's critics. The final milestone as
+the kit defines it (line edit, read-aloud pass, fresh reader, adversarial and originality critics, then a full final
+comparison round on the final text) costs about 2.5M. Either raise the cap by about 1.5M, or say "reduced final": the
+revision, its judging, the line edit, the read-aloud pass, the fresh reader and the adversarial critic's last round
+(about 1.4M), with the final comparison round and the originality critic left unfinished and said so in the colophon.
+The contest closes today, 31 October.
 
 _(The outline ranking below was the G1 request; it was answered on 2026-09-25 and stays here for the record.)_
 ---
@@ -447,6 +458,8 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-10-31, story B, round 2's comparison is in; G3 is open.** Round 2 on draft-02 against the four exemplars declared for it (reviews/comparisons/PLAN-round-02.md): 3 wins (character 4 of 4, turn 4 of 4, ending 4 of 4) and 1 loss (idea, 0 of 4 against "The Machine Stops"); both judges calibrated on this draft; record reviews/comparisons/round-02.json. The bar for G3 is met on draft-02 and `run_all_checks.py --pregate 3` passes. The three critics are reading draft-02 now (REV-11 flow, REV-12 depth, REV-13 adversarial); their findings and your G3 paragraph go to the revision together. Your choice (DEC-029) and the raise to 23M (DEC-030) are recorded in your words.
 
 - **2026-10-30, story A, round 1 is closed; draft-02 exists.** Three lines. (1) Findings by severity per critic, all on draft-01: flow-critic (REV-08) 4 MAJOR, 28 MINOR, 13 NIT; depth-critic (REV-09) 0 MAJOR, 3 MINOR, 1 NIT; adversarial-critic (REV-10) 0 MAJOR, 6 MINOR, 4 NIT, withholding sign-off for one missing mechanism (how the audit could fail to hear the lights when a bud was in her ear; fixed in draft-02 by Rob zipping her bud into his jacket on the moor). (2) First round, so no earlier revision for the findings to fall in; 46 of 60 findings FIXED in draft-02, 13 flow NITs deferred to the line edit, 3 REJECTED because they sit inside the passage the spine fixes whole; the "nothing" tic is down from 14 to 5. (3) The comparison: against the exemplars draft-01 won 1 of 4 pairings (character against "Cat Pictures Please") and lost 3 (idea against "Exhalation" and "Lena", ending against "The Star"); both judges calibrated. Draft-02 against draft-01: idea 4 of 4 to draft-02, ending 3 of 4 (one judge preferred the old ending in one order), so the revision stands. The judges named what it lost: Tess's own ear going cool and then warm on Saturday, Kit heard through the wall in the gaps where the answer came, and the bowl's purpose no longer stated. Those go to the next round if story A goes on.
 
