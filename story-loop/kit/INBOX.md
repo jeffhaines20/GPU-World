@@ -21,6 +21,12 @@ three to five sentences in chat, in your words: what you felt reading it, what s
 I paste them verbatim under a G3 heading in both kits and everything you say becomes findings the revision has to
 answer. Then the round-2 critics' findings and yours go to a fresh writer for draft-03.
 
+**The title: pick one (DEC row, type title).** Three candidates from the writer, each with what it promises the reader, in the writer's words:
+1. Working Height — Promises a story that stays at the bed, at the height a midwife works standing and a mother lies afterward: the body before the paperwork, with four hired blocks tying the first scene to the last.
+2. Ten Past Two — Promises one minute of one night and its replays: a sound heard twice live, then four hundred times, then not at all, and the question of what a recording can hold.
+3. A Training Decision — Promises the review's fair phrase turned on a person: what it costs a stranger when an apprentice learns on her, and a record that can name the wanting but never the hearing.
+One line in chat with your pick (or your own title); I write the DEC row in your words. If no pick comes before the final file is written, it carries the working title, "Working Height", and says so.
+
 **And one budget line with it.** About 1.75M of the 23M will remain after this round's critics. The final milestone as
 the kit defines it (line edit, read-aloud pass, fresh reader, adversarial and originality critics, then a full final
 comparison round on the final text) costs about 2.5M. Either raise the cap by about 1.5M, or say "reduced final": the
