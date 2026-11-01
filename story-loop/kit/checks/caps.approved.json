@@ -1,5 +1,5 @@
 {
- "accepted": "DEC-034",
+ "accepted": "DEC-037",
  "caps": [
   {
    "name": "Premise-writer calls (one per partition cell)",
@@ -23,7 +23,7 @@
   },
   {
    "name": "Comparison verdicts per round",
-   "value": "32"
+   "value": "36"
   },
   {
    "name": "Rounds one finding may survive before it goes to the human",
@@ -35,7 +35,7 @@
   },
   {
    "name": "Tokens, whole project",
-   "value": "25.5M"
+   "value": "27M"
   }
  ]
 }
