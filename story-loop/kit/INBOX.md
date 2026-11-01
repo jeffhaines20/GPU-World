@@ -12,27 +12,29 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-**G3: your first reading of story B's draft, and your paragraph.** The draft is `story-loop/kit-B/story/drafts/draft-02.md`
-(3,241 words), the one you read before choosing. Its second exemplar round meets the bar (3 of 4 pairs won outright:
-character against "Welcome to Your Authentic Indian Experience", turn against "As Easy as A.B.C.", ending against "STET";
-idea lost against "The Machine Stops", one exemplar, which the bar allows; both judges calibrated; all four pairs on
-supplied text), and the pre-gate checks pass. G3 asks what the draft did to you, not whether it goes through. Dictate
-three to five sentences in chat, in your words: what you felt reading it, what stayed with you, and what must change.
-I paste them verbatim under a G3 heading in both kits and everything you say becomes findings the revision has to
-answer. Then the round-2 critics' findings and yours go to a fresh writer for draft-03.
+**The loop has stopped at the token cap (23M, DEC-030) with the story handed over.** The text to submit is
+`story-loop/kit-B/story/STORY.md` (draft-05: the round-2 revision, a sentence-level restore and a line edit, 3,486 words,
+under the working title), with a colophon that says exactly what is unfinished. Three things are yours, in one message if
+you like:
+
+1. **G3, still open.** Three to five sentences on draft-02 (what you felt, what stayed, what must change); I paste them
+   verbatim. Without them no later gate can be signed, and the final file says so.
+2. **The title.** Pick one of the three candidates below, or give your own; I write the DEC row in your words.
+3. **The budget.** With about 1M more (to 24M) the loop finishes the kit's final as far as the deadline allows: a second
+   line edit that fixes the read-aloud pass's 1 MAJOR and 31 MINOR stumbles (REV-15), and the adversarial critic's last
+   round on the edited text, which the account's usage limit cut off before it reported. Say "raise to 24M" or "submit
+   as is".
+
+What is unfinished, plainly: no originality critic ran on any draft; no comparison round was judged on draft-05 (the bar
+was met on draft-02; draft-03 beat draft-02 on idea 4–0 and lost sentences 1–3; drafts 04 and 05 are unjudged); the
+read-aloud stumbles stand in the text; G3 and G4 are unsigned. The contest closed on 31 October; whether the file can
+still be sent is yours to judge.
 
 **The title: pick one (DEC row, type title).** Three candidates from the writer, each with what it promises the reader, in the writer's words:
 1. Working Height — Promises a story that stays at the bed, at the height a midwife works standing and a mother lies afterward: the body before the paperwork, with four hired blocks tying the first scene to the last.
 2. Ten Past Two — Promises one minute of one night and its replays: a sound heard twice live, then four hundred times, then not at all, and the question of what a recording can hold.
 3. A Training Decision — Promises the review's fair phrase turned on a person: what it costs a stranger when an apprentice learns on her, and a record that can name the wanting but never the hearing.
 One line in chat with your pick (or your own title); I write the DEC row in your words. If no pick comes before the final file is written, it carries the working title, "Working Height", and says so.
-
-**And one budget line with it.** About 1.75M of the 23M will remain after this round's critics. The final milestone as
-the kit defines it (line edit, read-aloud pass, fresh reader, adversarial and originality critics, then a full final
-comparison round on the final text) costs about 2.5M. Either raise the cap by about 1.5M, or say "reduced final": the
-revision, its judging, the line edit, the read-aloud pass, the fresh reader and the adversarial critic's last round
-(about 1.4M), with the final comparison round and the originality critic left unfinished and said so in the colophon.
-The contest closes today, 31 October.
 
 _(The outline ranking below was the G1 request; it was answered on 2026-09-25 and stays here for the record.)_
 ---
@@ -464,6 +466,8 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-11-01, story B: the final, as far as the cap allowed, and the stop.** Since the last report: draft-03 (round-2 revision) beat draft-02 on idea 4 of 4 and lost sentences 1 of 4; a targeted pass (draft-04) restored the compressions and the landing's door sentence the judges named; the line editor made 31 changes against the flow critic's 61 marks (draft-05; its list is story/LINE-EDIT-1.md, with 25 marks left as deliberate roughness, each with a reason). On draft-05: the read-aloud pass (REV-15) 1 MAJOR, 31 MINOR, 15 NIT, all deferred to a second line edit the cap does not yet allow; the fresh reader (REV-16) 0 MAJOR, 6 MINOR, 3 NIT, finished unasked, did not re-read the ending, will remember the foot that finds the stair; the adversarial critic's last round was cut by the usage limit before it reported (its sign-off stands on draft-02). The token cap of 23M is reached by my estimate, so the Budget stop condition fired: `story/STORY.md` carries draft-05 and a colophon naming everything above. Your G3 paragraph, the title pick and the budget line are the three open items under "Waiting on you".
 
 - **2026-10-31, story B, round 2 is closed; draft-03 exists.** Three lines. (1) Findings by severity per critic, all on draft-02: flow-critic (REV-11) 1 MAJOR (the last sentence read as "relied on"), 27 MINOR, 19 NIT; depth-critic (REV-12) 0 MAJOR, 3 MINOR, 2 NIT; adversarial-critic (REV-13) 0 MAJOR, 3 MINOR, 4 NIT, and its sign-off extended to draft-02. (2) The new findings were almost all in text the last revision changed: the thesis the adversarial critic had cut from the review had moved into the narration, the last paragraph had gained two explaining sentences, and the landing had grown a paragraph; 45 of 59 findings are FIXED in draft-03, 12 NITs deferred to the line edit, 2 rejected as lines the spine fixes. (3) The comparison: draft-02 met the bar against the exemplars (3 of 4); draft-03 against draft-02 won idea 4 of 4 and lost sentences 1 of 4, every judge naming the same losses: the landing's closing sentence ("the woman was behind the door") and the compressed phrasings the flow critic's MINORs had unpacked. I kept draft-03, because it gains on the story's one standing gap more than it loses, and those exact lines go to one targeted pass before the line edit. Budget: about 21.9M of 23M.
 

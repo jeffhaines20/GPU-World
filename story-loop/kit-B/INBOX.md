@@ -14,7 +14,7 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-_(G3 is open on draft-02 of this kit: read it and dictate three to five sentences in chat, what you felt, what stayed, what must change; the full request is in ../kit/INBOX.md, where you read and answer.)_
+_(The loop has stopped at the token cap with story/STORY.md handed over (draft-05); G3, the title and the budget are open in ../kit/INBOX.md, where you read and answer.)_
 ---
 
 ### O-2 — Working Height
@@ -444,6 +444,8 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-11-01, story B: the final, as far as the cap allowed, and the stop.** Since the last report: draft-03 (round-2 revision) beat draft-02 on idea 4 of 4 and lost sentences 1 of 4; a targeted pass (draft-04) restored the compressions and the landing's door sentence the judges named; the line editor made 31 changes against the flow critic's 61 marks (draft-05; its list is story/LINE-EDIT-1.md, with 25 marks left as deliberate roughness, each with a reason). On draft-05: the read-aloud pass (REV-15) 1 MAJOR, 31 MINOR, 15 NIT, all deferred to a second line edit the cap does not yet allow; the fresh reader (REV-16) 0 MAJOR, 6 MINOR, 3 NIT, finished unasked, did not re-read the ending, will remember the foot that finds the stair; the adversarial critic's last round was cut by the usage limit before it reported (its sign-off stands on draft-02). The token cap of 23M is reached by my estimate, so the Budget stop condition fired: `story/STORY.md` carries draft-05 and a colophon naming everything above. Your G3 paragraph, the title pick and the budget line are the three open items under "Waiting on you".
 
 - **The title: pick one (DEC row, type title).** Three candidates from the writer, each with what it promises the reader, in the writer's words:
 1. Working Height — Promises a story that stays at the bed, at the height a midwife works standing and a mother lies afterward: the body before the paperwork, with four hired blocks tying the first scene to the last.
