@@ -14,7 +14,59 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 ## Waiting on you
 
-_(The loop has stopped at the token cap with story/STORY.md handed over (draft-05); G3, the title and the budget are open in ../kit/INBOX.md, where you read and answer.)_
+_(You read and answer in `../kit/INBOX.md`; the request is mirrored here so that this kit's checks and gates hold. The paths below are given from the repository root.)_
+
+**G4 is next, and one decision comes before it.** The story is `story-loop/kit-B/story/STORY.md`: draft-07, 3,627 words,
+under the title you gave, "A Training Decision" (DEC-032, tentative; the file says so). Since your G3 paragraph and the raise
+to 24M: draft-06 answered your two asks and your finding on the opening (the writer's list of similar constructions is under
+"Since you last looked"); the adversarial critic read it and signed off (REV-17: 0 MAJOR, 2 MINOR, 4 NIT); the read-aloud pass
+marked 28 stumbles (REV-18: 1 MAJOR, 14 MINOR, 13 NIT); the line editor fixed 20 of them, the MAJOR among them, and left 8 with
+reasons (draft-07; the list is `story-loop/kit-B/story/LINE-EDIT-2.md`). The cap is spent: about 23.9M of 24M.
+
+**Two ways to finish. Say which, in one line.**
+
+1. **Finish the kit's way (my recommendation): raise the cap to about 25.5M.** That buys the one thing the loop's own rules
+   still require before you are asked to read: a comparison round judged on the final text (calibration, four exemplars, both
+   orders, and the revision pairs against draft-06 and against draft-02, the draft you signed; about 1.3M). Without it the kit's
+   pre-gate check fails on exactly that line (`check_comparisons.py`: round-02.json judged draft-02, but the current draft is
+   draft-07), and the kit's rule is that a failing check is not a gate, because your reading is spent once. The same raise
+   carries the five small changes below if you want them, made before the round so that the round judges the text you will
+   read. Then I write the G4 request proper, with the round's result in it.
+2. **Submit as is: read draft-07 aloud and sign G4 now.** Reading aloud is the test, not a formality: every place your mouth
+   stumbles is a finding, and the kit cannot find those for you. About twenty minutes. Then `make gate N=4` and, in
+   `story-loop/kit-B/DECISIONS.md` under "## Gate sign-offs", a `### G4 — <date>` section of three to five sentences in your
+   own words: what you saw, what you liked, what must change, whether it goes through (or dictate it in chat and I paste it
+   verbatim, as before). The colophon at the end of STORY.md says what was not done: no comparison round on the final text,
+   no originality critic on any draft, and the items below if you leave them.
+
+**Five one-line yes-or-no items from the adversarial critic's last round** (REV-17; its words, with what stands against them).
+They fall outside a line edit, the cap does not carry a writer pass, and each is made in one line-editor touch on your yes:
+- (a) **The review's two sentences.** The review now says, in the counsel's voice, "The record holds what was said, done and
+  wanted. It does not hold what was heard, and I cannot report what it does not hold." The critic wants it cut back to
+  draft-02's one sentence ("I cannot report a hearing that left no trace in the record"), because the record's limit is now
+  said aloud three times in four sections and Friday's new line, "I cannot write a heart that holds what I cannot hear", rhymes
+  with it. Against that: when the sentence was cut in draft-02, every one of the judges' four verdicts named the cut as the
+  loss, and the writer restored it in draft-03 on that record. Keep, or cut?
+- (b) **The opening's three tags.** Draft-06 took out the "whose" constructions you flagged and kept what they said as three
+  short clauses after the verbs: "The child was his.", "and the practice was hers", "She was Marga's student." The critic says
+  the pattern is split, not gone, and "a reader who asked for it to go will still hear it"; its fix is to cut all three (the
+  bag, Marga's line in the doorway and "Noor was her last student" six paragraphs on carry everything they said), so that the
+  paragraph ends on "Noor had the doppler." Keep the three, or cut them?
+- (c) Cut "The knot had its paragraph." from the review scene, so that the last scene's "The review had given it a
+  paragraph." arrives once, as a discovery? Yes or no.
+- (d) In the sentence that sends the recording to the misses, name what came of it (the section, the knot) in place of the
+  phrase "with what had come of it"? Yes or no.
+- (e) "nine out of ten at one minute and ten at five" for the Apgar line's "nine out of ten at one minute and, at five
+  minutes, ten out of ten"? Yes or no.
+
+**Findings we decided not to act on** (MAJORs answered with REJECTED since the last gate): none. Every MAJOR raised since G3
+is FIXED: the read-aloud MAJOR (REV-18 F20) in draft-07, and the opening MAJOR you raised in draft-06. The 8 read-aloud marks
+left and the five items above are MINOR or NIT, each with its reason in `story-loop/kit-B/reviews/REV-18-disposition.md` and
+`REV-17-disposition.md`.
+
+**The title.** "A Training Decision" stands as tentative, in your words (DEC-032). Confirm it, or give another, in the same
+line; the final file is regenerated with it.
+
 ---
 
 ### O-2 — Working Height
@@ -444,6 +496,10 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-11-01, story B: draft-06 and draft-07; the last critics; the cap spent.** Three lines. (1) Findings by severity per critic, both on draft-06: adversarial-critic (REV-17) 0 MAJOR, 2 MINOR, 4 NIT, and SIGN-OFF extended from draft-02 to draft-06 ("Nothing is above MINOR, and no mechanism is missing"; on your G3 ask, in its words: "three of the four consent beats show the tension. The fourth shows it in Noor's request and states it in the counsel's answer"); flow-critic read-aloud pass (REV-18) 1 MAJOR, 14 MINOR, 13 NIT, 15 re-reads, and where the story first felt long: the landing, about 250 words of thought between Marga's "I didn't hear it" and Noor's "Let me". (2) Where the new findings fell: the MAJOR (REV-18 F20) and two of the adversarial critic's rows (F1, F4) are in text draft-06 added for your G3 ask, the consent beats; the rest are stumbles that survived the first line edit or that the G3 revision made. Draft-07 (the line editor: 20 of 28 marks fixed, the MAJOR among them, 8 left with reasons, story/LINE-EDIT-2.md) answers the stumbles; REV-17's four asks outside a line edit are under "Waiting on you" as yes-or-no items, with the judges' record beside the critic's words where they disagree. No MAJOR is open; `run_all_checks.py --milestone 4 --complete` passes, and the pre-gate run fails on one line only, the missing round on the final text. (3) The comparison: none this round, because the cap does not carry one (about 23.9M of 24M spent: draft-06 0.17M, the two critics 0.32M, the line edit 0.24M, and my own context). The record stands where it stood: the bar met on draft-02 in round 2; draft-03 over draft-02 on idea 4 of 4 and under on sentences 1 of 4; drafts 04 to 07 unjudged. `story/STORY.md` carries draft-07 under your tentative title and a colophon that says all of this.
+
+- **2026-11-01, your finding on the opening: what the writer did, and the list you asked for.** The opening now reads: "Joost sat at Sanne's head. The child was his. Marga sat in the chair by the door, the practice's bag on the floor beside her, and the practice was hers. At ten, in that doorway, before she had taken off her coat, she had said, "Noor will take you tonight, if you'll have her. I'll be in the room." Between two contractions Sanne had given Noor one look and said yes. Since then Marga had sat in the chair and said perhaps a dozen words. Noor had the doppler. She was Marga's student." No "whose" remains anywhere in the story. The writer's list of similar constructions (a name or noun, an inserted clause, then the verb) and what it did with each, verbatim from its report: "Noor, who was Marga's" → split; "Her counsel, the flat clip" → clip moved after the verb; "with Sanne, who was" → own sentence; "The registry, which published" → two main verbs; "the pilots who had come" → "wore counsels... and listened"; "The second, which at" → "The second, nothing to her at the bed either: late." Kept as tails after their verbs: "The record scored the call", "a copy had come", "her own counsel, which was", "statistics for Goes, which". Those four, as they stand in draft-07, for you to judge: "The record scored the call as agreement, which it was."; "a copy had come to the practice, which counted as notice."; "On Thursday the training board spoke to her through her own counsel, which was patient with her."; "a red heart, and the section statistics for Goes, which were good." The writer's one doubt about draft-06, in its words: "the Friday exchange with the counsel, which edges toward the machine explaining itself." The adversarial critic's reading of the rebuilt opening is item (b) under "Waiting on you".
 
 - **2026-11-01, your finding on the opening, received in chat and passed to the writer as a MAJOR, verbatim:** "Here is an example of wording that seems awkward to me: "Joost, whose child this was, sat at Sanne's head. Marga, whose practice it was, sat in the chair by the door with the practice's bag on the floor beside her, and had sat there since ten, and had said perhaps a dozen words." Unless there is a good reasons for such a construction please change it and flag other similar constructions in the story." The line editor had left that frame alone as a deliberate pattern (REV-14 F2); your word overrules that. The writer of draft-06 has it now and will list every similar construction and what it did with each; the list comes back to you here.
 
