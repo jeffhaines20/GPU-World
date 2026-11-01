@@ -1,17 +1,17 @@
-# Disposition for REV-16 (fresh-reader, M4, draft-05 of story B)
+# Disposition for REV-16 (fresh-reader, M4, draft-05 of story B; the revision is draft-06)
 
-The fresh reader's six answers: finished unasked; the ending landed without a re-read; one thing to remember (the foot that finds the stair). Its 6 MINOR and 3 NIT findings are places of drift and small confusions, none MAJOR; no revision round remains within the cap or the deadline, so they are deferred with that trigger.
+The cap was raised (DEC-031) after these rows were first deferred; the writer of draft-06 answered them as below.
 
 One row per finding in the review, each named exactly once. No extra rows, no blank rows.
 
 | Finding | Disposition | Detail |
 |---|---|---|
-| F1 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this MINOR is recorded for any later revision |
-| F2 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this MINOR is recorded for any later revision |
-| F3 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this MINOR is recorded for any later revision |
-| F4 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this MINOR is recorded for any later revision |
-| F5 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this MINOR is recorded for any later revision |
-| F6 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this MINOR is recorded for any later revision |
-| F7 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this NIT is recorded for any later revision |
-| F8 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this NIT is recorded for any later revision |
-| F9 | DEFERRED | trigger: a further revision round, which the token cap (23M reached) and the contest deadline (31 October) do not allow; owner: story-writer. The fresh reader finished the story unasked, did not re-read the ending, and named one thing to remember; this NIT is recorded for any later revision |
+| F1 | FIXED | draft-06 — the landing's backstory tightened (the writer did not restructure it) |
+| F2 | FIXED | draft-06 — the review and the board's notice tightened |
+| F3 | FIXED | draft-06 — the Friday quotation of the counsel's measurement cut; the counsel's chance line at the end kept because the spine fixes it |
+| F4 | FIXED | draft-06 — "Marga had ten" given its unit |
+| F5 | FIXED | draft-06 — the registry line rewritten: Sanne consents to the recording going to the misses for the second-years, and which side of the mix it belongs on is left unsaid |
+| F6 | FIXED | draft-06 — Marga given the doorway line at ten; 2031 put on the page; the box a legible handover; by the spine she explains nothing |
+| F7 | FIXED | draft-06 — the landing's doppler beat rewritten |
+| F8 | FIXED | draft-06 — the minute count corrected |
+| F9 | REJECTED | the writer's reason: the one-beat pause at "and not into the room" is the sentence's point, and the fresh reader did not need to re-read the ending |

@@ -116,6 +116,9 @@ also a discipline: a word you cannot justify in this table is a word you are lea
 | played | The verb of the replays: the misses "played" to every midwife; ten past two played the first night, again, and through on Friday; Joost's "She hasn't played it". Also "play": "pressed play", "one play in five". |
 | bed | The bed on its blocks is the story's first object and its last; "at a bed" is where an ear is made or not, and where Marga's successor has never seen Noor; Noor lies on her own bed to play the night back. |
 | hand | The midwife's hands: the left flat on the belly, the right with the doppler; the doppler put into Marga's hand and back into Noor's on the landing, which is the call changing hands; the phone put into Sanne's hand at the end. Also "hands". |
+| let | "Let me" is the landing's line, quoted back by the record's log, the review, the complaint and Sanne; "let stand" is the review's verb for what Marga did with it; "let go" is what a contraction does before the heart comes back. One small word for the ask, the allowing and the release. |
+| student | What Noor is until a stranger signs her off: Marga's "last student", the review's "the student midwife" and "the student's wanting", and "a student on the other" side of Sanne from her own counsel. The word the training need is carried in. |
+| midwife | The rank the review calls both women by, "the student midwife" and "the supervising midwife"; the bed is built to a midwife's height; the misses were played to "every midwife in the country". |
 
 ## Word that is not a drift
 

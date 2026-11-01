@@ -1,55 +1,55 @@
-# Disposition for REV-15 (flow-critic read-aloud pass, M4, draft-05 of story B)
+# Disposition for REV-15 (flow-critic read-aloud pass, M4, draft-05 of story B; the revision is draft-06)
 
-The read-aloud pass found 1 MAJOR, 31 MINOR and 15 NIT stumbles. The M4 skill says to fix those and nothing else; that is a second line-editor pass on draft-05, and the token cap (23M, DEC-030) was reached before it could run, so every row is deferred to it with the raise as its trigger.
+The cap was raised (DEC-031) after these rows were first deferred; the writer of draft-06 then answered every MAJOR and MINOR of the pass except F8, and the NITs wait for the line edit after the next read-aloud pass.
 
 One row per finding in the review, each named exactly once. No extra rows, no blank rows.
 
 | Finding | Disposition | Detail |
 |---|---|---|
-| F1 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F2 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F3 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F4 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F5 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F6 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F7 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F8 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F9 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F10 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F11 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F12 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A MAJOR stumble, applied first when the edit runs |
-| F13 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F14 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F15 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F16 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F17 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F18 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F19 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F20 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F21 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F22 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F23 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F24 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F25 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F26 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F27 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F28 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F29 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F30 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F31 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F32 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F33 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F34 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F35 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F36 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F37 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F38 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F39 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F40 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F41 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F42 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud minor |
-| F43 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F44 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F45 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F46 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
-| F47 | DEFERRED | trigger: the second line edit on draft-05, which runs as soon as the human raises the token cap (23M is reached); owner: line-editor. A read-aloud nit |
+| F1 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F2 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F3 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F4 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F5 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F6 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F7 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F8 | REJECTED | the writer's reason: the twelve-past-two sentence is kept whole on instruction; its length is the contraction, and the blind judges named it the best passage in the draft |
+| F9 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F10 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F11 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F12 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F13 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F14 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F15 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F16 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F17 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F18 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F19 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F20 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F21 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F22 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F23 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F24 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F25 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F26 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F27 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F28 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F29 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F30 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F31 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F32 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F33 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F34 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F35 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F36 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F37 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F38 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F39 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F40 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F41 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F42 | FIXED | draft-06 — the stumble rewritten (the writer answered every MAJOR and MINOR of this pass except F8) |
+| F43 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F44 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F45 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F46 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
+| F47 | DEFERRED | trigger: the line edit after the read-aloud pass on draft-06; owner: line-editor (a NIT not passed to the writer) |
