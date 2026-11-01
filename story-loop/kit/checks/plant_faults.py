@@ -51,11 +51,30 @@ DRAFT_1 = "\n\n".join(STORY.strip().split("\n\n")[:-1])
 DRAFT_2 = STORY.strip()
 
 
+LIVE_SERIES = ("story/drafts/draft-*.md", "reviews/REV-*.md", "reviews/comparisons/round-*.json",
+               "reviews/comparisons/calibration-*.md", "reviews/comparisons/PLAN-*.md",
+               "story/STORY.md")   # the live project's M4 output names its final draft, which the fixture does not hold
+
+
+def scrub_live_series(root):
+    """The fixture is a copy of the live kit with its own two drafts, three reviews and two comparison
+    records written over the top. Anything the live kit holds in those series beyond what the fixture
+    writes (a draft-07, a REV-18, a round-02) survives a plain copy and becomes the fixture's newest
+    draft, its newest round and its open reviews, so the suite then passes or fails on the live project's
+    state instead of its own: it passed while the live kit had two drafts and failed the day it had
+    seven. Remove the live series before the fixture writes its own. The bypass this refuses is a suite
+    that is trustworthy only while the project is young."""
+    for pattern in LIVE_SERIES:
+        for f in Path(root).glob(pattern):
+            f.unlink()
+
+
 def build_fixture(root):
     shutil.copytree(KIT, root, dirs_exist_ok=True,
                     ignore=shutil.ignore_patterns("__pycache__", "*.pyc"))
     for gone in ("checks/faults.lock.json", "checks/caps.approved.json", "checks/gates.seen.json"):
         (Path(root) / gone).unlink(missing_ok=True)
+    scrub_live_series(root)
     put(root, "STATE.md", """# State
 
 **Milestone:** M4 — Final · **Updated:** 2026-09-07 · **Current draft:** draft-02
@@ -1044,7 +1063,20 @@ def c_artefact_fixed_row_survives_the_first_draft(r):
          "| F1 | FIXED | SPINE.md - the ending image was rewritten before any draft existed |")
 
 
-CONTROLS = [("a FIXED row naming SPINE.md, kept after the first draft exists", c_artefact_fixed_row_survives_the_first_draft, ["check_reviews.py"]), 
+def c_live_series_scrubbed_from_the_fixture(r):
+    """A live kit further along than the fixture: a draft-09, a REV-09 with an open MAJOR and a round-05
+    sit in the copy. Rebuilding the fixture over them must scrub them, so that the gate check reads the
+    fixture's own draft-02 and round-01 and passes; without the scrub draft-09 is the current draft and
+    round-01 is a round judged on an older draft."""
+    src = (Path(r) / "story/drafts/draft-02.md").read_text(encoding="utf-8")
+    put(r, "story/drafts/draft-09.md", src.replace("draft: 02", "draft: 09"))
+    put(r, "reviews/REV-09.md", "# REV-09 - a stray live review\n\n## Findings\nF1: MAJOR - no disposition exists for this.\n")
+    put(r, "reviews/comparisons/round-05.json", "{}")
+    build_fixture(r)
+
+
+CONTROLS = [("a live kit's newer draft, review and comparison record copied into the fixture, scrubbed by the builder", c_live_series_scrubbed_from_the_fixture, ["check_comparisons.py", "--milestone", "4", "--gate", "4"]),
+    ("a FIXED row naming SPINE.md, kept after the first draft exists", c_artefact_fixed_row_survives_the_first_draft, ["check_reviews.py"]), 
     ("the day-one claims check on a pristine kit with no drafts folder", c_pristine_kit_with_no_drafts_folder, ["check_claims.py"]),
     ("a new draft added in sequence", c_new_draft_in_sequence, ["check_manuscript.py", "--milestone", "4", "--complete"]),
     ("a repeated word declared as a motif", c_motif_declared, ["check_tics.py"]),

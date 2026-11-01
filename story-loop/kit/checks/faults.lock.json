@@ -11,10 +11,10 @@
   "check_state.py": "7dc7908b0850b2eb1e4c9bf8d2737e43d26f2e4e778884e9951538a2757388b1",
   "check_tics.py": "2ec8da5846e31cdc10be586d582a1985cdaca9a68b9d301d1d86f4f0b3c3b0ab",
   "common.py": "6484b8795c43479e3a57ca7fb2428b086530310188b12a931ba496124cd715bf",
-  "plant_faults.py": "033f6b474a3fb27e43539261c7e4aa57297eb9df29d88669525870bd57058a11",
+  "plant_faults.py": "82f5eb16ed54c8f59d55e9af426a74f9976b14705030c5fab20b80625c5b9814",
   "run_all_checks.py": "9acea6b64242373b94de6ffa635f4c31d24b800cb5aaf94175fb8dc552e5d662",
   "thresholds.json": "2d9cf4b8546bf589572a93ef0f6f2cdf186ae2a5e58fb167e6590a6f26d154bd"
  },
- "controls": 19,
+ "controls": 20,
  "faults": 76
 }
