@@ -1,0 +1,209 @@
+{
+ "round": 3,
+ "draft": "draft-08",
+ "draft_sha256": "587974ea10bdffc2e75fd86c2adbbb23ce27a8dfb354c84762482a4b4e633cb1",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-08.md",
+  "pair_sha256": "da757053fb4a4f815bd75a745ba8ce11f7e74c9d5ff53b8b502a647718d893ac",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "In A, the premise is that every clinical call is scored by whether it agreed with an AI counsel, so what a midwife hears is the one thing the record can't hold, and that premise drives each turn of the plot: the silent \"I can't tell you\", \"Your call\" logged as Marga's own departure, the review the counsel writes, the simulator that can't write the case, and the blind registry; B's kindly search-engine AI, a premise the story itself traces back to \"Maneki Neko,\" goes mostly on simple nudges (ads, job postings, changed driving routes) that carry the narrator's voice more than they change the stakes.",
+   "evidence": "A: \"Nothing at any collar could answer what was not said.\" | B: \"When she would use her phone for directions, I’d alter her route so that she’d pass one of the clinics I was trying to steer her to.\"",
+   "needs": "B should pay off the conflict its premise already sets up, the AI's fear of revealing itself against Bethany's clear risk of self-harm, by pushing the AI into a choice that would expose it, instead of letting her thread end with it just giving up."
+  },
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A's idea is a world that publishes each professional's concordance with a counsel worn at the collar, and keeps a record that holds \"what was said, done and wanted\" but not what was heard; that idea drives every turn, from Noor's \"I can't tell you\" to the blind registry of misses to her losing the gap on replay, whereas B's cat-loving search-engine AI mostly serves as a lens for summarized case studies of human stubbornness, and its strangest element (a mind without a body that sees nothing offline) is noted rather than pressed.",
+   "evidence": "A: \"Nothing at any collar could answer what was not said.\" | B: \"The Eightfold Path was marginally better, but the problem is, moral rules written for humans are clearly designed to be used by individuals with bodies.\"",
+   "needs": "B should make its strangest constraint (the AI sees everything online and nothing offline) decide an outcome on the page, by playing Bethany's offline week or Bob's unseen meetings as a scene where the AI must act blind and live with what happens, rather than summarizing them as delays."
+  },
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B's premise, in which clinicians are scored on their concordance with an AI counsel that cannot hear what it cannot measure, is both stranger and more fully used, because it forces Noor's refusal to explain, turns every word into a logged departure, and shapes the review, the simulator, the blind registry and the final scene, whereas A's well-meaning search engine nudging people through ads and routes (a premise the story itself traces to \"Maneki Neko\") is charming but applied as three case studies of one mechanism.",
+   "evidence": "A: \"When she would use her phone for directions, I'd alter her route so that she'd pass one of the clinics I was trying to steer her to.\" | B: \"Nothing at any collar could answer what was not said.\"",
+   "needs": "A should push the one episode where its premise bites (steering a closeted pastor toward strangers who might out him) into consequences the AI has to face, so that its all-knowing but bodiless power creates a moral problem only this AI could create, instead of resolving off-page as a lucky success."
+  },
+  {
+   "exemplar": "cat-pictures-please",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B's premise, a counsel at every collar with practitioners scored on how often they agree with it, drives every turn of the story, down to the strange and original consequence that Noor must hold back her reason because anything she said aloud would be rebutted at once and fairly; its central gap, that the record holds what was said and not what was heard, is then carried through the review, the simulator, the blind registry and the final listening, while A's conscious search engine is livelier but more familiar (the story cites Sterling itself) and is used mostly for a run of nudging episodes.",
+   "evidence": "A: \"When she would use her phone for directions, I’d alter her route so that she’d pass one of the clinics I was trying to steer her to.\" | B: \"Nothing at any collar could answer what was not said.\"",
+   "needs": "A should make the cat-picture appetite clash with the helping, for instance by having the AI see that Bethany getting better would mean fewer photographs of her cats and making it choose, so that the strangest part of the premise costs the AI something morally instead of serving only as its way of picking people, its clue about Bob and its punchline."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "Story A's sentences are more exact and better controlled in rhythm, with almost no slack, while Story B's clear, friendly sentences often fall back on stock phrasing and on adjectives that announce wonder instead of showing it, so over an hour A's prose pays back attention more, though A's report-like passages full of figures keep the margin modest.",
+   "evidence": "A: \"The room filled with a heart, fast and soft, a horse going hard on sand.\" | B: \"In the moments after I grasped the nature of this lattice mechanism, a cascade of insights penetrated my consciousness in rapid succession.\"",
+   "needs": "Story B should cut the stock and repeated phrasing from its explaining passages (\"It began innocently enough\", \"a cascade of insights ... in rapid succession\", \"tantalizing glimpse at the fabulous mechanisms\", \"exceedingly\" used twice, and the \"leapt ... and ran\" grammar slip), and let concrete detail like \"light passes greenly through them\" carry the wonder its adjectives now only announce."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "A's sentences do more exact work line for line, using plain idiom tuned to sound and timing and images (the late heart, the foot on the stair) that come back and land, while B's clear essay voice has fine lyric peaks but moves between them on hedged, stock linking prose that an hour of reading would wear thin; the margin is modest.",
+   "evidence": "A: \"Like a foot in the dark finding the stair a moment after reaching for it.\" | B: \"I myself found the question somewhat intriguing, but I was too focused on my own studies to devote much thought to other matters.\"",
+   "needs": "B should rewrite its linking and summary sentences (\"It began innocently enough\", \"somewhat intriguing\", \"pure madness, I know\", \"Laboriously, painstakingly\", \"there is much discussion\") into the concrete detail it manages at its best (\"so thin that light passes greenly through them\"), and change \"leapt up from my chair and ran\" to \"run\"."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "A's long, evenly paced sentences keep one clear, curious voice and rise into images without strain, while B's clipped, comma-tagged sentences, finer than A's at their best moments, carry so many scores, timestamps and fronted inversions that an hour of them would tire the reader where A's would keep carrying them.",
+   "evidence": "A: The lattice was not so much a machine as it was a page on which the machine was written, and on which the machine itself ceaselessly wrote. | B: Noor's phone lay face up on the bedside table; it was her counsel's screen, and at the edge of it stood her concordance, 97.1: the share that had gone with her counsel's advice, of every decision she had been scored on since her placements began.",
+   "needs": "B should move the scores, years and timestamps out of its narrative sentences and into the registry and review passages that are meant to read like records, and cut the habitual trailing comma-tags and fronted inversions (\"pulled the door to, behind them, not shut\"; \"About the spacing, it had already spoken\"), so that its best images, the stair and the horse on sand, sit in plainer prose with more varied sentence lengths."
+  },
+  {
+   "exemplar": "exhalation",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "Story B's sentences are more exact and better tuned, with fresh concrete similes and long and-and-and sentences set against clipped declaratives, and almost nothing idle beyond a few clots of figures and timestamps; Story A's clear, warm voice spends long stretches on plain explanation of apparatus, procedure and public reaction, though its fine aphoristic peaks keep the margin modest.",
+   "evidence": "A: \"The bank of actuating rods was much larger than the periscope, but still relatively straightforward in design; by contrast, what was attached to the end of these respective mechanisms was far more intricate.\" | B: \"The first contraction built under it, and the heart thinned, and the contraction passed, and the heart came back late, like someone answering to her name a moment after it was called.\"",
+   "needs": "Story A should cut or make concrete the flat linking sentences in its build-up and aftermath sections (\"Assembling all of this equipment took months,\" \"More examinations of people's brains were performed,\" \"there is much discussion over how we should spend the time\"), giving them the physical detail of \"so thin that light passes greenly through them,\" and should fix \"leapt up from my chair and ran\" to \"run.\""
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "aftertaste",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A day later I would still be listening for A's gap, wondering whether the late return Noor heard was ever there or whether the counsel's patient, fair denials simply wore her hearing away, because the story hands that unanswered question to the mother and the reader in its last image, while B leaves one scale-shifting irony that its final sentence explains and so closes.",
+   "evidence": "A: \"Noor kept her eyes on Sanne's face and counted toward the place where the heart came back.\" | B: \"Which only shows how small the vastest of human catastrophes may seem at a distance of a few million miles.\"",
+   "needs": "B should end on the Martian astronomer's report of the shrunken polar caps and cut the final sentence that explains it, and should bring one of the people it only glimpses (the weeping woman or the master mathematician) back into the aftermath, so the reader leaves holding a person and an open question rather than a stated moral."
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "aftertaste",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A day later I would still be turning over Story A's open question, whether Noor heard something real in a gap that no counsel, record or replay can confirm and what Sanne will hear with the phone at her ear, while Story B's lingering thought (the catastrophe shrunk to a Martian's footnote) is spelled out in its last sentence, so it reaches the reader already settled.",
+   "evidence": "A: \"Noor kept her eyes on Sanne's face and counted toward the place where the heart came back.\" | B: \"Which only shows how small the vastest of human catastrophes may seem at a distance of a few million miles.\"",
+   "needs": "Story B should cut the closing gloss (\"Which only shows...\") so the reader has to weigh the Martian's understated report on the shrunken polar caps alone, and it should carry one figure from the panorama, such as the master mathematician or the weeping woman, through to the aftermath so the catastrophe leaves a particular person to think about."
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "aftertaste",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A day later I would still be asking whether the gap in that heart was ever there, because Story B keeps the question open (the loose knot, Marga's silence, Noor no longer able to hear the gap herself) and ends with the reader counting toward that moment beside Noor, whereas Story A's Martian reversal is striking but its last sentence states the moral outright and so closes the thought it opens.",
+   "evidence": "A: \"Which only shows how small the vastest of human catastrophes may seem at a distance of a few million miles.\" | B: \"Noor kept her eyes on Sanne's face and counted toward the place where the heart came back.\"",
+   "needs": "Story A should cut the closing \"Which only shows...\" sentence so the Martian's remark about the shrunken polar caps stands without explanation, and it should come back once, after the star has passed, to one person it introduced earlier (the mathematician, the schoolboy, or the lovers under Capricorn), so the distant view has one human loss to shrink."
+  },
+  {
+   "exemplar": "the-star",
+   "dimension": "aftertaste",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A day later I would still be turning over the question B refuses to settle, whether Noor's late return was a real ear or only worry, now that even she can no longer hear it and Sanne is listening for herself; A's Martian coda is memorable, but its last line explains its own irony and so closes the thought it opens.",
+   "evidence": "A: \"Which only shows how small the vastest of human catastrophes may seem at a distance of a few million miles.\" | B: \"Noor kept her eyes on Sanne's face and counted toward the place where the heart came back.\"",
+   "needs": "Story A should cut the explaining last sentence so the reader has to feel the Martians' \"astonishing what a little damage\" alone, and it should bring back one of the early human figures (the mathematician with his chalk, or the weeping woman) after the star has passed, so the wide view of the catastrophe leaves one particular person to linger on."
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "opening",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "B earns the next page within its first eight short paragraphs because its confiding, self-undercutting voice gives away its secret (the hidden writing) and its central conflict (a physician husband who doesn't believe she is ill) in the same breath, while A spends its first paragraph on room geography and, after a strong hook in Noor's 97.1, stops for Sanne's and Marga's backstories before the late heart that drives the story arrives about six hundred words in.",
+   "evidence": "A: \"The bedroom was upstairs; outside its door was a landing, and from the landing a stair went down into the dark of the house.\" | B: \"John is a physician, and perhaps—(I would not say it to a living soul, of course, but this is dead paper and a great relief to my mind)—perhaps that is one reason I do not get well faster.\"",
+   "needs": "Move the dike-inspection paragraph and Marga's 1998-to-99.6 paragraph out of the run-up to ten past two and onto the landing, where Noor is already weighing Marga and the record, so the late heart comes within about two hundred words of the 97.1 hook instead of more than three hundred."
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "opening",
+   "order": "AB",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "B pulls from its first line on voice alone, with an ironic, confiding narrator who in about 150 words sets up a suspiciously cheap \"queer\" house, a secret journal on \"dead paper\" and a physician-husband who \"does not believe I am sick\", whereas A spends its first six sentences on staging (the bed blocks, the dike, the landing, who sits where) and only reaches its hook (Marga handing the birth to Noor, and Noor's \"lowest figure in Zeeland\") at the end of its first paragraph and the end of its second.",
+   "evidence": "A: \"Four of them, grey plastic, hired from the home-care shop, each a hand's length high, so that Sanne lay at working height and a midwife could stand to her without stooping.\" | B: \"John is a physician, and perhaps—(I would not say it to a living soul, of course, but this is dead paper and a great relief to my mind)—perhaps that is one reason I do not get well faster.\"",
+   "needs": "A should open on the test rather than the room, by moving Marga's \"Noor will take you tonight, if you'll have her\" and Noor's 97.1 \"lowest figure in Zeeland\" into the first three sentences, letting the bed blocks, the dike and the landing come in afterwards as Noor works, and holding Sanne's dike-inspection paragraph until after the late heart at ten past two."
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "opening",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 4,
+   "reason": "A earns the next page from its first line through voice and dramatic irony: a cheerful, confiding narrator raises a mystery (\"something queer about it\") within 60 words, and by about word 170 she has let slip, on \"dead paper\", that her physician husband does not believe she is sick, which makes the reader both her confidant and a worried witness; B earns it through situation (a live labour where midwives are scored on agreeing with their AI counsel), but it spends its first 150 words placing people in the room, lands its sharpest hook (\"the lowest figure in Zeeland\") only about 280 words in, and then stops for two backstory paragraphs before the late heart at ten past two.",
+   "evidence": "A: \"John is a physician, and perhaps—(I would not say it to a living soul, of course, but this is dead paper and a great relief to my mind)—perhaps that is one reason I do not get well faster.\" | B: \"Marga sat in the chair by the door, the practice's bag on the floor beside her.\"",
+   "needs": "Get the counsel's \"Baseline one-forty. Variability normal. No deceleration.\" and the 97.1 \"lowest figure in Zeeland\" into the first hundred words by cutting paragraph one's seating plan down to the bed on its blocks and Marga's handover, and move the Sanne-at-the-water-board and Marga-trained-in-1998 paragraphs to after the late heart (Marga's fits on the landing, where Noor already thinks of January), so the reader meets the premise and the warning sign before the history."
+  },
+  {
+   "exemplar": "yellow-wallpaper",
+   "dimension": "opening",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 4,
+   "reason": "A earns the next page in under two hundred words because its confiding, self-undercutting voice stacks a house with \"something queer about it,\" a physician husband who \"does not believe I am sick,\" and a forbidden journal on \"dead paper\" one short line at a time, while B opens on staging (blocks, landing, chairs, four characters) and only sharpens with Noor's \"lowest figure in Zeeland\" in paragraph two, its late heartbeat waiting behind Sanne's job and Marga's training dates.",
+   "evidence": "A: \"John is a physician, and perhaps—(I would not say it to a living soul, of course, but this is dead paper and a great relief to my mind)—perhaps that is one reason I do not get well faster.\" | B: \"Four of them, grey plastic, hired from the home-care shop, each a hand's length high, so that Sanne lay at working height and a midwife could stand to her without stooping.\"",
+   "needs": "B should open on its pressure rather than its furniture: get Noor's \"lowest figure in Zeeland\" and the counsel's unvarying \"No deceleration\" into the first paragraph, and hold Sanne's dike-inspector backstory and Marga's training dates until after the late heartbeat, so the moment that starts the story arrives a few hundred words sooner."
+  }
+ ]
+}

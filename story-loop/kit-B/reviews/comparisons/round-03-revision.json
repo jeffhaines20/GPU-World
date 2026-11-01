@@ -1,0 +1,231 @@
+{
+ "round": 3,
+ "draft": "draft-08",
+ "draft_sha256": "587974ea10bdffc2e75fd86c2adbbb23ce27a8dfb354c84762482a4b4e633cb1",
+ "calibration": {
+  "planted": "tic-pass, flattened-rhythm, ending-cut-to-summary",
+  "pair_file": "calibration-draft-08.md",
+  "pair_sha256": "da757053fb4a4f815bd75a745ba8ce11f7e74c9d5ff53b8b502a647718d893ac",
+  "verdicts": {
+   "craft-critic-a": "caught",
+   "craft-critic-b": "caught"
+  },
+  "passed": true
+ },
+ "pairs": [
+  {
+   "exemplar": "draft-07",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 2,
+   "reason": "Both drafts use the same idea almost word for word: a fair counsel whose record holds what was said, done and wanted but not what was heard, and a blind registry of misses that nobody can pass. So the margin is small, but at the close A pushes that registry harder by naming what goes into the blind test with the recording (the move, the section, the loose knot), which shows that acting on the ear has left the record only things done and found, and none of them can say which side of the mix the case belongs on.",
+   "evidence": "A: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with the move to Goes, the section and the knot.\" | B: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with what had come of it.\"",
+   "needs": "B should replace \"with what had come of it\" in the registry line with the record's own list of what goes with the recording (the move to Goes, the section, the loose knot), so the blind test plainly inherits the fact that the case can't be sorted, instead of leaving the reader to work that out.",
+   "lost": "The older draft opened on a short list of who owns what (\"The child was his\", \"the practice was hers\", \"She was Marga's student\"), asking whose each thing was before the record started answering (\"in the record, that departure was hers\"), and it introduced the review's knot passage with \"The knot had its paragraph\", which made the later \"The review had given it a paragraph\" an echo; the newer draft keeps only \"waiting for his child\" and lets the knot paragraph stand with no lead-in."
+  },
+  {
+   "exemplar": "draft-07",
+   "dimension": "idea",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 2,
+   "reason": "Both drafts carry the same idea: an ear that no test can verify, because the counsel answers anything said aloud and acting on what the ear hears erases the outcome that would test it. A uses that idea a little more at the close, because it sends the recording into the blind misses registry with the move, the section and the knot, which is the exact tangled evidence the second-years will not be able to sort, while B's \"with what had come of it\" leaves the registry vague; the margin is small.",
+   "evidence": "A: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with the move to Goes, the section and the knot.\" | B: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with what had come of it.\"",
+   "needs": "B should replace \"with what had come of it\" by naming what the registry receives with the recording (the transfer, the section, the loose knot), so that \"On which side of the mix it belonged, the line did not say\" lands on specific evidence that a blind test cannot sort.",
+   "lost": "The older draft's opening list of who belongs to whom (\"The child was his\", \"the practice was hers\", \"She was Marga's student\") is gone, which had raised the question of ownership before any counsel speaks and was later answered by the record's \"that departure was hers\", and so is the narrator's \"The knot had its paragraph\", which had made the later \"The review had given it a paragraph\" a callback."
+  },
+  {
+   "exemplar": "draft-07",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 2,
+   "reason": "The two drafts share the same counsel-and-concordance world almost line for line, but B pushes its strangest device further, the blind registry of misses: it lists what goes into the mix with the recording (the transfer, the section, the loose knot), which shows that acting on the ear destroyed the outcome that could have proved it, so the case can't be classified; the margin is small.",
+   "evidence": "A: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with what had come of it.\" | B: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with the move to Goes, the section and the knot.\"",
+   "needs": "In the registry sentence, A should replace \"with what had come of it\" with the actual items filed with the recording (the transfer to Goes, the section, the loose knot), so the blind mix the second-years will hear visibly holds the intervention that makes the case impossible to sort.",
+   "lost": "The newer draft cuts the older one's opening lines about who owns what (\"The child was his\", \"and the practice was hers\", \"She was Marga's student\"), so when the record later rules that \"that departure was hers\", it no longer answers the first paragraph's human account of whose call it is."
+  },
+  {
+   "exemplar": "draft-07",
+   "dimension": "idea",
+   "order": "BA",
+   "choice": "B",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 2,
+   "reason": "Both drafts use the same strange, fully worked premise, but B puts the story's own confound into that system: the move, the section and the knot all go to the misses registry, so the departure itself becomes data the blind test cannot sort, where A's \"what had come of it\" leaves that use implicit; the margin is small.",
+   "evidence": "A: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with what had come of it.\" | B: \"With Sanne's consent, the recording from 02:06 had gone to the registry for the misses, with the move to Goes, the section and the knot.\"",
+   "needs": "A should name what goes to the registry with the recording (the move to Goes, the section, the knot), so the reader holds the same facts the blind test would have to sort and sees why the line cannot say which side the recording belongs on.",
+   "lost": "B no longer opens with the flat list of who owns what (\"The child was his\", \"the practice was hers\", \"She was Marga's student\"), which set up, before any score appears, the chain of who answers for whom that the record later turns into whose departure is whose."
+  },
+  {
+   "exemplar": "draft-07",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 2,
+   "reason": "The two drafts match almost word for word, so the margin is small, but where they differ A's sentences are leaner: its opening shows Joost waiting and ends on \"Noor had the doppler\" right before \"She held it\", where B uses three flat statements of what belongs to whom (paragraph 15 repeats two of them), and A says \"The review had given it a paragraph\" once where B says it twice, which outweighs the awkward \"ten out of ten five minutes later\" that A adds.",
+   "evidence": "A: \"Joost sat at Sanne's head, waiting for his child.\" | B: \"The child was his.\"",
+   "needs": "B should introduce Joost, Marga and Noor in the opening by what they are doing rather than by flat statements of what is theirs (paragraph 15 says two of them again), and cut \"The knot had its paragraph.\" so that the review's paragraph on the knot is pointed out only once, in the last scene.",
+   "lost": "The older draft's opening gave each person a flat line saying what was theirs (\"The child was his\", \"the practice was hers\", \"She was Marga's student\"), which looked ahead to \"that departure was hers\", and its Apgar line \"and, at five minutes, ten out of ten\" read cleanly and gave the right timing, where the newer draft runs two numbers together in \"ten out of ten five minutes later\"."
+  },
+  {
+   "exemplar": "draft-07",
+   "dimension": "sentences",
+   "order": "AB",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "A reads more cleanly in the two places where the drafts really differ: its opening says \"waiting for his child\" where B stops for added possessives that trip over their own echo (\"the practice's bag … and the practice was hers\"), and its review loses B's \"The knot had its paragraph. 'The knot…'\" stutter, though the margin is small because the texts are otherwise word-for-word the same and B's Apgar sentence is the better one.",
+   "evidence": "A: Joost sat at Sanne's head, waiting for his child. | B: Marga sat in the chair by the door, the practice's bag on the floor beside her, and the practice was hers.",
+   "needs": "In the opening paragraph, B should cut \"The child was his.\", \", and the practice was hers\" and \"She was Marga's student.\" (the last two are said again in the Marga paragraph, and the first reads like a hint about who the father is) or fold them into the sentences they follow, and it should drop \"The knot had its paragraph.\", which \"The review had given it a paragraph\" already says later.",
+   "lost": "The older draft's Apgar sentence, \"nine out of ten at one minute and, at five minutes, ten out of ten\", was a clean reversal with the second score at its correct time, while the newer \"ten out of ten five minutes later\" crowds \"ten five\" together and, strictly read, puts the score a minute late; less important, its opening's run of possessives ended with Noor as the only person in the room who was owned rather than owning (\"She was Marga's student\")."
+  },
+  {
+   "exemplar": "draft-07",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-a",
+   "confidence": 3,
+   "reason": "The margin is small because the two drafts are almost word for word the same, but each of the four places where they differ reads better in A: its opening runs of short claims (\"The child was his\", \"and the practice was hers\", \"She was Marga's student\") set the hard, ledger-like rhythm the rest of the prose keeps, and its newborn-score sentence keeps a clean parallel, while B softens the opening to \"waiting for his child\" and piles the numbers up in the score sentence.",
+   "evidence": "A: \"The child came up out of Sanne grey and then not grey, a girl, and they scored her nine out of ten at one minute and, at five minutes, ten out of ten.\" | B: \"The child came up out of Sanne grey and then not grey, a girl, and they scored her nine out of ten at one minute and ten out of ten five minutes later.\"",
+   "needs": "B should go back to the parallel score phrasing (\"at one minute and, at five minutes, ten out of ten\"), which also fixes \"five minutes later\" pointing to the sixth minute, and swap \"waiting for his child\" for a short flat statement, like the rest of the opening, of what that person holds in the room.",
+   "lost": "B no longer opens by stating flatly what each person in the room holds (\"The child was his\", \"and the practice was hers\", \"She was Marga's student\"), so the later \"in the record, that departure was hers\" has nothing to echo, and the narrator's dry \"The knot had its paragraph.\" is gone as well."
+  },
+  {
+   "exemplar": "draft-07",
+   "dimension": "sentences",
+   "order": "BA",
+   "choice": "A",
+   "from_memory": false,
+   "judge": "craft-critic-b",
+   "confidence": 3,
+   "reason": "The drafts differ in only four places, so the margin is small, but in three of them A has the better-made sentence (the short possessive statements of the opening, the Apgar line that ends on \"ten out of ten\", the dry \"The knot had its paragraph.\"), while B's replacements are blander or clumsier, and only B's concrete \"the move to Goes, the section and the knot\" beats A's vaguer \"with what had come of it\".",
+   "evidence": "A: \"The child came up out of Sanne grey and then not grey, a girl, and they scored her nine out of ten at one minute and, at five minutes, ten out of ten.\" | B: \"The child came up out of Sanne grey and then not grey, a girl, and they scored her nine out of ten at one minute and ten out of ten five minutes later.\"",
+   "needs": "B should put back \"at one minute and, at five minutes, ten out of ten\" (it gets the Apgar timing right and ends on the score, not on \"later\"), replace the stock \"waiting for his child\" with a short flat statement like the rest of the opening, and keep its concrete registry list.",
+   "lost": "The newer draft no longer opens by giving each person in the room their claim in short possessive statements (\"The child was his\", \"the practice was hers\", \"She was Marga's student\"), and it also dropped the accurate, score-ending \"at five minutes\" Apgar wording and the narrator's dry \"The knot had its paragraph.\""
+  }
+ ],
+ "previous": "draft-07",
+ "baseline_signed": {
+  "draft": "draft-02",
+  "pairs": [
+   {
+    "exemplar": "draft-02",
+    "dimension": "idea",
+    "order": "AB",
+    "choice": "A",
+    "from_memory": false,
+    "judge": "craft-critic-a",
+    "confidence": 4,
+    "reason": "A puts the counsel-and-record world to work in more of the story: Sanne's own dike marks are checked against sensors, the father's one override is retold by younger pilots as a story about fog, Noor asks the simulator out loud for a case she would be right to overrule, and the 02:06 recording goes back into the same blind misses test that found no ears, with its answer left open; B states the same limits in narration and leaves the misses test closed off in backstory.",
+    "evidence": "A: \"On which side of the mix it belonged, the line did not say.\" | B: \"The misses were the other test, and she had sat those.\"",
+    "needs": "B needs its misses test and simulator to change the plot instead of being summarised: send the 02:06 recording into the blind mix without saying which side it belongs on, or have Noor ask the simulator aloud for a heart she would be right to overrule and let it answer.",
+    "lost": "The newer draft cuts B's closing line that four hundred plays had put the count in Noor so she did not need the number, so at the end A's Noor has nothing of her own to set against the counsel's four minutes and fifty-one seconds."
+   },
+   {
+    "exemplar": "draft-02",
+    "dimension": "idea",
+    "order": "AB",
+    "choice": "A",
+    "from_memory": false,
+    "judge": "craft-critic-b",
+    "confidence": 4,
+    "reason": "Both drafts build the same idea (the collar counsel, the concordance score, and a hearing the record cannot hold), but A puts it to work in more places, where B mostly states the same limits in narration: the record is searched for \"listen\" and turns up only worry, the father's overrule is passed down \"as a story about fog\", Noor asks the simulator outright for a case worth overruling, and the night's recording goes back into the blind misses test without saying which side it belongs on.",
+    "evidence": "A: \"On which side of the mix it belonged, the line did not say.\" | B: \"The simulator could not write a heart the counsel could not hear.\"",
+    "needs": "B should turn its narrated limits into events: have Noor ask the simulator for a case she would be right to overrule and let the counsel refuse in its own voice, and send the ten-past-two recording into the blind misses set so the night becomes test material that nobody can classify.",
+    "lost": "The older draft's last beat set Noor's own count against the counsel's 4:51 (\"Four hundred plays had put the count in her, and she did not need the number\"); the newer draft still has her counting but cuts the line saying she no longer needs the machine's number."
+   },
+   {
+    "exemplar": "draft-02",
+    "dimension": "idea",
+    "order": "BA",
+    "choice": "B",
+    "from_memory": false,
+    "judge": "craft-critic-a",
+    "confidence": 4,
+    "reason": "B uses the counsel-and-concordance idea in more places and with more consequence: Sanne's dike marks are scored against the board's sensors, the younger pilots hear the father's overrule \"as a story about fog\", the record search can't tell an ear from worry, and, strangest, the night's own recording goes blind into the misses test with no one able to say which side it belongs on; A states the same closed loop of simulator, misses and record mostly as backstory Noor has already sat.",
+    "evidence": "A: \"The simulator could not write a heart the counsel could not hear.\" | B: \"On which side of the mix it belonged, the line did not say.\"",
+    "needs": "A should turn its trap on its own night instead of recalling it, for instance by sending the 02:06 recording (with Sanne's consent) into the blind misses test with its label left undecided, and by having Noor ask the simulator outright for a heart she would be right to overrule, so the idea acts in the present rather than sitting in tests already taken.",
+    "lost": "On the bridge the older draft let the counsel go silent about the spacing contractions (\"Nothing had yet happened that it could speak to\"), which gave the machine a second blind spot and left it to call the section \"probably avoidable\" afterward over a stall it never warned of; the newer draft has it predict the stall, so both that limit and that irony are gone."
+   },
+   {
+    "exemplar": "draft-02",
+    "dimension": "idea",
+    "order": "BA",
+    "choice": "B",
+    "from_memory": false,
+    "judge": "craft-critic-b",
+    "confidence": 4,
+    "reason": "B puts the counsel-and-concordance idea to work across more of the world: Sanne's dike marks are checked against sensors, counsel-wearing pilots retell the father's override as a story about fog, and the simulator names what it cannot write; above all, the night's recording goes back into the blind misses test with no side assigned, so the impossibility of proving an ear becomes an event in the world, while A states the same trap well but treats the misses as a test already sat.",
+    "evidence": "A: \"The misses were the other test, and she had sat those.\" | B: \"On which side of the mix it belonged, the line did not say.\"",
+    "needs": "A should give the night a consequence inside the world's own machinery of proof, for instance by sending the 02:06 recording into the blind misses set with its side unlabelled, and should let concordance reach someone besides the midwives (such as Sanne's sensor-checked dike marks), so the idea changes the world and not only Noor.",
+    "lost": "On the bridge the older draft let Noor's counsel fall silent about the spacing contractions (\"Nothing had yet happened that it could speak to\"), which showed a second, quieter limit of the machine, while the newer draft has the counsel forecast the stall, so it is now wrong about nothing but the heart."
+   },
+   {
+    "exemplar": "draft-02",
+    "dimension": "sentences",
+    "order": "AB",
+    "choice": "B",
+    "from_memory": false,
+    "judge": "craft-critic-a",
+    "confidence": 3,
+    "reason": "B wins by a small margin because its sentences are tighter: it lets short phrasings like \"She asked her counsel for the night\", \"Marga had ten\" and \"the landing's, through a door pulled to\" carry the meaning, while A, even with its superb held-breath sentence at 02:12 and its good new lines about fog and the misses, keeps spelling those out in plainer sentences.",
+    "evidence": "A: \"Noor kept her eyes on Sanne's face and counted toward the place where the heart came back.\" | B: \"Noor counted on Sanne's face toward the place where the heart came back.\"",
+    "needs": "A needs one pass that cuts every clause explaining what the context already carries (\"for the recording of the night\" back to \"for the night\", \"Marga had ten weeks\" to \"Marga had ten\", \"kept her eyes on Sanne's face and counted\" to \"counted on Sanne's face\") and brings back the parallel \"whose child / whose practice / who was Marga's student\" introductions, while keeping the new held-breath sentence at 02:12.",
+    "lost": "The older draft let compressed lines carry their meaning without explaining it: the opening \"Joost, whose child this was ... Marga, whose practice it was ... Noor, who was Marga's student\", and the closing \"Four hundred plays had put the count in her\" and \"Noor counted on Sanne's face\" with its double meaning; the newer draft has either cut these or turned them into plain statements."
+   },
+   {
+    "exemplar": "draft-02",
+    "dimension": "sentences",
+    "order": "AB",
+    "choice": "A",
+    "from_memory": false,
+    "judge": "craft-critic-b",
+    "confidence": 3,
+    "reason": "A controls pace better: it holds the second listening in one long sentence, as if holding its breath, then cuts it short, and more of its lines carry meaning beyond the facts they give, while B's tighter compression produces some of the best single sentences in either draft but also more that go stiff or cryptic, so over an hour A is the better company by a modest margin.",
+    "evidence": "A: \"At twelve minutes past two the contraction came, and Sanne's breath dragged under it, and the heart thinned, and Marga's breath was beside the speaker and her eyes were on the wall above the bed, and the contraction let go, and there was the hiss of the instrument with nothing in it for the width of a breath held, and then the heart, back, at its rate, as late as before.\" | B: \"The heart came back, and it came back late again, by the same width, in the same place: the foot, the stair.\"",
+    "needs": "B should let the twelve-past-two listening run as one long held sentence that makes the silent gap audible, save \"the foot, the stair\" for the replay, and loosen its stiffest compressions and doubled pronouns, such as \"it said, for it to say how they went\", the Apgar \"nine and then ten\", and the closing \"counted on Sanne's face\".",
+    "lost": "The newer draft turned the older one's terse, withholding compressions into plainer, more explained sentences: the opening \"whose child this was / whose practice it was / who was Marga's student\" triplet, \"under hers\", \"the landing's, through a door pulled to\", and \"Marga had ten\"."
+   },
+   {
+    "exemplar": "draft-02",
+    "dimension": "sentences",
+    "order": "BA",
+    "choice": "A",
+    "from_memory": false,
+    "judge": "craft-critic-a",
+    "confidence": 3,
+    "reason": "A's sentences are tighter and have more rhythm, using inversion and ellipsis to carry the cadence, while B, despite a few better additions (the pilots who listen to the story \"as a story about fog\", the single held-breath sentence at 2:12), keeps unpacking those compressions into plainer, wordier explanation, so A is the prose I would rather spend an hour in, by a modest margin.",
+    "evidence": "A: \"Sanne had the pitch of it exactly: the landing's, through a door pulled to.\" | B: \"Sanne had the pitch of it exactly: how it had sounded from the landing, through the door that had not been shut.\"",
+    "needs": "B should go back through the lines where it spells out what could be clipped (\"the recording of the night\", \"It cut the stretch for her, not quite eight minutes\", \"nine out of ten at one minute and ten out of ten five minutes later\", \"because she had heard it in Sanne's bedroom\", \"Marga had ten weeks\") and cut each to its shortest, inverted form, leaving the fog line and the long 2:12 sentence as they are.",
+    "lost": "The newer draft no longer compresses and inverts its sentences: the \"whose child this was / whose practice it was\" triad at the opening, \"What was not said, nothing at any collar could answer\", and \"Four hundred plays had put the count in her\" near the close are either rewritten into plain word order or cut, and the older draft's clipped music goes with them."
+   },
+   {
+    "exemplar": "draft-02",
+    "dimension": "sentences",
+    "order": "BA",
+    "choice": "A",
+    "from_memory": false,
+    "judge": "craft-critic-b",
+    "confidence": 3,
+    "reason": "Story A's sentences are tighter and surer in rhythm, landing their key moments through ellipsis, inversion and compressed possessives that trust the reader, while Story B is clearer in its setup and has some fine new lines but keeps spelling out those same sentences, so A gives more pleasure per line over an hour, by a modest margin.",
+    "evidence": "A: Sanne had the pitch of it exactly: the landing's, through a door pulled to. | B: Sanne had the pitch of it exactly: how it had sounded from the landing, through the door that had not been shut.",
+    "needs": "Story B should tighten its explaining sentences at the moments meant to land: \"It said \"you\" to Sanne\" back to \"It said \"you\"\", \"Marga had ten weeks\" to \"Marga had ten\", \"Nothing at any collar could answer what was not said\" back to the inverted order, and the landing-pitch line to the possessive \"the landing's\"; it should keep its clarity fixes only where the old wording was knotty, such as the concordance definition.",
+    "lost": "The older draft made its sentences land by compression, in the opening \"whose child this was / whose practice it was / who was Marga's student\" triad, \"Marga had ten.\", \"It said \"you\".\", \"the landing's, through a door pulled to\" and the closing \"Four hundred plays had put the count in her\", and the newer draft has spelled each of these out or cut it."
+   }
+  ]
+ }
+}

@@ -824,6 +824,13 @@ def f_check_changed_without_rerunning(r):
     p.write_text(p.read_text(encoding="utf-8") + "\n# an innocent comment\n", encoding="utf-8")
 
 
+def f_signed_baseline_names_a_draft_the_heading_does_not(r):
+    """The G3 heading records that the human read draft-02, but the revision round's baseline_signed still
+    pairs against draft-01: the pairing that exists to show what the story lost since the human last saw
+    it is being made against a draft they never read."""
+    edit(r, "DECISIONS.md", "### G3 - 2026-09-06\n", "### G3 - 2026-09-06 (dictated in chat; draft-02)\n")
+
+
 FAULTS = [
     ("a draft over the length the human set", f_draft_too_long, ["check_manuscript.py", "--milestone", "4", "--complete"], "outside the range"),
     ("a TODO left in the manuscript", f_todo_left_in, ["check_manuscript.py"], "TODO"),
@@ -879,6 +886,7 @@ FAULTS = [
     ("a rubric with no dimension slugs, which would switch off slug validation", f_rubric_without_slugs, ["check_comparisons.py", "--milestone", "4", "--gate", "4"], "no dimension slugs"),
     ("a MAJOR rejected by citing a sibling review that never agreed", f_major_rejected_citing_only_a_sibling_review, ["check_reviews.py", "--gate", "4"], "without the human's say-so"),
     ("a revision round with no signed-draft baseline", f_revision_round_without_the_signed_baseline, ["check_comparisons.py", "--milestone", "4", "--gate", "4"], "no 'baseline_signed'"),
+    ("a signed-draft baseline naming a draft other than the one the G3 heading records", f_signed_baseline_names_a_draft_the_heading_does_not, ["check_comparisons.py", "--milestone", "4", "--gate", "4"], "the draft the human signed at G3 is draft-02"),
     ("a calibration recording no verdicts at all", f_calibration_verdicts_empty, ["check_comparisons.py", "--milestone", "4"], "records no verdicts"),
     ("a judge that voted and was never calibrated", f_uncalibrated_judge_voted, ["check_comparisons.py", "--milestone", "4"], "appear in no calibration verdict"),
     ("a calibration whose pair file is gone", f_calibration_pair_missing, ["check_comparisons.py", "--milestone", "4"], "no pair file that exists"),
@@ -1063,6 +1071,13 @@ def c_artefact_fixed_row_survives_the_first_draft(r):
          "| F1 | FIXED | SPINE.md - the ending image was rewritten before any draft existed |")
 
 
+def c_signed_draft_named_in_the_heading(r):
+    """The orchestrator's heading names the draft the G3 paragraph was dictated about, as the real kits do
+    ("...; story B, draft-02)"), and it is the draft baseline_signed pairs against; the human's paragraph
+    below it names none."""
+    edit(r, "DECISIONS.md", "### G3 - 2026-09-06\n", "### G3 - 2026-09-06 (dictated in chat, pasted verbatim; draft-01)\n")
+
+
 def c_live_series_scrubbed_from_the_fixture(r):
     """A live kit further along than the fixture: a draft-09, a REV-09 with an open MAJOR and a round-05
     sit in the copy. Rebuilding the fixture over them must scrub them, so that the gate check reads the
@@ -1075,7 +1090,8 @@ def c_live_series_scrubbed_from_the_fixture(r):
     build_fixture(r)
 
 
-CONTROLS = [("a live kit's newer draft, review and comparison record copied into the fixture, scrubbed by the builder", c_live_series_scrubbed_from_the_fixture, ["check_comparisons.py", "--milestone", "4", "--gate", "4"]),
+CONTROLS = [("the draft the human signed, named in the G3 heading and paired against", c_signed_draft_named_in_the_heading, ["check_comparisons.py", "--milestone", "4", "--gate", "4"]),
+    ("a live kit's newer draft, review and comparison record copied into the fixture, scrubbed by the builder", c_live_series_scrubbed_from_the_fixture, ["check_comparisons.py", "--milestone", "4", "--gate", "4"]),
     ("a FIXED row naming SPINE.md, kept after the first draft exists", c_artefact_fixed_row_survives_the_first_draft, ["check_reviews.py"]), 
     ("the day-one claims check on a pristine kit with no drafts folder", c_pristine_kit_with_no_drafts_folder, ["check_claims.py"]),
     ("a new draft added in sequence", c_new_draft_in_sequence, ["check_manuscript.py", "--milestone", "4", "--complete"]),

@@ -88,15 +88,23 @@ def signed_draft(root):
     A revision is judged against its immediate predecessor and against this. The first pairing catches a
     revision that went backwards; only the second catches a story that has been getting one degree
     smoother, and duller, every round.
+
+    The draft is read from the G3 section with its heading, because the heading is where the orchestrator
+    writes which draft the paragraph was dictated about ("...; story B, draft-02)"): the paragraph itself
+    is the human's and is never edited to add it, and a human who writes "Draft 02" in their own words has
+    named nothing this check can read. When neither heading nor paragraph names a draft, the first draft
+    is assumed, which is right for a project whose G3 came on draft-01 and wrong for any other, so the
+    heading must name it. The bypass this refuses: a baseline_signed naming whichever draft the round
+    found convenient instead of the one the human read.
     """
-    m = re.search(r"^###\s+G3\b[^\n]*\n(.*?)(?=^###\s+G|\Z)",
+    m = re.search(r"^(###\s+G3\b[^\n]*\n.*?)(?=^###\s+G|\Z)",
                   (Path(root) / "DECISIONS.md").read_text(encoding="utf-8"), re.S | re.M)
     if not m:
         return None
-    at = re.search(r"\bdraft-(\d+)\b", m.group(1))
+    at = re.search(r"\bdraft-(\d+)\b", m.group(1))     # the heading first, then the paragraph
     if at:
         return f"draft-{at.group(1)}"
-    ds = drafts(root)                               # the sign-off named no draft: the newest at G3 time
+    ds = drafts(root)                               # the sign-off named no draft: the first draft is assumed
     return ds[0][1].stem if ds else None
 
 

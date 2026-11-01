@@ -21,11 +21,11 @@ n = word_count(body)
 rows, full, mem, exemplars = [], 0, 0, set()
 for f in sorted((K / "reviews/comparisons").glob("round-*.json")):
     r = json.loads(f.read_text(encoding="utf-8"))
-    pairs = r["pairs"]
+    pairs = r["pairs"] + (r.get("baseline_signed") or {}).get("pairs", [])   # the signed-draft baseline counts too
     for e in pairs:
         if e.get("from_memory"): mem += 1
         else: full += 1
-    kind = "revision" if "previous" in r else "exemplar"
+    kind = ("revision, against the draft before it and against the draft the human signed" if r.get("baseline_signed") else "revision") if "previous" in r else "exemplar"
     by = {}
     for e in pairs:
         won = (e["order"] == "AB" and e["choice"] == "A") or (e["order"] == "BA" and e["choice"] == "B")

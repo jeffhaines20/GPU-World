@@ -16,56 +16,36 @@ expected to say why, or to suggest a fix. The orchestrator reads this section ev
 
 _(You read and answer in `../kit/INBOX.md`; the request is mirrored here so that this kit's checks and gates hold. The paths below are given from the repository root.)_
 
-**G4 is next, and one decision comes before it.** The story is `story-loop/kit-B/story/STORY.md`: draft-07, 3,627 words,
-under the title you gave, "A Training Decision" (DEC-032, tentative; the file says so). Since your G3 paragraph and the raise
-to 24M: draft-06 answered your two asks and your finding on the opening (the writer's list of similar constructions is under
-"Since you last looked"); the adversarial critic read it and signed off (REV-17: 0 MAJOR, 2 MINOR, 4 NIT); the read-aloud pass
-marked 28 stumbles (REV-18: 1 MAJOR, 14 MINOR, 13 NIT); the line editor fixed 20 of them, the MAJOR among them, and left 8 with
-reasons (draft-07; the list is `story-loop/kit-B/story/LINE-EDIT-2.md`). The cap is spent: about 23.9M of 24M.
+**G4: read it aloud, all of it, and sign.** The story is `story-loop/kit-B/story/STORY.md`: draft-08, 3,617 words, under
+"A Training Decision". The final round was judged on this exact text and the bar is met; every check the gate rests on
+passes except the one only your signature can pass. Reading aloud is the test, not a formality: every place your mouth
+stumbles is a finding, and the kit cannot find those for you. About twenty minutes. Then three to five sentences in your
+own words: what you saw, what you liked, what must change, whether it goes through. Either `make gate N=4` from
+`story-loop/kit-B` and a `### G4 — <date>` section under "## Gate sign-offs" in `story-loop/kit-B/DECISIONS.md`, or dictate
+it in chat and I paste it verbatim and say so, as at G3. If the paragraph says something must change, that is a finding
+and a round opens on it before the gate closes.
 
-**Two ways to finish. Say which, in one line.**
+**The round, in three lines** (the full record is under "Since you last looked"). (1) Against the exemplars: idea won
+4 of 4 against "Cat Pictures Please", aftertaste won 4 of 4 against "The Star", sentences against "Exhalation" went 3 of 4
+to the story but one judge split by order, so a tie, and opening lost 0 of 4 against "The Yellow Wallpaper". Two outright
+wins of four, one tie, one loss against one exemplar, four of four on supplied text, both judges calibrated: the bar is met.
+(2) Against draft-07: idea 4 of 4 to draft-08, every verdict crediting the registry line you asked for; sentences 2 to 2,
+and what the judges name lost is the other three changes you chose. (3) Against draft-02, the draft you signed: idea 4 of
+4 to draft-08; sentences 1 of 4, three verdicts preferring draft-02's compressions, a tie by the kit's rule. I reverted
+nothing: the losses named are your decisions, and the loop may not undo them on its own.
 
-1. **Finish the kit's way (my recommendation): raise the cap to about 25.5M.** That buys the one thing the loop's own rules
-   still require before you are asked to read: a comparison round judged on the final text (calibration, four exemplars, both
-   orders, and the revision pairs against draft-06 and against draft-02, the draft you signed; about 1.3M). Without it the kit's
-   pre-gate check fails on exactly that line (`check_comparisons.py`: round-02.json judged draft-02, but the current draft is
-   draft-07), and the kit's rule is that a failing check is not a gate, because your reading is spent once. The same raise
-   carries the five small changes below if you want them, made before the round so that the round judges the text you will
-   read. Then I write the G4 request proper, with the round's result in it.
-2. **Submit as is: read draft-07 aloud and sign G4 now.** Reading aloud is the test, not a formality: every place your mouth
-   stumbles is a finding, and the kit cannot find those for you. About twenty minutes. Then `make gate N=4` and, in
-   `story-loop/kit-B/DECISIONS.md` under "## Gate sign-offs", a `### G4 — <date>` section of three to five sentences in your
-   own words: what you saw, what you liked, what must change, whether it goes through (or dictate it in chat and I paste it
-   verbatim, as before). The colophon at the end of STORY.md says what was not done: no comparison round on the final text,
-   no originality critic on any draft, and the items below if you leave them.
+**One question to answer with the reading, and the cost of a yes.** Keep draft-08 as it is, or restore any of the three
+the judges name: the opening's three tags, "The knot had its paragraph.", or the Apgar wording ("nine out of ten at one
+minute and, at five minutes, ten out of ten")? A yes makes a draft-09, and the kit's gate check then needs a new
+comparison round on it, because a round is evidence about the draft it read: about 2.3M more, so a raise to about 29.5M.
+A no, and you read and sign draft-08. My view, for what it is worth: the margins on all three are small (the judges'
+confidence 2 to 3), and the Apgar line is the one with a fact in it (the bible has the second score at five minutes, and
+"five minutes later" reads as six), but changing only that would still mean running the round again.
 
-**Five one-line yes-or-no items from the adversarial critic's last round** (REV-17; its words, with what stands against them).
-They fall outside a line edit, the cap does not carry a writer pass, and each is made in one line-editor touch on your yes:
-- (a) **The review's two sentences.** The review now says, in the counsel's voice, "The record holds what was said, done and
-  wanted. It does not hold what was heard, and I cannot report what it does not hold." The critic wants it cut back to
-  draft-02's one sentence ("I cannot report a hearing that left no trace in the record"), because the record's limit is now
-  said aloud three times in four sections and Friday's new line, "I cannot write a heart that holds what I cannot hear", rhymes
-  with it. Against that: when the sentence was cut in draft-02, every one of the judges' four verdicts named the cut as the
-  loss, and the writer restored it in draft-03 on that record. Keep, or cut?
-- (b) **The opening's three tags.** Draft-06 took out the "whose" constructions you flagged and kept what they said as three
-  short clauses after the verbs: "The child was his.", "and the practice was hers", "She was Marga's student." The critic says
-  the pattern is split, not gone, and "a reader who asked for it to go will still hear it"; its fix is to cut all three (the
-  bag, Marga's line in the doorway and "Noor was her last student" six paragraphs on carry everything they said), so that the
-  paragraph ends on "Noor had the doppler." Keep the three, or cut them?
-- (c) Cut "The knot had its paragraph." from the review scene, so that the last scene's "The review had given it a
-  paragraph." arrives once, as a discovery? Yes or no.
-- (d) In the sentence that sends the recording to the misses, name what came of it (the section, the knot) in place of the
-  phrase "with what had come of it"? Yes or no.
-- (e) "nine out of ten at one minute and ten at five" for the Apgar line's "nine out of ten at one minute and, at five
-  minutes, ten out of ten"? Yes or no.
+**Findings we decided not to act on** (MAJORs answered with REJECTED since the last gate): none. Every MAJOR since G3 is
+FIXED. One MINOR was closed as REJECTED since the last gate, REV-17 F1, under your decision (a).
 
-**Findings we decided not to act on** (MAJORs answered with REJECTED since the last gate): none. Every MAJOR raised since G3
-is FIXED: the read-aloud MAJOR (REV-18 F20) in draft-07, and the opening MAJOR you raised in draft-06. The 8 read-aloud marks
-left and the five items above are MINOR or NIT, each with its reason in `story-loop/kit-B/reviews/REV-18-disposition.md` and
-`REV-17-disposition.md`.
-
-**The title.** "A Training Decision" stands as tentative, in your words (DEC-032). Confirm it, or give another, in the same
-line; the final file is regenerated with it.
+**The title** stands as tentative, in your words (DEC-036); the file carries it.
 
 ---
 
@@ -496,6 +476,8 @@ states the economics in the first scene. P-14 *Four Thousand a Day* (cell 4): 21
 curiosity more than need. Their cards and probes are in `design/premises/`.
 
 ## Since you last looked
+
+- **2026-11-01, story B: draft-08, and round 3, the final round, judged on it.** Three lines. (1) Findings: no critic round this time; the four changes you chose (DEC-035) were made by the line editor as draft-08 (story/LINE-EDIT-3.md: the opening's three tags cut, with "Joost sat at Sanne's head, waiting for his child." carrying that he is the father; "The knot had its paragraph." cut; "with the move to Goes, the section and the knot" for "with what had come of it"; the Apgar line in your words, with the editor's note that "five minutes later" reads as six minutes against the bible's five); REV-17's rows are closed (F1 REJECTED under your (a), F2 to F5 FIXED in draft-08, F6 in draft-07). (2) The round on draft-08 (reviews/comparisons/round-03.json; plan declared first in PLAN-round-03.md; both judges calibrated on calibration-draft-08.md, caught both orders): idea against "Cat Pictures Please" won 4 of 4 ("that premise drives each turn of the plot"); aftertaste against "The Star" won 4 of 4 (all four verdicts: the open question of the gap, against a last line that explains its own irony); sentences against "Exhalation" 3 of 4 to the story, but judge a split by order, so a tie under the kit's rule; opening against "The Yellow Wallpaper" lost 0 of 4, both judges saying the same thing: the first page spends about a hundred and fifty words on the room and who sits where, lands its hook (the 97.1, "the lowest figure in Zeeland") about 280 words in, and then stops for Sanne's and Marga's backstories before the late heart, which arrives three to six hundred words in; three of the four verdicts suggest moving those two paragraphs to the landing. The bar: 4 exemplars, 4 of 4 on supplied text, 2 outright wins of 4, 1 tie (a quarter), no dimension lost against two exemplars: met. (3) The revision pairs (round-03-revision.json): against draft-07, idea 4 of 4 to draft-08, all four crediting the named registry line ("shows that acting on the ear destroyed the outcome that could have proved it"), sentences 2 to 2 with both judges choosing differently across the orders, and what every one of them names lost is the opening's three tags ("set up, before any score appears, the chain of who answers for whom"), "The knot had its paragraph." (the callback), and the Apgar wording (the parallel "and, at five minutes, ten out of ten" read as cleaner and as the right timing); against draft-02, the draft you signed, idea 4 of 4 to draft-08 (two verdicts name a loss there too: the bridge counsel's silence about the spacing contractions, "Nothing had yet happened that it could speak to", which the later drafts replaced with a forecast of the stall), sentences 1 of 4, the three verdicts for draft-02 naming the compressions the flow passes unpacked: "Marga had ten", "the landing's, through a door pulled to", "Four hundred plays had put the count in her", "Noor counted on Sanne's face", and the "whose" triad you had removed. Nothing reverted: see "Waiting on you". Tokens about 26.5M of 27M (the round 2.22M for 36 verdicts, the touch 0.17M). `run_all_checks.py --milestone 4 --complete --pregate 4` passes.
 
 - **2026-11-01, story B: draft-06 and draft-07; the last critics; the cap spent.** Three lines. (1) Findings by severity per critic, both on draft-06: adversarial-critic (REV-17) 0 MAJOR, 2 MINOR, 4 NIT, and SIGN-OFF extended from draft-02 to draft-06 ("Nothing is above MINOR, and no mechanism is missing"; on your G3 ask, in its words: "three of the four consent beats show the tension. The fourth shows it in Noor's request and states it in the counsel's answer"); flow-critic read-aloud pass (REV-18) 1 MAJOR, 14 MINOR, 13 NIT, 15 re-reads, and where the story first felt long: the landing, about 250 words of thought between Marga's "I didn't hear it" and Noor's "Let me". (2) Where the new findings fell: the MAJOR (REV-18 F20) and two of the adversarial critic's rows (F1, F4) are in text draft-06 added for your G3 ask, the consent beats; the rest are stumbles that survived the first line edit or that the G3 revision made. Draft-07 (the line editor: 20 of 28 marks fixed, the MAJOR among them, 8 left with reasons, story/LINE-EDIT-2.md) answers the stumbles; REV-17's four asks outside a line edit are under "Waiting on you" as yes-or-no items, with the judges' record beside the critic's words where they disagree. No MAJOR is open; `run_all_checks.py --milestone 4 --complete` passes, and the pre-gate run fails on one line only, the missing round on the final text. (3) The comparison: none this round, because the cap does not carry one (about 23.9M of 24M spent: draft-06 0.17M, the two critics 0.32M, the line edit 0.24M, and my own context). The record stands where it stood: the bar met on draft-02 in round 2; draft-03 over draft-02 on idea 4 of 4 and under on sentences 1 of 4; drafts 04 to 07 unjudged. `story/STORY.md` carries draft-07 under your tentative title and a colophon that says all of this.
 
